@@ -4,10 +4,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Alaska Soil Data Bank Project Metadata"
+  title: "TMCA Urban Soil Mapping"
   author: "N.B. Pearson"
   date: "06-December-2023"
-  cover-image: "aksdb-badge-02.png"
+  cover-image: "TCMA-urban-soil-mapping-badge-13.png"
   
   chapters:
     - index.qmd
