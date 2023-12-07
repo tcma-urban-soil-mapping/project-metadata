@@ -1,0 +1,9 @@
+# Metadata for Deliverable 1: Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation
+
+## Approach
+
+Conduct field work to collect additional data points.
+
+## Deliverables
+
+Produce an updated urban soil survey for the Minneapolis/Saint Paul/Bloomington Metropolitan Statistical Area and develop a dynamic soil property (DSP) investigation.
