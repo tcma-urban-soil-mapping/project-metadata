@@ -1,0 +1,81 @@
+# Technical Kickoff 15DEC2023
+
+## Introduction
+
+The meeting was an informal kickoff discussion regarding the technical aspects of an agreement between NRCS and the University of Minnesota to update the urban soil survey for the Twin Cities metropolitan area. Additional objectives are to promote understanding of dynamic soil properties in urban environments and support community outreach and engagement.
+
+## Attendees
+
+- **NRCS Minnesota**
+  - Joe Brennan - State Soil Scientist 
+  - Stephanie McLain - State Soil Health Specialist
+  - Matt Lundberg - Urban Soil Conservationist
+- **NRCS Soil & Plant Science Division**  
+  - Francine Lheritier - National Resource Soil Scientist 
+  - Randy Riddle - Senior Soil Scientist for Urban Soil Survey
+  - Chris Tecklenburg - Regional Director 
+  - Dan Wing - Senior Regional Soil Scientist
+- **University of Minnesota**
+  - Nick Jelinski - Associate Professor 
+  - Nora Pearson - Staff Researcher
+
+## Key Discussion Points
+
+### Project Scope & Boundaries
+
+- The project extent is the contiguous census-qualifying urbanized area within the Minnesota MSP metropolitan statistical area. An initial task is to delineate the precise boundaries.
+
+### Data Format & Delivery
+
+- Initial plan is to produce raster products that can be converted to vectors later if needed.
+- Tabular data quality is a priority to enable integration.
+- All data collected, excluding any confidential/private data, will be delivered to Nasus.
+
+### Metals & Contaminants 
+
+- Existing local data on soil metals will help establish contamination risk zones to aid mapping.
+- End products will not publish contamination risk maps, but use risk factors to guide mapping concepts.
+
+### CEMA 207 Assessments
+
+- Guidance documents produced through this project will help field offices implement CEMA 207 urban soil assessments. 
+- Improved technical references developed here may support initial contamination site history surveys if adequate legacy data exists.
+
+### Dynamic Soil Property (DSP) Investigations
+
+- Francine's group will provide guidance on setting up urban DSP projects. Additional meetings planned.
+- Complexity added by lack of reference sites and soil uniformity.
+- Recently started related project in Los Angeles focusing on climate resiliency and carbon dynamics.
+
+### Staffing & Roles
+
+- University leads field work, NRCS provides technical guidance.  
+- Total 1.5 years of NRCS staff time committed.
+- Albert Lea field office designated main point of contact.
+- Dan Wing will serve as senior regional quality assurance contact.
+
+### Potential Training Workshops
+
+- Host urban soils field week / workshop during project reviews to train NRCS staff and engage stakeholders.
+- Workshop proceedings could produce 3 deliverables:
+    1. NRCS soil science training 
+    2. Professional development for groups like MAPSS
+    3. Community outreach   
+
+### Project Management & Collaboration
+
+- University has set up public [GitHub repository](https://github.com/tc-urban-soil-mapping) for transparency.
+- Living [metadata eBook](https://tc-urban-soil-mapping.github.io/project-metadata/) will document process and archive deliverables. 
+- Schedule quarterly reviews and annual field visits.
+
+## Action Items
+
+- Define precise project area boundaries
+- Set up DSP planning meeting for January 12th  
+- Outline roles for local NRCS offices
+- Plan March 2023 in-person/online kickoff meeting
+- Invite broader stakeholder participation in kickoff
+
+## Conclusion
+
+The informal kickoff meeting connected key personnel, aligned on high-level plans, discussed logistics, and identified next steps. Additional meetings planned for January and March 2023 to further develop technical details surrounding mapping, DSP, data management, and more.

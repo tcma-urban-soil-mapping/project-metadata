@@ -11,11 +11,17 @@ book:
   
   chapters:
     - index.qmd
-    - deliverable1.qmd
-    - deliverable2.qmd
-    - deliverable3.qmd
-    - deliverable4.qmd
-    - datamanagementplan.qmd
+    - part: "Deliverables and Data Management"
+      chapters:
+      - deliverable1.qmd
+      - deliverable2.qmd
+      - deliverable3.qmd
+      - deliverable4.qmd
+      - datamanagementplan.qmd
+    - part: discussion-log-meeting-minutes.qmd
+      chapters:
+      - minutes-15DEC2023-admin-kickoff.qmd
+      - minutes-15DEC2023-technical-kickoff.qmd
     # - authorship-guidelines.qmd
     - summary.qmd
     - references.qmd

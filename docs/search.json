@@ -133,9 +133,114 @@
     "text": "5.4 Data Security\n[From GEMS Platform FAQ] All GEMS staff members, including those at the data center at MSI who maintain GEMS have been fully trained on HIPAA privacy protocols. GEMS also has policies reviewed by MSI’s Research Security and Compliance Analyst. All GEMS staff with access to private data sign an internal non-disclosure agreement designed by UMN’s Office of the General Counsel. All operations within the platform are isolated into encrypted containers where no other users have access (hence no snooping). Data entering or leaving these containers is also encrypted to prevent opportunity for leaks. All identifiable data residing in the platform are legally deemed private and non-public by the State of Minnesota, and hence not FOIAble. Finally, we provide users with various anonymization tools to de-identify their own data sets prior to sharing. These include removal of named identifiers, fuzzing and jittering of geo-coordinates and geospatial aggregation.\n\n5.4.1 Roles and Responsibilities\nPI Jelinski will be responsible ensuring the data management plan is followed by all project participants and will also be responsible for reporting compliance with this data management plan to NRCS. The annual and final reports to NRCS will have an expanded data management plan as an integral component, and will include progress in data sharing (e.g., statistics on shared and accessed data sets, publications, DOIs, outreach materials). The final report will describe the data that was produced during the award period and the components that will be stored and preserved (including the expected duration) after the award ends. The GEMS platform data steward will ensure that the data management plan will be compliant with the Research Terms and Conditions that govern NRCS-funded projects."
   },
   {
+    "objectID": "discussion-log-meeting-minutes.html#contents",
+    "href": "discussion-log-meeting-minutes.html#contents",
+    "title": "Discussion Log / Meeting Minutes",
+    "section": "Contents",
+    "text": "Contents\nThis is an archive of all project discussions/meeting minutes of consequence."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#introduction",
+    "href": "minutes-15DEC2023-admin-kickoff.html#introduction",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.1 Introduction",
+    "text": "6.1 Introduction\nThe document contains meeting minutes from an administrative kick off meeting between representatives from the USDA Natural Resources Conservation Service (NRCS) in Minnesota and the University of Minnesota. The purpose of the meeting was to discuss a recently finalized agreement between the two organizations to collaborate on updating and improving soil survey data for urban areas in Minnesota."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#attendees",
+    "href": "minutes-15DEC2023-admin-kickoff.html#attendees",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.2 Attendees",
+    "text": "6.2 Attendees\nThe attendees on the call included:\n\nJoe Brennan, Minnesota State Soil Scientist, NRCS\nStephanie McLain, Minnesota State Soil Health Specialist, NRCS\n\nCrystal Orsello, Agreement Specialist, NRCS\nNic Jelinski, Associate Professor, UMN Department of Soil, Water and Climate\nNora Pearson, Researcher, UMN Department of Soil, Water and Climate\nSarah Hulke, Grants Administrator, UMN\nPotential future contacts: Todd Stroessner (UMN financial reporting) and Nicole Jones (UMN departmental accountant)"
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#purpose-of-agreement",
+    "href": "minutes-15DEC2023-admin-kickoff.html#purpose-of-agreement",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.3 Purpose of Agreement",
+    "text": "6.3 Purpose of Agreement\nThe purpose of the agreement is to leverage collective expertise and resources to improve soil characterization data for urban areas in Minnesota. Current legacy soil survey products are outdated and provide limited utility. The agreement will facilitate understanding of dynamic urban soil properties and support expanded use of new tools for urban agriculture."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#budget-overview",
+    "href": "minutes-15DEC2023-admin-kickoff.html#budget-overview",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.4 Budget Overview",
+    "text": "6.4 Budget Overview\nThe total budget is $551,984 over a 3 year period."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#reporting-requirements",
+    "href": "minutes-15DEC2023-admin-kickoff.html#reporting-requirements",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.5 Reporting Requirements",
+    "text": "6.5 Reporting Requirements\nPerformance reports are required semiannually. Nick Jelinski (UMN) will submit performance reports. Financial reports (SF-425) will be submitted quarterly by Todd Stroessner (UMN)."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#key-responsibilities",
+    "href": "minutes-15DEC2023-admin-kickoff.html#key-responsibilities",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.6 Key Responsibilities",
+    "text": "6.6 Key Responsibilities\nJoe Brennan is the Program Manager and will approve reports after review. Technical execution of the project will be covered in a separate technical discussion."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#budget-adjustments",
+    "href": "minutes-15DEC2023-admin-kickoff.html#budget-adjustments",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.7 Budget Adjustments",
+    "text": "6.7 Budget Adjustments\nBudget realignments of up to 10% between direct cost categories require written notification but not formal approval. However, keeping the administrative contacts informed of all changes, even small ones, is encouraged for transparency."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#invoicing-and-payments",
+    "href": "minutes-15DEC2023-admin-kickoff.html#invoicing-and-payments",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.8 Invoicing and Payments",
+    "text": "6.8 Invoicing and Payments\nCrystal will provide a shared Excel tracking spreadsheet to support invoicing, documentation and reporting. This will help streamline the submission process and translation of expenses into appropriate cost categories."
+  },
+  {
+    "objectID": "minutes-15DEC2023-admin-kickoff.html#future-contacts",
+    "href": "minutes-15DEC2023-admin-kickoff.html#future-contacts",
+    "title": "6  Administrative Kickoff 15DEC2023",
+    "section": "6.9 Future Contacts",
+    "text": "6.9 Future Contacts\nAdditional UMN personnel were identified who will support financial management, invoicing, reporting and general administrative functions related to execution of the agreement. These include Nicole Jones and Todd Stroessner.\nThe remainder of the document covered technical objectives, scope of work and project execution details, which were deemed outside of the scope of summarizing the key administrative discussion points from this kickoff meeting."
+  },
+  {
+    "objectID": "minutes-15DEC2023-technical-kickoff.html#introduction",
+    "href": "minutes-15DEC2023-technical-kickoff.html#introduction",
+    "title": "7  Technical Kickoff 15DEC2023",
+    "section": "7.1 Introduction",
+    "text": "7.1 Introduction\nThe meeting was an informal kickoff discussion regarding the technical aspects of an agreement between NRCS and the University of Minnesota to update the urban soil survey for the Twin Cities metropolitan area. Additional objectives are to promote understanding of dynamic soil properties in urban environments and support community outreach and engagement."
+  },
+  {
+    "objectID": "minutes-15DEC2023-technical-kickoff.html#attendees",
+    "href": "minutes-15DEC2023-technical-kickoff.html#attendees",
+    "title": "7  Technical Kickoff 15DEC2023",
+    "section": "7.2 Attendees",
+    "text": "7.2 Attendees\n\nNRCS Minnesota\n\nJoe Brennan - State Soil Scientist\nStephanie McLain - State Soil Health Specialist\nMatt Lundberg - Urban Soil Conservationist\n\nNRCS Soil & Plant Science Division\n\nFrancine Lheritier - National Resource Soil Scientist\nRandy Riddle - Senior Soil Scientist for Urban Soil Survey\nChris Tecklenburg - Regional Director\nDan Wing - Senior Regional Soil Scientist\n\nUniversity of Minnesota\n\nNick Jelinski - Associate Professor\nNora Pearson - Staff Researcher"
+  },
+  {
+    "objectID": "minutes-15DEC2023-technical-kickoff.html#key-discussion-points",
+    "href": "minutes-15DEC2023-technical-kickoff.html#key-discussion-points",
+    "title": "7  Technical Kickoff 15DEC2023",
+    "section": "7.3 Key Discussion Points",
+    "text": "7.3 Key Discussion Points\n\n7.3.1 Project Scope & Boundaries\n\nThe project extent is the contiguous census-qualifying urbanized area within the Minnesota MSP metropolitan statistical area. An initial task is to delineate the precise boundaries.\n\n\n\n7.3.2 Data Format & Delivery\n\nInitial plan is to produce raster products that can be converted to vectors later if needed.\nTabular data quality is a priority to enable integration.\nAll data collected, excluding any confidential/private data, will be delivered to Nasus.\n\n\n\n7.3.3 Metals & Contaminants\n\nExisting local data on soil metals will help establish contamination risk zones to aid mapping.\nEnd products will not publish contamination risk maps, but use risk factors to guide mapping concepts.\n\n\n\n7.3.4 CEMA 207 Assessments\n\nGuidance documents produced through this project will help field offices implement CEMA 207 urban soil assessments.\nImproved technical references developed here may support initial contamination site history surveys if adequate legacy data exists.\n\n\n\n7.3.5 Dynamic Soil Property (DSP) Investigations\n\nFrancine’s group will provide guidance on setting up urban DSP projects. Additional meetings planned.\nComplexity added by lack of reference sites and soil uniformity.\nRecently started related project in Los Angeles focusing on climate resiliency and carbon dynamics.\n\n\n\n7.3.6 Staffing & Roles\n\nUniversity leads field work, NRCS provides technical guidance.\n\nTotal 1.5 years of NRCS staff time committed.\nAlbert Lea field office designated main point of contact.\nDan Wing will serve as senior regional quality assurance contact.\n\n\n\n7.3.7 Potential Training Workshops\n\nHost urban soils field week / workshop during project reviews to train NRCS staff and engage stakeholders.\nWorkshop proceedings could produce 3 deliverables:\n\nNRCS soil science training\nProfessional development for groups like MAPSS\nCommunity outreach\n\n\n\n\n7.3.8 Project Management & Collaboration\n\nUniversity has set up public GitHub repository for transparency.\nLiving metadata eBook will document process and archive deliverables.\nSchedule quarterly reviews and annual field visits."
+  },
+  {
+    "objectID": "minutes-15DEC2023-technical-kickoff.html#action-items",
+    "href": "minutes-15DEC2023-technical-kickoff.html#action-items",
+    "title": "7  Technical Kickoff 15DEC2023",
+    "section": "7.4 Action Items",
+    "text": "7.4 Action Items\n\nDefine precise project area boundaries\nSet up DSP planning meeting for January 12th\n\nOutline roles for local NRCS offices\nPlan March 2023 in-person/online kickoff meeting\nInvite broader stakeholder participation in kickoff"
+  },
+  {
+    "objectID": "minutes-15DEC2023-technical-kickoff.html#conclusion",
+    "href": "minutes-15DEC2023-technical-kickoff.html#conclusion",
+    "title": "7  Technical Kickoff 15DEC2023",
+    "section": "7.5 Conclusion",
+    "text": "7.5 Conclusion\nThe informal kickoff meeting connected key personnel, aligned on high-level plans, discussed logistics, and identified next steps. Additional meetings planned for January and March 2023 to further develop technical details surrounding mapping, DSP, data management, and more."
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "6  Summary",
+    "title": "8  Summary",
     "section": "",
     "text": "Do we need a summary chapter?"
   }
