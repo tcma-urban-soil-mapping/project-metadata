@@ -28,7 +28,7 @@ This document contains metadata for each of the grant deliverables, as well as g
 
 ## Co-Authorship and Data Sharing Agreements
 
-[Co-authorship agreement](co-authorship-template.qmd) 
+[Co-authorship agreement](co-authorship-template.qmd)
 
 [Data Sharing agreement](data-use-and-sharing.qmd)
 

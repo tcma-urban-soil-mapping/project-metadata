@@ -2,7 +2,7 @@
 
 # General Criteria for prospective co-authorship in the context of this project.
 
-A co-author should be someone "who contributes a minimum of 2 of the 6 "key" parts of the project: getting funded, conceiving the idea, designing the project, collecting the data, analyzing the data, writing/revising/reviewing the manuscript."\[\^1\]. This rule can be adapted to data contributors in the context of what is likely to be a large data acquisition effort for this project. If someone was substantially involved in data collection or curation on datasets that form a core part of this work and also provides substantive comment or feedback on a manuscript draft, they should be considered for co-authorship.
+A co-author should be someone "who contributes a minimum of 2 of the 6"key" parts of the project: getting funded, conceiving the idea, designing the project, collecting the data, analyzing the data, writing/revising/reviewing the manuscript."\[\^1\]. This rule can be adapted to data contributors in the context of what is likely to be a large data acquisition effort for this project. If someone was substantially involved in data collection or curation on datasets that form a core part of this work and also provides substantive comment or feedback on a manuscript draft, they should be considered for co-authorship.
 
 ## Statement.
 
@@ -48,10 +48,6 @@ Establish who is doing what -- Author contribution Statement using [CRediT (Cont
 
 ## Prospective personnel meeting co-authorship criteria (in no particular order! Just a running list):
 
-Nic Jelinski (UMN) Matt Macander (ABR) Sue Ives (ABR) Colby Brungard (NMSU) Sabine Grunwald (UFL) Irfan Ainuddin (UMN) Dave D'Amore (USFS) Jaqcuie Foss (USFS) Frances Biles (USFS) Michael Sousa (USDA-NRCS) Timm Nawrocki (ACCC) Aaron Wells? Others??
-
 ## Personnel who should be included in acknowledgements:
-
-Parker Martyn (NPS) Tina Boucher (BLM) Dave Swanson (NPS) Ben Stratton (BLM) Matt Ferderbar (BLM) NRCS Staff Aaron Wells? MANY others....
 
 References: \[\^1\]: [Dr. Manuela González Suárez::Who Should Be a Co-Author - Rules and Etiquette of Academic Authorship](https://ramblingsofanecologa.wordpress.com/2020/11/10/who-should-be-a-co-author-rules-and-etiquette-of-academic-authorship/#:~:text=My%20rule%20has%20been%20that,the%20data%2C%20writing%20the%20manuscript) \[\^2\]: [CJA Bradshaw::Smoothing Over Content Issues with Co-Author Agreements](https://conservationbytes.com/2021/10/07/smoothing-over-content-issues-with-co-author-agreements)

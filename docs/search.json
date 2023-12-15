@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "",
+    "text": "Preface\nThis quarto book documents the metadata architecture for “Implementing an Urban Soil Survey Framework in Minnesota” - USDA-NRCS Award #NR236322XXXXC008."
+  },
+  {
+    "objectID": "index.html#project-description",
+    "href": "index.html#project-description",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Project Description",
+    "text": "Project Description\n[From Project Proposal] The purpose of this agreement, between the U.S. Department of Agriculture, Natural Resources Conservation Service (NRCS) and University of Minnesota (Recipient), is to harness existing collective resources, including non-NRCS research, data, specific expertise, and analytical capacity of soils in urban environments to complete a soil survey update. With much of the US population living in Urbanized Areas (UAs), there is a need for improved understanding of soil suitability’s, and limitations in these environments. Soil characterization information is needed in these areas as the resources are intensively managed, while current legacy soil survey products are largely out-of-date and provide limited use. Additionally, this agreement will promote the understanding the dynamic nature of soil properties in urban environments and expanding the use of new tools in support of urban agriculture."
+  },
+  {
+    "objectID": "index.html#structure-and-deliverables",
+    "href": "index.html#structure-and-deliverables",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Structure and Deliverables",
+    "text": "Structure and Deliverables\nThis document contains metadata for each of the grant deliverables, as well as general project metadata and information. Each of the deliverables also has a unique GitHub repository nested under the tcma-urban-soil-mapping organization. These deliverables are:\n1. Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation. We will harness existing collective resources, data, and analytical capacity, including non-NRCS research to complete a soil survey update for urban soils in the Minneapolis/St. Paul/Bloomington Metropolitan Statistical Area (MSA). We will design and execute a dynamic soil properties (DSP) investigation centered on urban agriculture.\n2. Documented mapping guide. We will document a mapping guide and conventions adaptable to project work in other census qualifying urbanized areas throughout the state of Minnesota.\n3. Technical assistance and resources. We will provide technical assistance and training on geophysical tools and sample design to support onsite analysis. We will also develop resources to support site evaluation, monitoring, testing, or assessment in support of conservation activity plans.\n4. Engagement and outreach. We will conduct series of community engagement, co-learning, and outreach opportunities."
+  },
+  {
+    "objectID": "index.html#key-personnel",
+    "href": "index.html#key-personnel",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Key Personnel",
+    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, NRCS\nNora Pearson; Researcher, University of Minnesota"
+  },
+  {
+    "objectID": "index.html#additional-collaborators",
+    "href": "index.html#additional-collaborators",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Additional Collaborators",
+    "text": "Additional Collaborators"
+  },
+  {
+    "objectID": "index.html#co-authorship-and-data-sharing-agreements",
+    "href": "index.html#co-authorship-and-data-sharing-agreements",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Co-Authorship and Data Sharing Agreements",
+    "text": "Co-Authorship and Data Sharing Agreements\nCo-authorship agreement\nData Sharing agreement"
+  },
+  {
+    "objectID": "index.html#funding-source-and-rfp",
+    "href": "index.html#funding-source-and-rfp",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Funding Source and RFP",
+    "text": "Funding Source and RFP\nThis project was funded by a cooperative agreement bewteen the USDA-NRCS and the University of Minnesota."
+  },
+  {
+    "objectID": "index.html#project-website",
+    "href": "index.html#project-website",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Project Website",
+    "text": "Project Website\nhttps://github.com/tmca-urban-soil-mapping"
+  },
+  {
     "objectID": "deliverable1.html#approach",
     "href": "deliverable1.html#approach",
     "title": "1  Metadata for Deliverable 1: Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation",
@@ -158,14 +214,14 @@
     "href": "co-authorship-template.html#prospective-personnel-meeting-co-authorship-criteria-in-no-particular-order-just-a-running-list",
     "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
     "section": "B.8 Prospective personnel meeting co-authorship criteria (in no particular order! Just a running list):",
-    "text": "B.8 Prospective personnel meeting co-authorship criteria (in no particular order! Just a running list):\nNic Jelinski (UMN) Matt Macander (ABR) Sue Ives (ABR) Colby Brungard (NMSU) Sabine Grunwald (UFL) Irfan Ainuddin (UMN) Dave D’Amore (USFS) Jaqcuie Foss (USFS) Frances Biles (USFS) Michael Sousa (USDA-NRCS) Timm Nawrocki (ACCC) Aaron Wells? Others??"
+    "text": "B.8 Prospective personnel meeting co-authorship criteria (in no particular order! Just a running list):"
   },
   {
     "objectID": "co-authorship-template.html#personnel-who-should-be-included-in-acknowledgements",
     "href": "co-authorship-template.html#personnel-who-should-be-included-in-acknowledgements",
     "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
     "section": "B.9 Personnel who should be included in acknowledgements:",
-    "text": "B.9 Personnel who should be included in acknowledgements:\nParker Martyn (NPS) Tina Boucher (BLM) Dave Swanson (NPS) Ben Stratton (BLM) Matt Ferderbar (BLM) NRCS Staff Aaron Wells? MANY others….\nReferences: [^1]: Dr. Manuela González Suárez::Who Should Be a Co-Author - Rules and Etiquette of Academic Authorship [^2]: CJA Bradshaw::Smoothing Over Content Issues with Co-Author Agreements"
+    "text": "B.9 Personnel who should be included in acknowledgements:\nReferences: [^1]: Dr. Manuela González Suárez::Who Should Be a Co-Author - Rules and Etiquette of Academic Authorship [^2]: CJA Bradshaw::Smoothing Over Content Issues with Co-Author Agreements"
   },
   {
     "objectID": "data-use-and-sharing.html#purpose-of-this-agreement",
@@ -299,61 +355,5 @@
     "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
     "section": "B.19 Roles and Responsibilities:",
     "text": "B.19 Roles and Responsibilities:\nThe data requestor PI (Dr. Nic Jelinski) is responsible for ensuring the terms of this data use and sharing agreement are implemented in conjunction with the project data management plan and metadata.\nReferences: [^1]: University of Chicago::University Research Administration - Data Use Agreements [^2]: [USGS::Data Sharing Agreements] (https://www.usgs.gov/data-management/data-sharing-agreements#:~:text=Data%20sharing%20agreements%20are%20formal,appropriate%20use%20for%20the%20data)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "",
-    "text": "Preface\nThis quarto book documents the metadata architecture for “Implementing an Urban Soil Survey Framework in Minnesota” - USDA-NRCS Award #NR236322XXXXC008."
-  },
-  {
-    "objectID": "index.html#project-description",
-    "href": "index.html#project-description",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Project Description",
-    "text": "Project Description\n[From Project Proposal] The purpose of this agreement, between the U.S. Department of Agriculture, Natural Resources Conservation Service (NRCS) and University of Minnesota (Recipient), is to harness existing collective resources, including non-NRCS research, data, specific expertise, and analytical capacity of soils in urban environments to complete a soil survey update. With much of the US population living in Urbanized Areas (UAs), there is a need for improved understanding of soil suitability’s, and limitations in these environments. Soil characterization information is needed in these areas as the resources are intensively managed, while current legacy soil survey products are largely out-of-date and provide limited use. Additionally, this agreement will promote the understanding the dynamic nature of soil properties in urban environments and expanding the use of new tools in support of urban agriculture."
-  },
-  {
-    "objectID": "index.html#structure-and-deliverables",
-    "href": "index.html#structure-and-deliverables",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Structure and Deliverables",
-    "text": "Structure and Deliverables\nThis document contains metadata for each of the grant deliverables, as well as general project metadata and information. Each of the deliverables also has a unique GitHub repository nested under the tcma-urban-soil-mapping organization. These deliverables are:\n1. Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation. We will harness existing collective resources, data, and analytical capacity, including non-NRCS research to complete a soil survey update for urban soils in the Minneapolis/St. Paul/Bloomington Metropolitan Statistical Area (MSA). We will design and execute a dynamic soil properties (DSP) investigation centered on urban agriculture.\n2. Documented mapping guide. We will document a mapping guide and conventions adaptable to project work in other census qualifying urbanized areas throughout the state of Minnesota.\n3. Technical assistance and resources. We will provide technical assistance and training on geophysical tools and sample design to support onsite analysis. We will also develop resources to support site evaluation, monitoring, testing, or assessment in support of conservation activity plans.\n4. Engagement and outreach. We will conduct series of community engagement, co-learning, and outreach opportunities."
-  },
-  {
-    "objectID": "index.html#key-personnel",
-    "href": "index.html#key-personnel",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Key Personnel",
-    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, NRCS\nNora Pearson; Researcher, University of Minnesota"
-  },
-  {
-    "objectID": "index.html#additional-collaborators",
-    "href": "index.html#additional-collaborators",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Additional Collaborators",
-    "text": "Additional Collaborators"
-  },
-  {
-    "objectID": "index.html#co-authorship-and-data-sharing-agreements",
-    "href": "index.html#co-authorship-and-data-sharing-agreements",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Co-Authorship and Data Sharing Agreements",
-    "text": "Co-Authorship and Data Sharing Agreements\nCo-authorship agreement\nData Sharing agreement"
-  },
-  {
-    "objectID": "index.html#funding-source-and-rfp",
-    "href": "index.html#funding-source-and-rfp",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Funding Source and RFP",
-    "text": "Funding Source and RFP\nThis project was funded by a cooperative agreement bewteen the USDA-NRCS and the University of Minnesota."
-  },
-  {
-    "objectID": "index.html#project-website",
-    "href": "index.html#project-website",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Project Website",
-    "text": "Project Website\nhttps://github.com/tmca-urban-soil-mapping"
   }
 ]
