@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "",
+    "text": "Preface\nThis quarto book documents the metadata architecture for “Implementing an Urban Soil Survey Framework in Minnesota” - USDA-NRCS Award #NR236322XXXXC008. This is a living, growing document intended to provide rich, accessible, and transparent documentation of project structure, deliverables, and data management. It will be continuously updated through the life of the project and will be assigned a persistent doi at the end of the project to provide long-term archiving and availability."
+  },
+  {
+    "objectID": "index.html#project-description",
+    "href": "index.html#project-description",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Project Description",
+    "text": "Project Description\n[From Project Proposal] The purpose of this agreement, between the U.S. Department of Agriculture, Natural Resources Conservation Service (NRCS) and University of Minnesota (Recipient), is to harness existing collective resources, including non-NRCS research, data, specific expertise, and analytical capacity of soils in urban environments to complete a soil survey update. With much of the US population living in Urbanized Areas (UAs), there is a need for improved understanding of soil suitability’s, and limitations in these environments. Soil characterization information is needed in these areas as the resources are intensively managed, while current legacy soil survey products are largely out-of-date and provide limited use. Additionally, this agreement will promote the understanding the dynamic nature of soil properties in urban environments and expanding the use of new tools in support of urban agriculture."
+  },
+  {
+    "objectID": "index.html#structure-and-deliverables",
+    "href": "index.html#structure-and-deliverables",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Structure and Deliverables",
+    "text": "Structure and Deliverables\nThis document contains metadata for each of the grant deliverables, as well as general project metadata and information. Each of the deliverables also has a unique GitHub repository nested under the tcma-urban-soil-mapping organization. These deliverables are:\n1. Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation. We will harness existing collective resources, data, and analytical capacity, including non-NRCS research to complete a soil survey update for urban soils in the Minneapolis/St. Paul/Bloomington Metropolitan Statistical Area (MSA). We will design and execute a dynamic soil properties (DSP) investigation centered on urban agriculture.\n2. Documented mapping guide. We will document a mapping guide and conventions adaptable to project work in other census qualifying urbanized areas throughout the state of Minnesota.\n3. Technical assistance and resources. We will provide technical assistance and training on geophysical tools and sample design to support onsite analysis. We will also develop resources to support site evaluation, monitoring, testing, or assessment in support of conservation activity plans.\n4. Engagement and outreach. We will conduct series of community engagement, co-learning, and outreach opportunities."
+  },
+  {
+    "objectID": "index.html#key-personnel",
+    "href": "index.html#key-personnel",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Key Personnel",
+    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, USDA-NRCS\nNora Pearson; Researcher, University of Minnesota"
+  },
+  {
+    "objectID": "index.html#additional-collaborators",
+    "href": "index.html#additional-collaborators",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Additional Collaborators",
+    "text": "Additional Collaborators"
+  },
+  {
+    "objectID": "index.html#funding-source-and-rfp",
+    "href": "index.html#funding-source-and-rfp",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Funding Source and RFP",
+    "text": "Funding Source and RFP\nThis project was funded by a cooperative agreement between the USDA-NRCS and the University of Minnesota."
+  },
+  {
+    "objectID": "index.html#project-website",
+    "href": "index.html#project-website",
+    "title": "TMCA Urban Soil Mapping",
+    "section": "Project Website",
+    "text": "Project Website\nhttps://github.com/tmca-urban-soil-mapping"
+  },
+  {
     "objectID": "deliverable1.html#approach",
     "href": "deliverable1.html#approach",
     "title": "1  Metadata for Deliverable 1: Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation",
@@ -60,7 +109,7 @@
     "href": "datamanagementplan.html#expected-data-types",
     "title": "5  Data Management Plan",
     "section": "5.1 Expected Data Types",
-    "text": "5.1 Expected Data Types\nThe data generated by this project will be digital soil data generated by acquiring existing non-NRCS soil datasets from academic and agency partners, peer-reviewed literature, and grey literature (i.e. government publications and reports). It is expected that this project will include the acquisition of over 200 datasets and add over 14,000 new observations to the NASIS database for Alaska, particularly in underrepresented areas in the NASIS datasets that are critical areas to gap fill to meet Soil2026 goals."
+    "text": "5.1 Expected Data Types\nThe data generated by this project will be digital soil data generated by acquiring existing non-NRCS soil datasets from academic and agency partners, peer-reviewed literature, and grey literature (i.e. government publications and reports)."
   },
   {
     "objectID": "datamanagementplan.html#data-format",
@@ -84,276 +133,10 @@
     "text": "5.4 Data Security\n[From GEMS Platform FAQ] All GEMS staff members, including those at the data center at MSI who maintain GEMS have been fully trained on HIPAA privacy protocols. GEMS also has policies reviewed by MSI’s Research Security and Compliance Analyst. All GEMS staff with access to private data sign an internal non-disclosure agreement designed by UMN’s Office of the General Counsel. All operations within the platform are isolated into encrypted containers where no other users have access (hence no snooping). Data entering or leaving these containers is also encrypted to prevent opportunity for leaks. All identifiable data residing in the platform are legally deemed private and non-public by the State of Minnesota, and hence not FOIAble. Finally, we provide users with various anonymization tools to de-identify their own data sets prior to sharing. These include removal of named identifiers, fuzzing and jittering of geo-coordinates and geospatial aggregation.\n\n5.4.1 Roles and Responsibilities\nPI Jelinski will be responsible ensuring the data management plan is followed by all project participants and will also be responsible for reporting compliance with this data management plan to NRCS. The annual and final reports to NRCS will have an expanded data management plan as an integral component, and will include progress in data sharing (e.g., statistics on shared and accessed data sets, publications, DOIs, outreach materials). The final report will describe the data that was produced during the award period and the components that will be stored and preserved (including the expected duration) after the award ends. The GEMS platform data steward will ensure that the data management plan will be compliant with the Research Terms and Conditions that govern NRCS-funded projects."
   },
   {
-    "objectID": "authorship-guidelines.html",
-    "href": "authorship-guidelines.html",
-    "title": "6  Authorship Guidelines",
-    "section": "",
-    "text": "Notes/questions on this section:\n\n[ is there a good example we can draw from?, authorship if our data is used externally, or authorship within our group?]\n\nhttps://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/2688-8319.12060\n\nCreative Commons Licensing?\nAuthorship for us internal\nAuthorship for external groups that use our data"
-  },
-  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "7  Summary",
+    "title": "6  Summary",
     "section": "",
     "text": "Do we need a summary chapter?"
-  },
-  {
-    "objectID": "co-authorship-template.html",
-    "href": "co-authorship-template.html",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "",
-    "text": "B General Criteria for prospective co-authorship in the context of this project.\nA co-author should be someone “who contributes a minimum of 2 of the 6”key” parts of the project: getting funded, conceiving the idea, designing the project, collecting the data, analyzing the data, writing/revising/reviewing the manuscript.”[^1]. This rule can be adapted to data contributors in the context of what is likely to be a large data acquisition effort for this project. If someone was substantially involved in data collection or curation on datasets that form a core part of this work and also provides substantive comment or feedback on a manuscript draft, they should be considered for co-authorship."
-  },
-  {
-    "objectID": "co-authorship-template.html#statement.",
-    "href": "co-authorship-template.html#statement.",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.1 Statement.",
-    "text": "B.1 Statement.\n“We have agreed to collaborate in this research and publish our results in a peer-reviewed journal. We agree to the following guidelines. This agreement ends after the paper is published and media inquiries conclude. We enter into this agreement voluntarily, and we can leave the agreement voluntarily as described below.”[^2]"
-  },
-  {
-    "objectID": "co-authorship-template.html#roles.",
-    "href": "co-authorship-template.html#roles.",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.2 Roles.",
-    "text": "B.2 Roles.\nEstablish who is doing what – Author contribution Statement using CRediT (Contributor Roles Taxonomy) standards."
-  },
-  {
-    "objectID": "co-authorship-template.html#credit-and-responsibility2",
-    "href": "co-authorship-template.html#credit-and-responsibility2",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.3 Credit and Responsibility[^2]",
-    "text": "B.3 Credit and Responsibility[^2]\n\nAll co-authors share some degree of responsibility for the entire paper as an accurate, verifiable research report. Co-authors are responsible for the accuracy of their contributions, but may have only limited responsibility for material in other sections. This means that while all co-authors approve the submitted version of the manuscript, they are not obliged to agree entirely with all aspects of this article.\n\n\nAll co-authors give their permission for publication prior to submission of each version of the paper.\n\n\nAll co-authors can give presentations of this paper after publication, using material in the paper, providing they reference the paper and their co-authors. Ideally, they will also notify the co-authors of these presentations beforehand.\n\n\nAll co-authors can respond to media inquiries relating to this paper. Press releases can be issued from each co-author’s institution, but should be coordinated through the lead author(s). Co-authors should acknowledge the contributions of other co-authors during interviews and encourage reporters to contact them."
-  },
-  {
-    "objectID": "co-authorship-template.html#contingencies2",
-    "href": "co-authorship-template.html#contingencies2",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.4 Contingencies[^2]",
-    "text": "B.4 Contingencies[^2]\n\nNo co-author can block publication of the paper except because of concerns related to soundness — e.g., demonstrably incorrect statements (supported by evidence). Differences of opinion are not valid grounds for blockage. Concerns related to policy, management, or implications are not grounds for a co-author to block publication. If most (i.e., &gt; 50%) co-authors agree the paper should be published based on sound information, the paper will move forward. Every reasonable effort will be made by the other co-authors to reach a consensus on moving forward with a publication.\n\n\nCo-authors may voluntarily remove themselves from the project, and from co-authorship, at any point if they no longer have time for the project or if they disagree vehemently with some aspect of the project or paper. If a co-author voluntarily leaves the project or is asked to leave the Co-author Team because they are opposed to the paper being published, the co-authors will need to discuss with the dissenting member if her/his contributions can still be used, and perhaps described in the Acknowledgements, or will have to be removed from the paper."
-  },
-  {
-    "objectID": "co-authorship-template.html#communication-2.",
-    "href": "co-authorship-template.html#communication-2.",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.5 Communication [^2].",
-    "text": "B.5 Communication [^2].\n\nAll co-authors agree to reply to emails and video/telephone calls concerning the project, especially when approaching final drafts and revisions of the paper, within a reasonable period of time, such as within one week.\n\n\nAll co-authors agree to notify the rest of the team prior to sharing the manuscript with people outside the Co-Author Team. Co-authors will be given a chance to comment prior to sharing.\n\n\nCo-authors are free to develop their own collaborations and directions using the ideas in the paper, once it is published. Co-authors should make every reasonable effort to inform each other when starting new collaborations and spin-off projects that result from this paper. In practice, the co-authors may continue to work together on follow-up projects, but this needs to be discussed among the group, and should not be assumed."
-  },
-  {
-    "objectID": "co-authorship-template.html#conflicts-of-interest-2.",
-    "href": "co-authorship-template.html#conflicts-of-interest-2.",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.6 Conflicts of Interest [^2].",
-    "text": "B.6 Conflicts of Interest [^2].\n\nAll co-authors will disclose to the Co-author Team any real or perceived conflicts of interest related to this project and paper.\n\n\nAll co-authors will disclose to the Co-author Team whether they or any close family members or associates will benefit financially from this project and paper."
-  },
-  {
-    "objectID": "co-authorship-template.html#derivative-works-2",
-    "href": "co-authorship-template.html#derivative-works-2",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.7 Derivative Works [^2]",
-    "text": "B.7 Derivative Works [^2]\n\nIf any co-author is invited to be an author on a subsequent manuscript or presentation as a result of the work of this co-author team in the context of this project, they will notify all other co-authors on the list in this document to allow discussion of proper attribution and co-authorship on any derivative works."
-  },
-  {
-    "objectID": "co-authorship-template.html#prospective-personnel-meeting-co-authorship-criteria-in-no-particular-order-just-a-running-list",
-    "href": "co-authorship-template.html#prospective-personnel-meeting-co-authorship-criteria-in-no-particular-order-just-a-running-list",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.8 Prospective personnel meeting co-authorship criteria (in no particular order! Just a running list):",
-    "text": "B.8 Prospective personnel meeting co-authorship criteria (in no particular order! Just a running list):\nNic Jelinski (UMN) Matt Macander (ABR) Sue Ives (ABR) Colby Brungard (NMSU) Sabine Grunwald (UFL) Irfan Ainuddin (UMN) Dave D’Amore (USFS) Jaqcuie Foss (USFS) Frances Biles (USFS) Michael Sousa (USDA-NRCS) Timm Nawrocki (ACCC) Aaron Wells? Others??"
-  },
-  {
-    "objectID": "co-authorship-template.html#personnel-who-should-be-included-in-acknowledgements",
-    "href": "co-authorship-template.html#personnel-who-should-be-included-in-acknowledgements",
-    "title": "Appendix A — Co-Authorship Agreement Template - TMCA Urban Soil Mapping Project",
-    "section": "B.9 Personnel who should be included in acknowledgements:",
-    "text": "B.9 Personnel who should be included in acknowledgements:\nParker Martyn (NPS) Tina Boucher (BLM) Dave Swanson (NPS) Ben Stratton (BLM) Matt Ferderbar (BLM) NRCS Staff Aaron Wells? MANY others….\nReferences: [^1]: Dr. Manuela González Suárez::Who Should Be a Co-Author - Rules and Etiquette of Academic Authorship [^2]: CJA Bradshaw::Smoothing Over Content Issues with Co-Author Agreements"
-  },
-  {
-    "objectID": "data-use-and-sharing.html#purpose-of-this-agreement",
-    "href": "data-use-and-sharing.html#purpose-of-this-agreement",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.1 Purpose of this agreement:",
-    "text": "B.1 Purpose of this agreement:\nThis data use agreement is a formal contract that clearly documents the data being shared and the parameters under which the data may be used—including description of project, term of use, and method of transmission. This agreement serves two purposes. First, it protects the entity providing the data [heneceforth “data provider”] to ensure that the data will not be misused. Second, it protects the intended recipient of the data [heneceforth “data recipient”] by providing confirmation that they are authorized to use that data for the proposed purpose and that the data transfer is compliant with legal and ethical standards[^1]."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#agreement-entities-and-points-of-contact",
-    "href": "data-use-and-sharing.html#agreement-entities-and-points-of-contact",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.2 Agreement Entities and Points of Contact",
-    "text": "B.2 Agreement Entities and Points of Contact\nData Provider/POC: [==Fill in name of data providing entity/POC==] Data Recipient/POC: [==Dr. Nicolas Jelinski, Associate Professor, University of Minnesota==] Data Recipient/Project Team: [==Information about personnel on the project team who may have access to this data - when and how==]."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#dataset-scope",
-    "href": "data-use-and-sharing.html#dataset-scope",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.3 Dataset Scope:",
-    "text": "B.3 Dataset Scope:\nThis agreement encompasses soil and vegetation data collected from ==XXXX-XXXX – fill in years== under the context of project [==project name and or number==] by [==data collection entity==]. The scope of this dataset includes [==description of numbers of point data or spatial data and data types/description==]."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#data-recipient-use-and-request-purpose",
-    "href": "data-use-and-sharing.html#data-recipient-use-and-request-purpose",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.4 Data Recipient Use and Request Purpose:",
-    "text": "B.4 Data Recipient Use and Request Purpose:\nThe purpose of this request by the data recipient is to acquire soil and/or vegetation data in critical, underrepresented areas of the state of Alaska in order to build a statewide dataset to be used in conjunction with data in the USDA-NRCS National Soil Information Service (NASIS) database to generate novel, statewide maps of soil classes and properties in support of the USDA-NRCS Soils 2026 initiative which aims to complete a modern, digital soil map of the entire United States by 2026. Alaska represents &gt; 80% of currently non-complete lands, and therefore is a major focus area under a current project funded by USDA-NRCS to the project recipient (PI, Dr. Nic Jelinski, University of Minnesota). Data contributed to this project will only be used in aggregate, with other, statewide data to produce these maps. At no time will specific/individual point data be shared or displayed outside of the project team without the written consent of the data provider."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#license2",
-    "href": "data-use-and-sharing.html#license2",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.5 License[^2]",
-    "text": "B.5 License[^2]\nThe data provider shall provide to the data requestor a nonexclusive, nontransferable, paid-up license to use data provider’s [==name of dataset==] in accordance with the terms of this Agreement. The data recipient will use the [==name of dataset==] to achieve the use and request purpose described in article 4, above. The data provider should select one of the creative commons licenses (https://creativecommons.org/about/cclicenses/) if they wish data to be shared publicly. Otherwise, the data recipient will operate under a default agreement, which specifies that the dataset will be used only in accordance with the stated purpose in this data use and sharing agreement, and will not be released to any third parties or made public without the express written consent of the data provider."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#ownership2",
-    "href": "data-use-and-sharing.html#ownership2",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.6 Ownership[^2]",
-    "text": "B.6 Ownership[^2]\nThe [==name of dataset==] is owned by the data provider. The data recipient acknowledges to only use [==name of dataset==] pursuant to Article 4, and that no right, title, or interest in or to any copyrights, trademarks, or other proprietary rights relating to the [==name of dataset==] is transferred or licensed from the data provider to the data requestor."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#confidentiality2.",
-    "href": "data-use-and-sharing.html#confidentiality2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.7 Confidentiality[^2].",
-    "text": "B.7 Confidentiality[^2].\nThe data recipient acknowledges the information provided by data provider may contain confidential information and is the property of the data provider. The data recipient shall take appropriate measures to protect the confidentiality and security of such confidential information. The data recipient shall not disclose, use, or distribute any data provider confidential information, except as expressly permitted in this Agreement. The data recipient may use the data provider’s confidential information as needed to accomplish the SOW."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#data-transfer-plan2",
-    "href": "data-use-and-sharing.html#data-transfer-plan2",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.8 Data Transfer Plan[^2]:",
-    "text": "B.8 Data Transfer Plan[^2]:\nData will be transferred from the data provider to the data requestor via a secure Box file link sent to the data provider. The University of Minnesota utilizes Box as its preferred inter-entity data transfer, sharing and storage application, as Box is “…FIPS 140-2 certified, and every file is encrypted using AES 256-bit encryption at rest and in transit.”"
-  },
-  {
-    "objectID": "data-use-and-sharing.html#data-storage2",
-    "href": "data-use-and-sharing.html#data-storage2",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.9 Data Storage[^2]:",
-    "text": "B.9 Data Storage[^2]:\nOnce uploaded to the secure Box folder, the dataset will be directly accessible only by the project PI (Dr. Jelinski), who can access via institution password protection. The data will be transferred directly from the shared Box folder to the University of Minnesota Genomics, Environment, Management and Socioeconomic (GEMS) database, where it will be held as private data, non-discoverable and non-shareable. Once on GEMS, the dataset can only be accessed by members of the project team who have access to the encrypted container where the data resides. The dataset will be deleted from the Box secure storage folder [30] days after receipt of data from the data provider, leaving only a single copy of the dataset on GEMS.\nAll GEMS staff members, including those at the data center at MSI who maintain GEMS and with access to private data on the platform sign an internal non-disclosure agreement designed by UMN’s Office of the General Counsel. All operations within the platform are isolated into encrypted containers where no other users have access (hence no snooping). Data entering or leaving these containers is also encrypted to prevent opportunity for leaks. All identifiable data residing in the platform are legally deemed private and non-public by the State of Minnesota, and hence not FOIAble."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#access-and-modification-provisions",
-    "href": "data-use-and-sharing.html#access-and-modification-provisions",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.10 Access and Modification Provisions:",
-    "text": "B.10 Access and Modification Provisions:\nThe dataset files existing on GEMS reside in a secure, isolated, encrypted container. Only project team members with password protected access to the project container on GEMS will be able to access the dataset. Once in the GEMS container, the dataset is part of a larger project “workspace”, which includes all datasets compiled as part of the project scope. Project team members will conduct scripting operations on datasets in the secure R Studio workspace provided on the GEMS platform. This means that all data access and usage of the individual dataset can occur through the secure GEMS platform.\nThe integrity of the dataset as delivered will not be violated or changed in any way. However, additional metadata information, particularly column or field metadata, may be added to an accompanying .json metadata file which will exist on the GEMS workspace. The .json metadata files from all project datasets (including this dataset) will be used to harmonize data for the purposes of achieving the project purpose as stated in Article 4. The single large harmonized dataset will exist in a secure, virtual state in GEMS, but only publicly accessible portions of the harmonized dataset will be made discoverable and shareable."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#term2.",
-    "href": "data-use-and-sharing.html#term2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.11 Term[^2].",
-    "text": "B.11 Term[^2].\nThe data use license outlined in this Agreement will commence on the effective date of this Agreement. The effective date of this Agreement shall be the later date of (1) [insert start date] or (2) the date of the last signature by the Parties. The expiration date of this Agreement shall be [insert end date of Agreement - 5 years after start date]. The Agreement may be extended by mutual written Agreement of the Parties."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#termination2.",
-    "href": "data-use-and-sharing.html#termination2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.12 Termination[^2].",
-    "text": "B.12 Termination[^2].\nThe data recipient and data provider may terminate this Agreement at any time by mutual written consent. This Agreement may be terminated by either Party 1) on sixty (60) days written notice to the other in accordance with Article 8; or 2) immediately upon a material breach for good cause. Upon notice of termination, the data requestor shall have sixty (60) days to return, delete, or destroy, any hard copy or digital copies of data provider confidential data from all storage media and platforms."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#publicationsreports2.",
-    "href": "data-use-and-sharing.html#publicationsreports2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.13 Publications/Reports[^2].",
-    "text": "B.13 Publications/Reports[^2].\nIf the data provider desires, the data recipient will acknowledge the data provider as a source of information in any publications or reports that use the data provider’s data in accordance with customary scientific practices."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#review-of-publications2.",
-    "href": "data-use-and-sharing.html#review-of-publications2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.14 Review of Publications[^2].",
-    "text": "B.14 Review of Publications[^2].\nThe data requestor shall submit to data provider for review a draft of each proposed publication performed under this Agreement. The data provider shall have a review period of thirty (30) days. The data provider may comment upon, but may not make editorial changes to the results and conclusions set forth in the draft. The draft may be submitted for publication upon receipt of data provider’s written comments or upon expiration of the review period with no comments received from the data provider. Reasonable consideration shall be given to all requested edits received from the data provider. The data requestor shall excise data provider confidential information from any publication or report identified by the data provider in the draft."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#notices2.",
-    "href": "data-use-and-sharing.html#notices2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.15 Notices[^2].",
-    "text": "B.15 Notices[^2].\nAny notice required to be given or which shall be given under this Agreement shall be to the undersigned."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#independent-entity2.",
-    "href": "data-use-and-sharing.html#independent-entity2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.16 Independent Entity[^2].",
-    "text": "B.16 Independent Entity[^2].\nFor purposes of this Agreement and all research conducted hereunder, each Party shall be, and shall be deemed to be, an independent Party and not an agent or employee of the other Party. Each Party shall have exclusive control over its employees in the performance of the work."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#statement-and-representation-authority2.",
-    "href": "data-use-and-sharing.html#statement-and-representation-authority2.",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.17 Statement and Representation Authority[^2].",
-    "text": "B.17 Statement and Representation Authority[^2].\nNeither Party shall have authority to make any statements, representations, or commitments of any kind, or take any action, which shall be binding on the other Party, except as may be explicitly provided for herein or authorized in writing. Neither Party may use the name of the other in advertising or other forms of publicity without the written consent of the other."
-  },
-  {
-    "objectID": "data-use-and-sharing.html#data-management-plan-see-current-version-of-project-data-management-plan",
-    "href": "data-use-and-sharing.html#data-management-plan-see-current-version-of-project-data-management-plan",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.18 Data Management Plan: See current version of project data management plan:",
-    "text": "B.18 Data Management Plan: See current version of project data management plan:\nhttps://alaska-soil-data-bank.github.io/project-metadata/datamanagementplan.html"
-  },
-  {
-    "objectID": "data-use-and-sharing.html#roles-and-responsibilities",
-    "href": "data-use-and-sharing.html#roles-and-responsibilities",
-    "title": "Appendix B — Data Use and Sharing Agreement Template - Alaska Soil Data Bank Project",
-    "section": "B.19 Roles and Responsibilities:",
-    "text": "B.19 Roles and Responsibilities:\nThe data requestor PI (Dr. Nic Jelinski) is responsible for ensuring the terms of this data use and sharing agreement are implemented in conjunction with the project data management plan and metadata.\nReferences: [^1]: University of Chicago::University Research Administration - Data Use Agreements [^2]: [USGS::Data Sharing Agreements] (https://www.usgs.gov/data-management/data-sharing-agreements#:~:text=Data%20sharing%20agreements%20are%20formal,appropriate%20use%20for%20the%20data)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "",
-    "text": "Preface\nThis quarto book documents the metadata architecture for “Implementing an Urban Soil Survey Framework in Minnesota” - USDA-NRCS Award #NR236322XXXXC008."
-  },
-  {
-    "objectID": "index.html#project-description",
-    "href": "index.html#project-description",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Project Description",
-    "text": "Project Description\n[From Project Proposal] The purpose of this agreement, between the U.S. Department of Agriculture, Natural Resources Conservation Service (NRCS) and University of Minnesota (Recipient), is to harness existing collective resources, including non-NRCS research, data, specific expertise, and analytical capacity of soils in urban environments to complete a soil survey update. With much of the US population living in Urbanized Areas (UAs), there is a need for improved understanding of soil suitability’s, and limitations in these environments. Soil characterization information is needed in these areas as the resources are intensively managed, while current legacy soil survey products are largely out-of-date and provide limited use. Additionally, this agreement will promote the understanding the dynamic nature of soil properties in urban environments and expanding the use of new tools in support of urban agriculture."
-  },
-  {
-    "objectID": "index.html#structure-and-deliverables",
-    "href": "index.html#structure-and-deliverables",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Structure and Deliverables",
-    "text": "Structure and Deliverables\nThis document contains metadata for each of the grant deliverables, as well as general project metadata and information. Each of the deliverables also has a unique GitHub repository nested under the tcma-urban-soil-mapping organization. These deliverables are:\n1. Updated Urban Soil Survey for Minneapolis/St. Paul/Bloomington MSA & DSP Investigation. We will harness existing collective resources, data, and analytical capacity, including non-NRCS research to complete a soil survey update for urban soils in the Minneapolis/St. Paul/Bloomington Metropolitan Statistical Area (MSA). We will design and execute a dynamic soil properties (DSP) investigation centered on urban agriculture.\n2. Documented mapping guide. We will document a mapping guide and conventions adaptable to project work in other census qualifying urbanized areas throughout the state of Minnesota.\n3. Technical assistance and resources. We will provide technical assistance and training on geophysical tools and sample design to support onsite analysis. We will also develop resources to support site evaluation, monitoring, testing, or assessment in support of conservation activity plans.\n4. Engagement and outreach. We will conduct series of community engagement, co-learning, and outreach opportunities."
-  },
-  {
-    "objectID": "index.html#key-personnel",
-    "href": "index.html#key-personnel",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Key Personnel",
-    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, NRCS\nNora Pearson; Researcher, University of Minnesota"
-  },
-  {
-    "objectID": "index.html#additional-collaborators",
-    "href": "index.html#additional-collaborators",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Additional Collaborators",
-    "text": "Additional Collaborators"
-  },
-  {
-    "objectID": "index.html#co-authorship-and-data-sharing-agreements",
-    "href": "index.html#co-authorship-and-data-sharing-agreements",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Co-Authorship and Data Sharing Agreements",
-    "text": "Co-Authorship and Data Sharing Agreements\nCo-authorship agreement\nData Sharing agreement"
-  },
-  {
-    "objectID": "index.html#funding-source-and-rfp",
-    "href": "index.html#funding-source-and-rfp",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Funding Source and RFP",
-    "text": "Funding Source and RFP\nThis project was funded by a cooperative agreement bewteen the USDA-NRCS and the University of Minnesota."
-  },
-  {
-    "objectID": "index.html#project-website",
-    "href": "index.html#project-website",
-    "title": "TMCA Urban Soil Mapping",
-    "section": "Project Website",
-    "text": "Project Website\nhttps://github.com/tmca-urban-soil-mapping"
   }
 ]
