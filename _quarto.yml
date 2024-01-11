@@ -11,17 +11,25 @@ book:
   
   chapters:
     - index.qmd
-    - deliverable1.qmd
-    - deliverable2.qmd
-    - deliverable3.qmd
-    - deliverable4.qmd
-    - datamanagementplan.qmd
-    - authorship-guidelines.qmd
+    - part: "Deliverables and Data Management"
+      chapters:
+      - deliverable1.qmd
+      - deliverable2.qmd
+      - deliverable3.qmd
+      - deliverable4.qmd
+      - datamanagementplan.qmd
+    - part: discussion-log-meeting-minutes.qmd
+      chapters:
+      - minutes-15DEC2023-admin-kickoff.qmd
+      - minutes-15DEC2023-technical-kickoff.qmd
+      - draft-agenda-12JAN2023-dsp.qmd
+      - draft-agenda-12JAN2023-qa-qc-nasis.qmd
+    # - authorship-guidelines.qmd
     - summary.qmd
     - references.qmd
-  appendices:
-    - co-authorship-template.qmd
-    - data-use-and-sharing.qmd
+  # appendices:
+    # - co-authorship-template.qmd
+    # - data-use-and-sharing.qmd
 
 bibliography: references.bib
 

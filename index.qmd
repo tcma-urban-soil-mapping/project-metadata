@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-This quarto book documents the metadata architecture for "Implementing an Urban Soil Survey Framework in Minnesota" - USDA-NRCS Award #NR236322XXXXC008.
+This quarto book documents the metadata architecture for "Implementing an Urban Soil Survey Framework in Minnesota" - USDA-NRCS Award #NR236322XXXXC008. This is a living, growing document intended to provide rich, accessible, and transparent documentation of project structure, deliverables, and data management. It will be continuously updated through the life of the project and will be assigned a persistent doi at the end of the project to provide long-term archiving and availability.
 
 ## Project Description
 
@@ -25,12 +25,6 @@ This document contains metadata for each of the grant deliverables, as well as g
 -   Nora Pearson; Researcher, University of Minnesota
 
 ## Additional Collaborators
-
-## Co-Authorship and Data Sharing Agreements
-
-[Co-authorship agreement](co-authorship-template.qmd)
-
-[Data Sharing agreement](data-use-and-sharing.qmd)
 
 ## Funding Source and RFP
 
