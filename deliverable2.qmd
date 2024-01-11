@@ -2,7 +2,6 @@
 
 ## Approach
 
-
 ## Deliverables
 
 Document mapping guide and conventions in a format adaptable to project work in other census qualifying urbanized areas throughout the state of Minnesota.
