@@ -22,8 +22,8 @@ book:
       chapters:
       - minutes-15DEC2023-admin-kickoff.qmd
       - minutes-15DEC2023-technical-kickoff.qmd
-      - draft-agenda-12JAN2023-dsp.qmd
-      - draft-agenda-12JAN2023-qa-qc-nasis.qmd
+      - minutes-12JAN2024-dsp.qmd
+      - minutes-12JAN2024-qa-qc-nasis.qmd
     # - authorship-guidelines.qmd
     - summary.qmd
     - references.qmd

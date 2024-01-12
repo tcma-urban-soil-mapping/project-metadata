@@ -23,6 +23,10 @@ This document contains metadata for each of the grant deliverables, as well as g
 -   Nic Jelinski; Associate Professor, University of Minnesota (PI)
 -   Joe Brennan; State Soil Scientist, NRCS
 -   Nora Pearson; Researcher, University of Minnesota
+- Dan Wing; Senior Regional Soil Scientist, NRCS
+- Randy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS
+- Francine Lheritier; Natural Resource Soil Scientist, NRCS
+- Shaunna Repking; Soil Scientist, NRCS
 
 ## Additional Collaborators
 

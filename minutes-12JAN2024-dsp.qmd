@@ -1,0 +1,67 @@
+# Urban Dynamic Soil Properties Discussion 12JAN2024
+
+## Attendees
+
+- Nic Jelinski, University of Minnesota 
+- Nora Pearson, University of Minnesota
+- Sarick Matzen, University of Minnesota 
+- Matthew Lundberg, NRCS 
+- Joe Brennan, NRCS
+- Shaunna Repking, NRCS 
+- Dan Wing, NRCS
+- Randy Riddle, NRCS
+- Francine Lheritier, NRCS
+
+## Agenda
+
+1. Overview of current DSP guidelines and how to design a study that meets them
+2. Lessons learned from LA DSP project
+3. Site/property access challenges and solutions
+
+## Summary of Discussion
+
+### Overview of DSP Guidelines
+
+- NRCS is currently updating the DSP guide, expected to be published this year. The draft can be shared once it goes through public review in 4 months.
+- Goal of a DSP project is to get DSP data on as much area as possible, focusing on the most extensive or important soils. 
+- Recommend 3 plots per condition (similar ecology/land management). Each plot has a main pedon and 2 satellites.
+- For intensive projects, use KSCL methods so data is comparable.
+- Intensive projects require KSCL analysis. Intermediate projects use in-house lab. This project would likely be intensive given the UMN lab capacity.
+
+### LA DSP Project Overview
+- Looked at natural ground cover, artificial ground cover, and traditional lawns. Interested in climate resiliency, carbon storage, and gas fluxes.
+- Focused on urban climate and social health. Examined techniques like xeroscaping.
+- Partnered with Tree People organization to provide outreach on beneficial landscaping based on DSP data.
+
+### Site Access Challenges and Solutions
+- Access can be a challenge. Partnering with local organizations that can help arrange access to sites is recommended.
+- Can dig pits once to collect samples. Don't need long-term access.
+- Recommend taking photos, cores, and bulk samples if possible since access is limited.
+
+### Study Design Discussion
+- Most plots should be spread across the urban area, not concentrated on one site.
+- For urban agriculture focus, residential lawns could be reference state since that is common land use. Hoop houses and in-ground plots would be altered states.  
+- If including non-urban reference site, look at uncultivated native sites outside urban area.
+- Design depends on goals - compare urban soils only or also compare to non-urban.
+- NRCS flexible on study design within urban focus. Recommend consulting urban conservationists like Matt Lundberg.
+
+### Analysis Methods
+- Required intensive tier uses KSSL methods. Can send samples to KSSL but may take 1-2 years to get data back.
+- Optional intensive tier analyses like POXC could be done in UMN lab. 
+- Interest in testing additional indicators relevant to urban soils like contaminants.
+- If additional lab costs needed can discuss modifications to support more analyses.
+
+### Related Research Opportunities
+- If other non-urban research needs identified later, NRCS may be able to do supplemental sampling through MLRA offices. Would share data to support publications.
+- Allows sampling interesting uses like railyards if identified later.
+- Need to avoid overlap with this urban ag focus agreement.
+
+## Action Items
+- UMN team will continue planning using DSP guidelines and input from NRCS
+- NRCS to share draft DSP guide when ready for public review
+- Discuss ideas for related non-urban research with NRCS
+- Send samples to KSCL or UMN lab depending on timeline needs and funding
+
+## Next Steps
+- UMN to share meeting minutes and recordings
+- Additional DSP planning check-ins as site selection progresses
