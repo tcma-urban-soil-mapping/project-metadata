@@ -306,5 +306,54 @@
     "title": "10  Summary",
     "section": "",
     "text": "Do we need a summary chapter?"
+  },
+  {
+    "objectID": "minutes-02FEB2024-nic-nora.html#date",
+    "href": "minutes-02FEB2024-nic-nora.html#date",
+    "title": "11  Nic and Nora Check In Meeting Minutes",
+    "section": "11.1 Date",
+    "text": "11.1 Date\nFriday, February 06, 2024"
+  },
+  {
+    "objectID": "minutes-02FEB2024-nic-nora.html#attendees",
+    "href": "minutes-02FEB2024-nic-nora.html#attendees",
+    "title": "11  Nic and Nora Check In Meeting Minutes",
+    "section": "11.2 Attendees",
+    "text": "11.2 Attendees\n\nNic Jelinski\nNora Pearson"
+  },
+  {
+    "objectID": "minutes-02FEB2024-nic-nora.html#agenda",
+    "href": "minutes-02FEB2024-nic-nora.html#agenda",
+    "title": "11  Nic and Nora Check In Meeting Minutes",
+    "section": "11.3 Agenda",
+    "text": "11.3 Agenda\n\nIdentify key datasets to obtain\nDetermine preliminary project boundaries\nIdentify stakeholders to contact for permissions and engagement\nPlan for project kickoff meeting"
+  },
+  {
+    "objectID": "minutes-02FEB2024-nic-nora.html#discussion-notes",
+    "href": "minutes-02FEB2024-nic-nora.html#discussion-notes",
+    "title": "11  Nic and Nora Check In Meeting Minutes",
+    "section": "11.4 Discussion Notes",
+    "text": "11.4 Discussion Notes\n\n11.4.1 Key Datasets to Obtain\n\nFederal definition of Twin Cities metropolitan statistical area boundary\nMinnesota Geological Survey county soil maps\nMetropolitan Council/MetroGIS land use and land cover data\nLiDAR digital elevation data\nNRCS SSURGO soils data\nHistoric Twin Cities soil survey maps/data (for example, UMN Extension Bulletin 320 (1967))\nMinnesota Geospatial Commons data, listed below:\n\nTCMA 1-Meter Land Cover Classification\nCounties and Cities & Townships, Twin Cities Metropolitan Area\nRegional Parks and Trails - 2023 Annual Update\nGeneralized Land Use 2020\nLakes and Rivers - Open Water Features\nLocalized Flood Map for Climate Vulnerability Screening\nCensus 2020 Geography - Blocks, Block Groups, Tracts, Counties, and County Subdivisions\nCensus 2020 Geographic Crosswalks\nDigital Orthoimagery, Twin Cities, Minnesota, Spring 2020, 1-ft Resolution\nCounties and Cities & Townships 2020, Twin Cities Metropolitan Area\nGeneralized Land Use Historical (1984, 1990, 1997, 2000, 2005, 2010, 2016, 2020)\nMetropolitan Urban Service Areas - Historical (1995 - 1998)\n2000 Urbanized Area and Urban Clusters\n1945 and 1959 Residential Land Use\n1990 to 2000 Census Tract Correspondence and Combined Tracts\nMetropolitan Council Base Map Service\nAnnual Small Area Population and Household Estimates, Twin Cities Metropolitan Area\nTwin Cities Metropolitan Area Regional Groundwater Flow Model, Version 2.00 (Metro Model 2) Projected Hydraulic Head DEMs - Twin Cities Metropolitan Area, Minnesota\nTop of Bedrock Units\nTIGER/Line Shapefile, 2019, nation, U.S., Current Metropolitan Statistical Area/Micropolitan Statistical Area (CBSA) National\nD-01 Surficial Geology WFL1 (MGS)\nMinnesota Geological Survey\nDepth to bedrock (MGS)\nNRCS gSSURGO database\nDEM LiDAR\nMaplewood Neighborhood Preserves\nCity of Blaine Open Space\n\n\n\n\n11.4.2 Preliminary Project Boundaries\n\nStart with federal metropolitan statistical area boundary polygon\nTrim to developed areas using land cover dataset\nFurther refine based on input from stakeholders\nCoordinate with Joe to determine extent of sampling needed\n\n\n\n11.4.3 Stakeholders to Contact\n\nCounties: Ramsey, Hennepin\nCities: Minneapolis, St. Paul\nPark districts: Minneapolis Parks, St. Paul Parks, Ramsey County Parks, Three Rivers Park District\nCommunity groups: Urban Farmers Guild Alliance (UFGA), Urban Roots\nState agencies: DNR, Minnesota Geological Survey\nFederal: Fish & Wildlife Service\n\n\n\n11.4.4 Engagement Goals\n\nObtain permissions for site access and sampling\nGather input on local needs and interests\nIncrease involvement in field work and outreach\n\n\n\n11.4.5 Project Kickoff Meeting\n\nSet tentative date for week of May 6th\nSend initial save the date notice next week\nFollow up with more details and solicit questions/feedback\nPresent goals, gather additional input\nInvite stakeholders listed above"
+  },
+  {
+    "objectID": "minutes-02FEB2024-nic-nora.html#action-items",
+    "href": "minutes-02FEB2024-nic-nora.html#action-items",
+    "title": "11  Nic and Nora Check In Meeting Minutes",
+    "section": "11.5 Action Items",
+    "text": "11.5 Action Items\n\nContact listed stakeholders for permissions and engagement\nObtain key datasets and assemble in GIS\nDevelop draft boundary map to review with NRCS\n\nPlan kickoff meeting agenda and presentation"
+  },
+  {
+    "objectID": "minutes-02FEB2024-nic-nora.html#next-meeting",
+    "href": "minutes-02FEB2024-nic-nora.html#next-meeting",
+    "title": "11  Nic and Nora Check In Meeting Minutes",
+    "section": "11.6 Next Meeting",
+    "text": "11.6 Next Meeting\n\nWeekly check-ins on Fridays\nTentative kickoff meeting week of May 6th"
+  },
+  {
+    "objectID": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
+    "href": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
+    "title": "10  Twin Cities Urban Soil Mapping Project",
+    "section": "10.1 Meeting Minutes",
+    "text": "10.1 Meeting Minutes\n\n10.1.1 Date: Tuesday, February 06, 2024\n\n\n10.1.2 Attendees:\n\nJoseph Brennan (NRCS)\n\nNic Jelinski (UMN)\nNora Pearson (UMN)\n\n\n\n10.1.3 Agenda:\n\nOnboarding of Patty Burns (NRCS retiree)\nKickoff meeting planning\nInvestigation plan review\nResource planning\n\n\n\n10.1.4 Discussion Points:\n\n10.1.4.1 Onboarding Patty Burns\n\nPatty will be starting Feb 12th as a contractor for NRCS to support the project\nShe will be the main point of contact and lead for deliverables, given her extensive experience with NRCS urban soil mapping projects\nHer time (16-20 hrs per pay period) is available to the UMN team - she can help with logistics, planning, project workflow, NRCS processes etc.\nJoseph will connect with Patty every few weeks, but the UMN team can reach out to her directly as needed\nNora and Nic plan to have weekly check-ins with Patty to get her up to speed and seek guidance\n\n\n\n10.1.4.2 Kickoff Meeting Planning\n\nOriginal target was Q1 2023 but realistically looking at April/May now\nU of MN team would like to have a more representative group beyond just NRCS, including:\n\nMunicipal partners (City of Minneapolis, DNR, FWS, etc)\nMinnesota Geological Survey\nGrower groups\n\nJoseph offered to check NRCS leadership availability the week of May 6th\nNic will send some date options that work for the UMN side\nGoal is to find a common date in early May with NRCS leadership and external partners for a kickoff meeting over Zoom\n\n\n\n10.1.4.3 Investigation Plan Review\n\nJoseph noted that since this is an update rather than an initial survey, the documentation requirements are less intensive than some past urban projects\nFor raster projects, NRCS standards recommend 10 samples per map unit class as a minimum\nPast urban projects like Detroit sampled around 300 sites for 200,000 acres\nJoseph encouraged focusing on key properties needed by users - texture, organic matter, Ksat etc. - which can likely be estimated from existing data\nThe current agreement is for 3 field seasons, so recommendations are focused on the minimum requirements rather than extensive sampling\nNic agreed the DSP requirements seem achievable for the current scope\n\n\n\n10.1.4.4 Resource Planning\n\nJoseph estimates NRCS can commit around 50 staff weeks this first field season\nThis includes new soil scientist Adam Devlin starting in July who can commit 2-3 days per week\nOther NRCS staff like Helen, Clayton, Matt may also be able to assist periodically in the field\nNic suggested a broader spatial and temporal sampling plan over the next couple years, given the extra resources\nThe U of MN team can start developing a draft plan to share with NRCS in the coming weeks\nNora confirmed the U of MN side has capacity this season with her time plus opportunistic sampling\n\n\n\n\n10.1.5 Action Items:\n\nUMN team to send some May kickoff meeting date options to Joseph\nJoseph to check availability with NRCS leadership for early May kickoff meeting\nNora to connect with Patty Burns weekly once she starts Feb 12\nUMN team to develop draft expanded sampling plan for next couple years"
   }
 ]

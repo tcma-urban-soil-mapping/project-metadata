@@ -24,6 +24,8 @@ book:
       - minutes-15DEC2023-technical-kickoff.qmd
       - minutes-12JAN2024-dsp.qmd
       - minutes-12JAN2024-qa-qc-nasis.qmd
+      - minutes-02FEB2024-joe-nic-nora.qmd
+      - minutes-02FEB2024-nic-nora.qmd
     # - authorship-guidelines.qmd
     - summary.qmd
     - references.qmd

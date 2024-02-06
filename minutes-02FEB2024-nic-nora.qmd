@@ -1,0 +1,88 @@
+# Nic and Nora Check In Meeting Minutes
+
+## Date
+Friday, February 06, 2024
+
+## Attendees
+- Nic Jelinski
+- Nora Pearson
+
+## Agenda
+- Identify key datasets to obtain
+- Determine preliminary project boundaries
+- Identify stakeholders to contact for permissions and engagement
+- Plan for project kickoff meeting
+
+## Discussion Notes
+
+### Key Datasets to Obtain
+- Federal definition of Twin Cities metropolitan statistical area boundary 
+- Minnesota Geological Survey county soil maps
+- Metropolitan Council/MetroGIS land use and land cover data
+- LiDAR digital elevation data 
+- NRCS SSURGO soils data
+- Historic Twin Cities soil survey maps/data (for example, UMN Extension Bulletin 320 (1967))
+- Minnesota Geospatial Commons data, listed below: 
+    - [TCMA 1-Meter Land Cover Classification](https://gisdata.mn.gov/dataset/base-landcover-twincities)
+    - [Counties and Cities & Townships, Twin Cities Metropolitan Area](https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-metro-counties-and-ctus)
+    - [Regional Parks and Trails - 2023 Annual Update](https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-parks-regional-parks-trails)
+    - [Generalized Land Use 2020](https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse2020)
+    - [Lakes and Rivers - Open Water Features](https://gisdata.mn.gov/dataset/us-mn-state-metc-water-lakes-rivers)
+    - [Localized Flood Map for Climate Vulnerability Screening](https://gisdata.mn.gov/dataset/us-mn-state-metc-env-local-flood-screening)
+    - [Census 2020 Geography - Blocks, Block Groups, Tracts, Counties, and County Subdivisions](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2020tiger)
+    - [Census 2020 Geographic Crosswalks](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2020crosswalks)
+    - [Digital Orthoimagery, Twin Cities, Minnesota, Spring 2020, 1-ft Resolution](https://gisdata.mn.gov/dataset/us-mn-state-metc-base-metro-orthos-2020)
+    - [Counties and Cities & Townships 2020, Twin Cities Metropolitan Area](https://gisdata.mn.gov/dataset/us-mn-state-metc-bdry-census2020counties-ctus)
+    - [Generalized Land Use Historical (1984, 1990, 1997, 2000, 2005, 2010, 2016, 2020)](https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-generl-lnduse-historical)
+    - [Metropolitan Urban Service Areas - Historical (1995 - 1998)](https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-musa-historical1995-1998)
+    - [2000 Urbanized Area and Urban Clusters](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census2000tiger-uac)
+    - [1945 and 1959 Residential Land Use](https://gisdata.mn.gov/dataset/us-mn-state-metc-plan-residnt-landuse1945-1959)
+    - [1990 to 2000 Census Tract Correspondence and Combined Tracts](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-census-trt-comb1990-2000)
+    - [Metropolitan Council Base Map Service](https://gisdata.mn.gov/dataset/us-mn-state-metc-base-metcouncil-basemap-service)
+    - [Annual Small Area Population and Household Estimates, Twin Cities Metropolitan Area](https://gisdata.mn.gov/dataset/us-mn-state-metc-society-small-area-estimates)
+    - [Twin Cities Metropolitan Area Regional Groundwater Flow Model, Version 2.00 (Metro Model 2) Projected Hydraulic Head DEMs - Twin Cities Metropolitan Area, Minnesota](https://gisdata.mn.gov/dataset/us-mn-state-metc-water-metro-grndwater-flow-model)
+    - [Top of Bedrock Units](https://gisdata.mn.gov/dataset/us-mn-state-metc-geos-metro-top-elev-bedrock)
+    - [TIGER/Line Shapefile, 2019, nation, U.S., Current Metropolitan Statistical Area/Micropolitan Statistical Area (CBSA) National](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-metropolitan-statistical-area-micropolitan-statist)
+    - [D-01 Surficial Geology WFL1 (MGS)](https://mngs-umn.opendata.arcgis.com/maps/UMN::d-01-surficial-geology-wfl1/about?layer=)
+    - [Minnesota Geological Survey](https://conservancy.umn.edu/handle/11299/708)
+    - [Depth to bedrock (MGS)](https://umn.maps.arcgis.com/home/item.html?id=3a6326f3f666497e9bef1039a55d67ba)
+    - [NRCS gSSURGO database](https://www.nrcs.usda.gov/resources/data-and-reports/gridded-soil-survey-geographic-gssurgo-database)
+    - DEM LiDAR
+    - [Maplewood Neighborhood Preserves](https://maplewoodmn.gov/984/Neighborhood-Preserves)
+    - [City of Blaine Open Space](https://blainemn.gov/DocumentCenter/View/6238/Open-Space-Map)
+
+### Preliminary Project Boundaries
+- Start with federal metropolitan statistical area boundary polygon
+- Trim to developed areas using land cover dataset
+- Further refine based on input from stakeholders
+- Coordinate with Joe to determine extent of sampling needed
+
+### Stakeholders to Contact
+- Counties: Ramsey, Hennepin
+- Cities: Minneapolis, St. Paul
+- Park districts: Minneapolis Parks, St. Paul Parks, Ramsey County Parks, Three Rivers Park District
+- Community groups: Urban Farmers Guild Alliance (UFGA), Urban Roots
+- State agencies: DNR, Minnesota Geological Survey
+- Federal: Fish & Wildlife Service
+
+### Engagement Goals
+- Obtain permissions for site access and sampling
+- Gather input on local needs and interests
+- Increase involvement in field work and outreach
+
+### Project Kickoff Meeting
+- Set tentative date for week of May 6th
+- Send initial save the date notice next week
+- Follow up with more details and solicit questions/feedback
+- Present goals, gather additional input
+- Invite stakeholders listed above
+
+## Action Items
+- Contact listed stakeholders for permissions and engagement
+- Obtain key datasets and assemble in GIS
+- Develop draft boundary map to review with NRCS  
+- Plan kickoff meeting agenda and presentation
+
+## Next Meeting
+- Weekly check-ins on Fridays
+- Tentative kickoff meeting week of May 6th
