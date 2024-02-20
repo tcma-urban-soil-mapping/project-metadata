@@ -38,7 +38,7 @@ The meeting was an informal kickoff discussion regarding the technical aspects o
 
 ### CEMA 207 Assessments
 
--   Guidance documents produced through this project will help field offices implement CEMA 207 urban soil assessments.
+-   Guidance documents produced through this project will help field offices implement [CEMA 207](https://www.nrcs.usda.gov/sites/default/files/2022-10/FY23_CEMA%20207_Site%20Assessment%20and%20Soil%20Testing%20for%20Contaminants%20Activity.pdf) urban soil assessments.
 -   Improved technical references developed here may support initial contamination site history surveys if adequate legacy data exists.
 
 ### Dynamic Soil Property (DSP) Investigations
