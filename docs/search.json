@@ -355,5 +355,61 @@
     "title": "10  Joe, Nic, and Nora Check In",
     "section": "10.1 Meeting Minutes",
     "text": "10.1 Meeting Minutes\n\n10.1.1 Date: Tuesday, February 06, 2024\n\n\n10.1.2 Attendees:\n\nJoseph Brennan (NRCS)\n\nNic Jelinski (UMN)\nNora Pearson (UMN)\n\n\n\n10.1.3 Agenda:\n\nOnboarding of Patty Burns (NRCS retiree)\nKickoff meeting planning\nInvestigation plan review\nResource planning\n\n\n\n10.1.4 Discussion Points:\n\n10.1.4.1 Onboarding Patty Burns\n\nPatty will be starting Feb 12th as a contractor for NRCS to support the project\nShe will be the main point of contact and lead for deliverables, given her extensive experience with NRCS urban soil mapping projects\nHer time (16-20 hrs per pay period) is available to the UMN team - she can help with logistics, planning, project workflow, NRCS processes etc.\nJoseph will connect with Patty every few weeks, but the UMN team can reach out to her directly as needed\nNora and Nic plan to have weekly check-ins with Patty to get her up to speed and seek guidance\n\n\n\n10.1.4.2 Kickoff Meeting Planning\n\nOriginal target was Q1 2023 but realistically looking at April/May now\nU of MN team would like to have a more representative group beyond just NRCS, including:\n\nMunicipal partners (City of Minneapolis, DNR, FWS, etc)\nMinnesota Geological Survey\nGrower groups\n\nJoseph offered to check NRCS leadership availability the week of May 6th\nNic will send some date options that work for the UMN side\nGoal is to find a common date in early May with NRCS leadership and external partners for a kickoff meeting over Zoom\n\n\n\n10.1.4.3 Investigation Plan Review\n\nJoseph noted that since this is an update rather than an initial survey, the documentation requirements are less intensive than some past urban projects\nFor raster projects, NRCS standards recommend 10 samples per map unit class as a minimum\nPast urban projects like Detroit sampled around 300 sites for 200,000 acres\nJoseph encouraged focusing on key properties needed by users - texture, organic matter, Ksat etc. - which can likely be estimated from existing data\nThe current agreement is for 3 field seasons, so recommendations are focused on the minimum requirements rather than extensive sampling\nNic agreed the DSP requirements seem achievable for the current scope\n\n\n\n10.1.4.4 Resource Planning\n\nJoseph estimates NRCS can commit around 50 staff weeks this first field season\nThis includes new soil scientist Adam Devlin starting in July who can commit 2-3 days per week\nOther NRCS staff like Kellen, Clayton, Matt may also be able to assist periodically in the field\nNic suggested a broader spatial and temporal sampling plan over the next couple years, given the extra resources\nThe U of MN team can start developing a draft plan to share with NRCS in the coming weeks\nNora confirmed the U of MN side has capacity this season with her time plus opportunistic sampling\n\n\n\n\n10.1.5 Action Items:\n\nUMN team to send some May kickoff meeting date options to Joseph\nJoseph to check availability with NRCS leadership for early May kickoff meeting\nNora to connect with Patty Burns weekly once she starts Feb 12\nUMN team to develop draft expanded sampling plan for next couple years"
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#attendees",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#attendees",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.1 Attendees",
+    "text": "12.1 Attendees\n\nNic Jelinski, University of Minnesota\nNora Pearson, University of Minnesota\nPatty Burns, NRCS"
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#project-overview",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#project-overview",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.2 Project Overview",
+    "text": "12.2 Project Overview\n\nThis project involves updating SSURGO soil survey data for the Twin Cities metro area.\nThere is a high demand for updated urban soil information. Much of the existing SSURGO data for the core urban areas of Minneapolis and St. Paul is very limited.\nThe project will involve field sampling, lab analysis, digital soil mapping, and development of products tailored for urban end users.\nThe project timeline is 2023-2025.\nA key early task is defining the project area boundary - the “contiguous census qualifying urbanized area within the Minneapolis, Saint Paul, Bloomington Metropolitan Statistical Area”.\nNora is working on analyzing land use, land cover, census, and other data layers to delineate this project area.\nThe project area will likely encompass Minneapolis, St. Paul, and the inner ring suburbs. It will be smaller than the full 7-county metro area.\nDefining the project area boundary will allow intersecting it with the existing SSURGO map units to identify the project map units."
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#project-components",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#project-components",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.3 Project Components",
+    "text": "12.3 Project Components\n\n12.3.1 Soil Survey Update\n\nThe main project component is conducting field sampling and analysis to update and improve the SSURGO soil map and data for the defined urbanized project area.\nThe team will start by securing access permissions for public parks, open spaces, etc. This will give initial sites to sample while permissions for other areas are sought.\nField work will involve morphological descriptions and sampling by genetic horizon. Samples will be archived and analyzed.\nMid-infrared spectroscopy will be used to predict soil properties. Lab data will verify and calibrate predictions.\nRasters, not vectors, will be the main mapping products. Rasters integrate well with the high-resolution LiDAR, land cover, and other metro geospatial data.\nThe NRCS will handle ingesting final raster products into their systems and creating certified SSURGO updates.\n\n\n\n12.3.2 Dynamic Soil Properties (DSP)\n\nA DSP investigation will occur in 2024-2025 at selected urban land use sites.\nThe DSP investigation will be “extensive” level - less intensive than a full DSM project.\nThe focus will likely be on variations across urban land uses, especially urban agriculture.\n2023 will involve planning and selecting sites for the eventual DSP component.\n\n\n\n12.3.3 Mapping Guide\n\nA documented mapping guide will be developed on conducting urban digital soil mapping and surveys.\nIt will build off an existing 2023 Urban Soil Survey Mapping Guide (NRCS Urban Focus Team 2023).\n\n\n\n12.3.4 Outreach\n\nCommunity engagement such as on-site soil screening will be conducted.\nNRCS staff will be invited to outreach events.\n\n\n\n12.3.5 Geophysical Tools\n\nTraining will be provided to NRCS on using field portable X-ray fluorescence for contaminant screening.\nThis will tie into the NRCS’s Site Assessment CEMA 207 protocol."
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#project-timeline-and-milestones",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#project-timeline-and-milestones",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.4 Project Timeline and Milestones",
+    "text": "12.4 Project Timeline and Milestones\n\n12.4.1 2024\n\nKickoff meeting with NRCS partners in mid-December 2023.\nBroader project kickoff meeting in May 2024 with other potential project data users.\nFinalize sampling plans.\nField work in summer 2024.\nPlan DSP investigation sites.\n\n\n\n12.4.2 2025\n\nContinue field work.\nPerform DSP investigation.\n\n\n\n12.4.3 2025\n\nFinal data analysis and product development.\nDeliver certified SSURGO updates and final reports."
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#next-steps",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#next-steps",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.5 Next Steps",
+    "text": "12.5 Next Steps\n\nRefine project area boundary using various data layers.\nBy next meeting (3/28/23): Have draft boundary ready to discuss."
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#action-items",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#action-items",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.6 Action Items",
+    "text": "12.6 Action Items\n\nNora: Have project area boundary draft ready for 3/28 meeting.\nNic: Schedule May kickoff meeting.\nPatty: Check on getting urban areas shapefile from Census (during meeting with Danielle).\nNic: Send Patty and Nora example mapping guide."
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#discussion-points",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#discussion-points",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.7 Discussion Points",
+    "text": "12.7 Discussion Points\n\nGood foundational data exists - land cover, Lidar, geology maps, etc. This will help stratify sampling and support modeling.\nExisting twin cities soil survey isn’t terrible compared to other cities. Useful concepts are present to build from.\nPermissions and access are critical in urban areas. Starting with public lands then expanding outward is a solid approach.\nNRCS will handle integrating final products into their systems and protocols. The research team will focus on developing the core raster mapping products.\nNRCS staff may participate in field work as available. Field calibration will be done in June/July 2023 with all teams present.\nJoe Brennan (NRCS) will help with DSP methodology. Patty has DSP experience from other projects."
+  },
+  {
+    "objectID": "minutes-20FEB2024-patty-nic-nora.html#follow-up",
+    "href": "minutes-20FEB2024-patty-nic-nora.html#follow-up",
+    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
+    "section": "12.8 Follow Up",
+    "text": "12.8 Follow Up\n\nShift upcoming Tuesday meetings to Wednesday at 2PM.\nShare contact info for coordinating outside of meetings.\nNext meeting is 3/28/23 at 2pm via Zoom."
   }
 ]
