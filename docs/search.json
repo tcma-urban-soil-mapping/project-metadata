@@ -133,13 +133,6 @@
     "text": "5.4 Data Security\n[From GEMS Platform FAQ] All GEMS staff members, including those at the data center at MSI who maintain GEMS have been fully trained on HIPAA privacy protocols. GEMS also has policies reviewed by MSI’s Research Security and Compliance Analyst. All GEMS staff with access to private data sign an internal non-disclosure agreement designed by UMN’s Office of the General Counsel. All operations within the platform are isolated into encrypted containers where no other users have access (hence no snooping). Data entering or leaving these containers is also encrypted to prevent opportunity for leaks. All identifiable data residing in the platform are legally deemed private and non-public by the State of Minnesota, and hence not FOIAble. Finally, we provide users with various anonymization tools to de-identify their own data sets prior to sharing. These include removal of named identifiers, fuzzing and jittering of geo-coordinates and geospatial aggregation.\n\n5.4.1 Roles and Responsibilities\nPI Jelinski will be responsible ensuring the data management plan is followed by all project participants and will also be responsible for reporting compliance with this data management plan to NRCS. The annual and final reports to NRCS will have an expanded data management plan as an integral component, and will include progress in data sharing (e.g., statistics on shared and accessed data sets, publications, DOIs, outreach materials). The final report will describe the data that was produced during the award period and the components that will be stored and preserved (including the expected duration) after the award ends. The GEMS platform data steward will ensure that the data management plan will be compliant with the Research Terms and Conditions that govern NRCS-funded projects."
   },
   {
-    "objectID": "discussion-log-meeting-minutes.html#contents",
-    "href": "discussion-log-meeting-minutes.html#contents",
-    "title": "Discussion Log / Meeting Minutes",
-    "section": "Contents",
-    "text": "Contents\nThis is an archive of all project discussions/meeting minutes of consequence."
-  },
-  {
     "objectID": "minutes-15DEC2023-admin-kickoff.html#introduction",
     "href": "minutes-15DEC2023-admin-kickoff.html#introduction",
     "title": "6  Administrative Kickoff 15DEC2023",
@@ -301,11 +294,11 @@
     "text": "9.4 Next Meeting\n\nLate February 2024 for smaller work group to discuss sampling plan\nMarch 2024 broader project kickoff meeting with partners\n\nThe key points covered in the meeting were the documentation standards for the urban soil survey, integrating legacy data, field season constraints, importance of field reviews during the project, role of the local NRCS office, and next steps for a project kickoff meeting and developing the sampling plan. The group discussed balancing NRCS requirements for update surveys with the practical limitations of working in an urban environment. They talked through issues like site access, using non-traditional covariates for digital soil mapping, and the timeline for completing field work over two seasons. Action items included compiling sample density statistics from other urban surveys, continuing permit acquisition, and organizing an initial project kickoff meeting in March 2024. The next meeting will focus on the sampling plan with a smaller work group before bringing together all project partners."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "10  Summary",
-    "section": "",
-    "text": "Do we need a summary chapter?"
+    "objectID": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
+    "href": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
+    "title": "10  Joe, Nic, and Nora Check In",
+    "section": "10.1 Meeting Minutes",
+    "text": "10.1 Meeting Minutes\n\n10.1.1 Date: Tuesday, February 06, 2024\n\n\n10.1.2 Attendees:\n\nJoseph Brennan (NRCS)\n\nNic Jelinski (UMN)\nNora Pearson (UMN)\n\n\n\n10.1.3 Agenda:\n\nOnboarding of Patty Burns (NRCS retiree)\nKickoff meeting planning\nInvestigation plan review\nResource planning\n\n\n\n10.1.4 Discussion Points:\n\n10.1.4.1 Onboarding Patty Burns\n\nPatty will be starting Feb 12th as a contractor for NRCS to support the project\nShe will be the main point of contact and lead for deliverables, given her extensive experience with NRCS urban soil mapping projects\nHer time (16-20 hrs per pay period) is available to the UMN team - she can help with logistics, planning, project workflow, NRCS processes etc.\nJoseph will connect with Patty every few weeks, but the UMN team can reach out to her directly as needed\nNora and Nic plan to have weekly check-ins with Patty to get her up to speed and seek guidance\n\n\n\n10.1.4.2 Kickoff Meeting Planning\n\nOriginal target was Q1 2023 but realistically looking at April/May now\nU of MN team would like to have a more representative group beyond just NRCS, including:\n\nMunicipal partners (City of Minneapolis, DNR, FWS, etc)\nMinnesota Geological Survey\nGrower groups\n\nJoseph offered to check NRCS leadership availability the week of May 6th\nNic will send some date options that work for the UMN side\nGoal is to find a common date in early May with NRCS leadership and external partners for a kickoff meeting over Zoom\n\n\n\n10.1.4.3 Investigation Plan Review\n\nJoseph noted that since this is an update rather than an initial survey, the documentation requirements are less intensive than some past urban projects\nFor raster projects, NRCS standards recommend 10 samples per map unit class as a minimum\nPast urban projects like Detroit sampled around 300 sites for 200,000 acres\nJoseph encouraged focusing on key properties needed by users - texture, organic matter, Ksat etc. - which can likely be estimated from existing data\nThe current agreement is for 3 field seasons, so recommendations are focused on the minimum requirements rather than extensive sampling\nNic agreed the DSP requirements seem achievable for the current scope\n\n\n\n10.1.4.4 Resource Planning\n\nJoseph estimates NRCS can commit around 50 staff weeks this first field season\nThis includes new soil scientist Adam Devlin starting in July who can commit 2-3 days per week\nOther NRCS staff like Kellen, Clayton, Matt may also be able to assist periodically in the field\nNic suggested a broader spatial and temporal sampling plan over the next couple years, given the extra resources\nThe U of MN team can start developing a draft plan to share with NRCS in the coming weeks\nNora confirmed the U of MN side has capacity this season with her time plus opportunistic sampling\n\n\n\n\n10.1.5 Action Items:\n\nUMN team to send some May kickoff meeting date options to Joseph\nJoseph to check availability with NRCS leadership for early May kickoff meeting\nNora to connect with Patty Burns weekly once she starts Feb 12\nUMN team to develop draft expanded sampling plan for next couple years"
   },
   {
     "objectID": "minutes-02FEB2024-nic-nora.html#date",
@@ -348,13 +341,6 @@
     "title": "11  Nic and Nora Check In Meeting Minutes",
     "section": "11.6 Next Meeting",
     "text": "11.6 Next Meeting\n\nWeekly check-ins on Fridays\nTentative kickoff meeting week of May 6th"
-  },
-  {
-    "objectID": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
-    "href": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
-    "title": "10  Joe, Nic, and Nora Check In",
-    "section": "10.1 Meeting Minutes",
-    "text": "10.1 Meeting Minutes\n\n10.1.1 Date: Tuesday, February 06, 2024\n\n\n10.1.2 Attendees:\n\nJoseph Brennan (NRCS)\n\nNic Jelinski (UMN)\nNora Pearson (UMN)\n\n\n\n10.1.3 Agenda:\n\nOnboarding of Patty Burns (NRCS retiree)\nKickoff meeting planning\nInvestigation plan review\nResource planning\n\n\n\n10.1.4 Discussion Points:\n\n10.1.4.1 Onboarding Patty Burns\n\nPatty will be starting Feb 12th as a contractor for NRCS to support the project\nShe will be the main point of contact and lead for deliverables, given her extensive experience with NRCS urban soil mapping projects\nHer time (16-20 hrs per pay period) is available to the UMN team - she can help with logistics, planning, project workflow, NRCS processes etc.\nJoseph will connect with Patty every few weeks, but the UMN team can reach out to her directly as needed\nNora and Nic plan to have weekly check-ins with Patty to get her up to speed and seek guidance\n\n\n\n10.1.4.2 Kickoff Meeting Planning\n\nOriginal target was Q1 2023 but realistically looking at April/May now\nU of MN team would like to have a more representative group beyond just NRCS, including:\n\nMunicipal partners (City of Minneapolis, DNR, FWS, etc)\nMinnesota Geological Survey\nGrower groups\n\nJoseph offered to check NRCS leadership availability the week of May 6th\nNic will send some date options that work for the UMN side\nGoal is to find a common date in early May with NRCS leadership and external partners for a kickoff meeting over Zoom\n\n\n\n10.1.4.3 Investigation Plan Review\n\nJoseph noted that since this is an update rather than an initial survey, the documentation requirements are less intensive than some past urban projects\nFor raster projects, NRCS standards recommend 10 samples per map unit class as a minimum\nPast urban projects like Detroit sampled around 300 sites for 200,000 acres\nJoseph encouraged focusing on key properties needed by users - texture, organic matter, Ksat etc. - which can likely be estimated from existing data\nThe current agreement is for 3 field seasons, so recommendations are focused on the minimum requirements rather than extensive sampling\nNic agreed the DSP requirements seem achievable for the current scope\n\n\n\n10.1.4.4 Resource Planning\n\nJoseph estimates NRCS can commit around 50 staff weeks this first field season\nThis includes new soil scientist Adam Devlin starting in July who can commit 2-3 days per week\nOther NRCS staff like Kellen, Clayton, Matt may also be able to assist periodically in the field\nNic suggested a broader spatial and temporal sampling plan over the next couple years, given the extra resources\nThe U of MN team can start developing a draft plan to share with NRCS in the coming weeks\nNora confirmed the U of MN side has capacity this season with her time plus opportunistic sampling\n\n\n\n\n10.1.5 Action Items:\n\nUMN team to send some May kickoff meeting date options to Joseph\nJoseph to check availability with NRCS leadership for early May kickoff meeting\nNora to connect with Patty Burns weekly once she starts Feb 12\nUMN team to develop draft expanded sampling plan for next couple years"
   },
   {
     "objectID": "minutes-20FEB2024-patty-nic-nora.html#attendees",
@@ -411,5 +397,12 @@
     "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
     "section": "12.8 Follow Up",
     "text": "12.8 Follow Up\n\nShift upcoming Tuesday meetings to Wednesday at 2PM.\nShare contact info for coordinating outside of meetings.\nNext meeting is 3/28/23 at 2pm via Zoom."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "13  Summary",
+    "section": "",
+    "text": "Do we need a summary chapter?"
   }
 ]
