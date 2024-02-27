@@ -18,7 +18,7 @@ book:
       - deliverable3.qmd
       - deliverable4.qmd
       - datamanagementplan.qmd
-    - part: discussion-log-meeting-minutes.qmd
+    - part: "Discussion Log and Meeting Minutes""
       chapters:
       - minutes-15DEC2023-admin-kickoff.qmd
       - minutes-15DEC2023-technical-kickoff.qmd
