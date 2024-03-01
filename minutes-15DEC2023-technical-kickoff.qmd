@@ -1,5 +1,8 @@
 # Technical Kickoff 15DEC2023
 
+## Date
+Friday, December 15, 2023
+
 ## Introduction
 
 The meeting was an informal kickoff discussion regarding the technical aspects of an agreement between NRCS and the University of Minnesota to update the urban soil survey for the Twin Cities metropolitan area. Additional objectives are to promote understanding of dynamic soil properties in urban environments and support community outreach and engagement.

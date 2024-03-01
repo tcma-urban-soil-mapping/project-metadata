@@ -1,0 +1,75 @@
+# Nic and Nora Check-in 27FEB2024
+
+## Attendees
+
+- Nora Pearson
+- Nic Jelinski
+
+## Agenda
+
+- Review GIS shapefiles to define project area of interest 
+- Identify datasets to use for defining geographic boundaries
+- Determine coordinate reference systems and perform necessary transformations
+- Discuss approach for extracting relevant soil map units
+- Assign action items 
+
+## Review of Shapefiles
+
+Nora shared her screen and walked through the various GIS shapefiles she had loaded into QGIS. The shapefiles included:
+
+- Minnesota Census Blocks (TIGER data, 2023) - Covers all of MN 
+- Groundwater Flow Model Data - Shows groundwater elevation, different layers like Mount Simon, etc.
+- 1990-2000 Census Tract Correspondence/Combined Tracts 
+- Residential Land Use 1945 and 1959
+- Metropolitan Urban Service Areas, Historical 1995-1990
+- Generalized Land Use, Historical - Can choose year, favorite dataset
+- Generalized Land Use 2020 - Most recent land use data
+- Groundwater Boundary - Not very useful 
+- Counties and Cities - From Met Council
+- Lakes and Rivers
+- Regional Parks and Trails Management Boundaries 
+- Census Public Use Microdata Areas - Needs to be clipped to study area
+- 2020 TIGER Blocks
+- Urban Area Clusters 
+
+They discussed that the LiDAR data is too large to download directly and should be brought in through a WMS for viewing (based on Nora's meeting with Joel Nelson). The TIGER Urban Areas dataset looks similar to the Metropolitan Urban Service Areas dataset but is more recent. 
+
+## Defining Geographic Boundaries
+
+Nic advised that they define the area of interest (AOI) based on the 2020 Generalized Land Use dataset, the TIGER 2020 Urban Areas dataset that Nora downloaded, and an additional dataset they will request from Patty - the NRCS SSURGO map units that contain urban components. 
+
+For the Generalized Land Use dataset, Nic had Nora export only the **developed** land use types to a new layer. This includes categories like single family residential, industrial, commercial, etc. 
+
+Nora downloaded the 2020 TIGER urban areas dataset for the whole US. She will need to clip this to just Minnesota and reproject it to match the coordinate system of the other layers.
+
+They will ask Patty if she can generate a layer of just the Soil Survey map units that have urban components. This will require filtering the components table. If not, they can write code to do this filtering but it will take more time.
+
+The goal is for Nora to have the TIGER dataset clipped and reprojected to show alongside the developed land use layer for Patty by tomorrow. Then they can discuss generating the relevant soil map units.
+
+## Action Items
+
+- Nora
+    - Clip TIGER Urban Areas dataset to MN and project to correct CRS 
+    - Overlay clipped Urban Areas with Developed Land Use layer
+    - Send overlapped layers to Patty for discussion on extracting soil map units
+
+- Nic
+    - Follow up with Patty in the morning on approach for extracting relevant soil map units
+    - If needed, work on coding to filter Soil Survey map units
+
+- Patty
+    - Generate layer of Soil Survey map units containing urban components (if possible)
+
+## Next Steps
+
+- Review layers with Patty and discuss approach for extracting urban soil map units
+- Spatially intersect the 3 layers to define project AOI boundary
+- Continue analysis with defined AOI
+
+## Additional Notes
+
+- Nora's new PC build is running GIS programs very quickly!
+- The team is making great progress locating relevant datasets and defining the workflow for spatial analysis.
+- Developing the AOI will allow them to focus the project scope and move forward with more detailed analysis.
+- Collaboration between Nic, Nora, and Patty is going smoothly. Their skills are complementing each other nicely.
+- Overall, the project remains on schedule and within scope.

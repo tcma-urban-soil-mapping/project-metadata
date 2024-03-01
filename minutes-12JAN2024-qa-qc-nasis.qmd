@@ -1,78 +1,95 @@
 # QA/QC & NASIS Discussion 12JAN2024
 
 ## Attendees
-- Nic Jelinski, UMN
-- Nora Pearson, UMN 
-- Dan Wing, NRCS
-- Randy Riddle, NRCS
-- Joe Brennan, NRCS
+
+-   Nic Jelinski, UMN
+-   Nora Pearson, UMN
+-   Dan Wing, NRCS
+-   Randy Riddle, NRCS
+-   Joe Brennan, NRCS
+
+## Date
+Friday, January 12, 2024
 
 ## Agenda Items Discussed
 
 ### Field Data Collection
-- NRCS standard for Major Land Resource Area (MLRA) update projects is 30 full pedon descriptions per major component 
-- Minimum for new series is 10 full pedon descriptions
-- At least 1 full characterization for each potential new series
-- Some flexibility given challenges of urban environment
-- Recommend getting good spatial distribution across project area
-- All documentation needs GPS location in decimal degrees
-- Enough data needed to classify soils and characterize properties
+
+-   NRCS standard for Major Land Resource Area (MLRA) update projects is 30 full pedon descriptions per major component
+-   Minimum for new series is 10 full pedon descriptions
+-   At least 1 full characterization for each potential new series
+-   Some flexibility given challenges of urban environment
+-   Recommend getting good spatial distribution across project area
+-   All documentation needs GPS location in decimal degrees
+-   Enough data needed to classify soils and characterize properties
 
 ### Lab Data
-- Can likely fill data gaps given existing data archive
-- Focus on verifying key soil properties 
+
+-   Can likely fill data gaps given existing data archive
+-   Focus on verifying key soil properties
 
 ### Project Area
-- 300,000 - 400,000 acres approximately
-- 7 counties surrounding Twin Cities
+
+-   300,000 - 400,000 acres approximately
+-   7 counties surrounding Twin Cities
 
 ### Field Season
-- Mid-May to end of August main field season due to reliance on student labor
-- Some work can extend into September-November
+
+-   Mid-May to end of August main field season due to reliance on student labor
+-   Some work can extend into September-November
 
 ### Documentation Standards
-- Goal is to follow typical NRCS standards as much as possible within limitations
-- Not all descriptions need to be full pedons given constraints
-- Need enough data to classify soils, establish series, and characterize properties
-- Opportunistic sampling at construction sites balanced with more standardized auger sampling
 
-### Soil Classification 
-- Recommend classifying soils using both current system and using Artisols
-- Focus mapping on properties, behavior, and interpretive grouping first rather than classification
+-   Goal is to follow typical NRCS standards as much as possible within limitations
+-   Not all descriptions need to be full pedons given constraints
+-   Need enough data to classify soils, establish series, and characterize properties
+-   Opportunistic sampling at construction sites balanced with more standardized auger sampling
+
+### Soil Classification
+
+-   Recommend classifying soils using both current system and using Artisols
+-   Focus mapping on properties, behavior, and interpretive grouping first rather than classification
 
 ### Legacy Data
-- Do not input legacy data without morphology into NASIS
-- If possible, revisit legacy sampling sites and describe morphology
-- Can summarize legacy data and input as text file into NASIS
+
+-   Do not input legacy data without morphology into NASIS
+-   If possible, revisit legacy sampling sites and describe morphology
+-   Can summarize legacy data and input as text file into NASIS
 
 ### Landforms
-- Use existing geologic mapping of parent materials and landforms where possible
-- County geologic atlases being updated for project area
+
+-   Use existing geologic mapping of parent materials and landforms where possible
+-   County geologic atlases being updated for project area
 
 ### Site Access
-- Start process early to get permits from public entities
-- Avoid utility corridors and rights-of-way where possible
-- Connect with public utilities and DoT for potential test pit data
+
+-   Start process early to get permits from public entities
+-   Avoid utility corridors and rights-of-way where possible
+-   Connect with public utilities and DoT for potential test pit data
 
 ### Project Quality Reviews
-- NRCS prefers on-site field reviews and meetings throughout project  
-- Recommend initial field review, progress review midway, and final review
-- Important for developing map units and legend
 
-### Local NRCS Office Role 
-- Albert Lea, MN field office main local contact
-- Clayton Johnson primary NRCS collaborator as Soil Survey Project Leader
-- Will assist with data quality review, correlation, and mapping
+-   NRCS prefers on-site field reviews and meetings throughout project\
+-   Recommend initial field review, progress review midway, and final review
+-   Important for developing map units and legend
+
+### Local NRCS Office Role
+
+-   Albert Lea, MN field office main local contact
+-   Clayton Johnson primary NRCS collaborator as Soil Survey Project Leader
+-   Will assist with data quality review, correlation, and mapping
 
 ## Action Items
-- UMN to organize broader project kickoff meeting in March 2024
-- Potential presentation at NRCS Regional Conference in June 2024
-- Develop summary of sampling density from other urban soil surveys to inform sampling design
-- UMN to continue compiling list of permits needed for field work
-- Potential presentation at Cooperative Meeting in Fargo on April 2-3, 2024
+
+-   UMN to organize broader project kickoff meeting in March 2024
+-   Potential presentation at NRCS Regional Conference in June 2024
+-   Develop summary of sampling density from other urban soil surveys to inform sampling design
+-   UMN to continue compiling list of permits needed for field work
+-   Potential presentation at Cooperative Meeting in Fargo on April 2-3, 2024
 
 ## Next Meeting
-- Late February 2024 for smaller work group to discuss sampling plan
-- March 2024 broader project kickoff meeting with partners
+
+-   Late February 2024 for smaller work group to discuss sampling plan
+-   March 2024 broader project kickoff meeting with partners
 
 The key points covered in the meeting were the documentation standards for the urban soil survey, integrating legacy data, field season constraints, importance of field reviews during the project, role of the local NRCS office, and next steps for a project kickoff meeting and developing the sampling plan. The group discussed balancing NRCS requirements for update surveys with the practical limitations of working in an urban environment. They talked through issues like site access, using non-traditional covariates for digital soil mapping, and the timeline for completing field work over two seasons. Action items included compiling sample density statistics from other urban surveys, continuing permit acquisition, and organizing an initial project kickoff meeting in March 2024. The next meeting will focus on the sampling plan with a smaller work group before bringing together all project partners.

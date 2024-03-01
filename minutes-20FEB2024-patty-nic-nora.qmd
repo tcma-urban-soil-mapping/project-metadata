@@ -6,6 +6,9 @@
 -   Nora Pearson, University of Minnesota
 -   Patty Burns, NRCS
 
+## Date
+Tuesday, February 20, 2024
+
 ## Project Overview
 
 -   This project involves updating SSURGO soil survey data for the Twin Cities metro area.

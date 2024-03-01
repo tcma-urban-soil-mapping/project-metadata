@@ -1,20 +1,23 @@
 # Administrative Kickoff 15DEC2023
 
+## Date
+Friday, December 15, 2023
+
 ## Introduction
 
 The document contains meeting minutes from an administrative kick off meeting between representatives from the USDA Natural Resources Conservation Service (NRCS) in Minnesota and the University of Minnesota. The purpose of the meeting was to discuss a recently finalized agreement between the two organizations to collaborate on updating and improving soil survey data for urban areas in Minnesota.
 
-## Attendees 
+## Attendees
 
 The attendees on the call included:
 
-- Joe Brennan, Minnesota State Soil Scientist, NRCS
-- Stephanie McLain, Minnesota State Soil Health Specialist, NRCS  
-- Crystal Orsello, Agreement Specialist, NRCS
-- Nic Jelinski, Associate Professor, UMN Department of Soil, Water and Climate
-- Nora Pearson, Researcher, UMN Department of Soil, Water and Climate
-- Sarah Hulke, Grants Administrator, UMN 
-- Potential future contacts: Todd Stroessner (UMN financial reporting) and Nicole Jones (UMN departmental accountant)
+-   Joe Brennan, Minnesota State Soil Scientist, NRCS
+-   Stephanie McLain, Minnesota State Soil Health Specialist, NRCS\
+-   Crystal Orsello, Agreement Specialist, NRCS
+-   Nic Jelinski, Associate Professor, UMN Department of Soil, Water and Climate
+-   Nora Pearson, Researcher, UMN Department of Soil, Water and Climate
+-   Sarah Hulke, Grants Administrator, UMN
+-   Potential future contacts: Todd Stroessner (UMN financial reporting) and Nicole Jones (UMN departmental accountant)
 
 ## Purpose of Agreement
 
@@ -22,11 +25,11 @@ The purpose of the agreement is to leverage collective expertise and resources t
 
 ## Budget Overview
 
-The total budget is $551,984 over a 3 year period. 
+The total budget is \$551,984 over a 3 year period.
 
-## Reporting Requirements 
+## Reporting Requirements
 
-Performance reports are required semiannually. Nick Jelinski (UMN) will submit performance reports. Financial reports (SF-425) will be submitted quarterly by Todd Stroessner (UMN). 
+Performance reports are required semiannually. Nick Jelinski (UMN) will submit performance reports. Financial reports (SF-425) will be submitted quarterly by Todd Stroessner (UMN).
 
 ## Key Responsibilities
 

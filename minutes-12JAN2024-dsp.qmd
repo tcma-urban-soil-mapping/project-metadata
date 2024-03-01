@@ -12,6 +12,9 @@
 -   Randy Riddle, NRCS
 -   Francine Lheritier, NRCS
 
+## Date
+Friday, January 12, 2024
+
 ## Agenda
 
 1.  Overview of current DSP guidelines and how to design a study that meets them
