@@ -518,9 +518,37 @@
     "text": "14.5 Action Items Moving Forward\n\nNora will continue preparing the project area shapefile.\nPatty will compile SSURGO layers focused on urban soils.\nThe team will make final decisions on project area after reviewing additional layers.\nNic and Patty will coordinate scheduling the kickoff meeting for May or June.\nNora and Patty will arrange county atlases for Patty’s reference.\nThe team will reconvene next Wednesday for continued discussion."
   },
   {
+    "objectID": "minutes-06MAR2024-patty-nora.html#date",
+    "href": "minutes-06MAR2024-patty-nora.html#date",
+    "title": "15  Patty and Nora Check-in 06MAR2024",
+    "section": "15.1 Date",
+    "text": "15.1 Date\nMarch 6, 2024"
+  },
+  {
+    "objectID": "minutes-06MAR2024-patty-nora.html#attendees",
+    "href": "minutes-06MAR2024-patty-nora.html#attendees",
+    "title": "15  Patty and Nora Check-in 06MAR2024",
+    "section": "15.2 Attendees",
+    "text": "15.2 Attendees\n\nNora B Pearson\nPatty Burns"
+  },
+  {
+    "objectID": "minutes-06MAR2024-patty-nora.html#agenda",
+    "href": "minutes-06MAR2024-patty-nora.html#agenda",
+    "title": "15  Patty and Nora Check-in 06MAR2024",
+    "section": "15.3 Agenda",
+    "text": "15.3 Agenda\n\nUpdate on finding official geology maps\nUpdate on clipping generalized land use data\nDiscussion on mapping challenges\nPotential dates for project kickoff meeting"
+  },
+  {
+    "objectID": "minutes-06MAR2024-patty-nora.html#minutes",
+    "href": "minutes-06MAR2024-patty-nora.html#minutes",
+    "title": "15  Patty and Nora Check-in 06MAR2024",
+    "section": "15.4 Minutes",
+    "text": "15.4 Minutes\n\n15.4.1 1. Update on finding surficial geology maps\n\nNora checked the teaching lab for a copy of soil maps and county atlases but did not find any.\nShe plans to ask Nic about obtaining a hard copy. If not available, she can purchase one.\n\n\n\n15.4.2 2. Update on clipping generalized land use data\n\nNora trimmed the generalized land use 2020 data set to the tiger data for the urban area cluster.\nShe encountered errors with geometry while clipping the data set and had to fix it to make a new layer.\nHowever, she is now unable to get the symbology to show correctly, and the attribute table is empty.\nNora is unsure how to clip out specific areas like lakes and islands from the data set.\n\n\n\n15.4.3 3. Discussion on mapping challenges\n\nPatty shared her screen and showed the generalized land use data she had symbolized for 2020.\nPatty explained how she colored different land uses (e.g., agricultural, residential, industrial) for easier visualization.\nPatty also showed a layer she created by clipping the soil survey polygon layer to the 7-county metro area.\nShe joined this layer with NASIS data and created a new column for “percent no data” to identify areas with missing soil horizon data.\nThe duo discussed the challenges of mapping urban areas, floodplains, and undeveloped lands.\nThey identified the need to consult with Nic on the next steps and potentially expand the project boundary.\n\n\n\n15.4.4 4. Potential dates for project kickoff meeting\n\nJoe suggested targeting the last week of May or the first week of June for the project kickoff meeting.\nNic will identify 2-3 days during that period when he can fly in the partners.\nNora will follow up with Nik this week to finalize the dates and get them on everyone’s calendar before the field season starts.\n\n\n\n15.4.5 Other Notes\n\nNora will be out of town on March 13th, 14th and 15th and unavailable for the regular meeting.\nThe meeting for the following week was rescheduled to Tuesday, March 19th at 2:30 PM."
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "15  Summary",
+    "title": "16  Summary",
     "section": "",
     "text": "Do we need a summary chapter?"
   }
