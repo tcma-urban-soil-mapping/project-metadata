@@ -1,0 +1,52 @@
+# Patty, Nic, Nora Check-in 12MAR2024
+
+## Date
+
+Tuesday, March 12, 2024
+
+### Attendees
+
+-   Patty Burns
+-   Nic Jelinski
+-   Nora Pearson
+
+### Agenda
+
+1.  Discussion on soil data and urbanization
+2.  Defining the project Area of Interest (AOI)
+3.  Next steps
+
+### Meeting Summary
+
+#### Soil Data and Urbanization
+
+-   Patty shared her analysis of the soil data, highlighting areas with no data, partially populated data, and fully populated data.
+-   Urban areas and areas with a high percentage of urbanization were generally lacking soil data or had incomplete data.
+-   Patty created separate shapefiles for different categories like urban land, partially populated areas, wetlands, floodplains, and pits.
+-   The team discussed the Arden Hills Army Training Site (AHATS) and the need to contact the Army Reserves for potential data access and updates.
+-   Wetland data in Ramsey County seemed incomplete, and the team discussed leveraging existing soil series concepts to fill in the gaps.
+
+#### Defining the Project AOI
+
+-   The team discussed using the TIGER urban area file from the census as a basis for defining the contiguous urbanized area, conforming with the project agreement language.
+-   Suggestions were made to clip off certain non-contiguous areas, islands, and areas connected only by roads.
+-   The Minnesota River floodplain was proposed to be included, with a straight line drawn across the floodplain in Carver/Scott counties to avoid intrusion into undeveloped areas.
+-   The team agreed to exclude areas like Sherburne and Wright counties, which are too far from the core urbanized area for the current project scope.
+-   Nora and Nic planned to work on creating a draft AOI shapefile based on the discussed criteria.
+
+#### Next Steps
+
+-   Nora and Nic will create a draft AOI shapefile and send it to Patty.
+-   Patty will share the draft AOI with Joe and other stakeholders for feedback and approval.
+-   Once approved, Patty will incorporate the AOI into NASIS and identify the target map units for updating.
+-   The team discussed acquiring hard copies of county geological atlases to better understand the geology and parent materials in the AOI.
+
+### Action Items
+
+-   Nora and Nic: Create a draft AOI shapefile and send it to Patty.
+-   Patty: Share the draft AOI with stakeholders for feedback and approval.
+-   Nora: Obtain hard copies of county geological atlases for Patty (Nic has on campus).
+
+### Next Meeting
+
+The team agreed to meet again the following Wednesday (March 20, 2024) for a progress update.
