@@ -1,74 +1,77 @@
 # Patty, Nic, Nora Check-in 28FEB2024
 
-## Attendees
-- Nora Pearson 
-- Nic Jelinski
-- Patty Burns
-
 ## Date
+
 Wednesday, February 28, 2024
+
+## Attendees
+
+-   Nora Pearson
+-   Nic Jelinski
+-   Patty Burns
 
 ## Agenda Items
 
 ### Update on Data Preparation
 
-- Nora shared her screen in QGIS to show the census urban area clusters data for the US reprojected into UTM zone 15N. She needs to clip this to just Minnesota. 
+-   Nora shared her screen in QGIS to show the census urban area clusters data for the US reprojected into UTM zone 15N. She needs to clip this to just Minnesota.
 
-- The group looked at the generalized land use data. Nora extracted just the "developed" land use categories. This includes residential, commercial, industrial, etc. 
+-   The group looked at the generalized land use data. Nora extracted just the "developed" land use categories. This includes residential, commercial, industrial, etc.
 
-- Patty had already clipped the TIGER census boundaries to a 7 or 10 county metro area. There is good alignment between the TIGER developed areas and the generalized land use developed areas. 
+-   Patty had already clipped the TIGER census boundaries to a 7 or 10 county metro area. There is good alignment between the TIGER developed areas and the generalized land use developed areas.
 
-- The group discussed using the TIGER boundaries as a starting point to define the project area. They will remove the Stillwater area in Washington County and cut out Anoka County chunks that stretch beyond the core metro.
+-   The group discussed using the TIGER boundaries as a starting point to define the project area. They will remove the Stillwater area in Washington County and cut out Anoka County chunks that stretch beyond the core metro.
 
 ### Ideas for Defining Project Area
 
-- Patty will pull SSURGO soil maps for the 7 county metro area and make a layer showing percent of map units that have "urban" in the component name. This will help identify the core urban areas.
+-   Patty will pull SSURGO soil maps for the 7 county metro area and make a layer showing percent of map units that have "urban" in the component name. This will help identify the core urban areas.
 
-- She will also pull out Udorthents, as these are commonly used for urban soils but have no data. 
+-   She will also pull out Udorthents, as these are commonly used for urban soils but have no data.
 
-- Nic suggested also extracting floodplain components, gravel pits, and other "trash can" units that are opportunities for updating.
+-   Nic suggested also extracting floodplain components, gravel pits, and other "trash can" units that are opportunities for updating.
 
-- Nora asked whether well-mapped outer areas should still be updated. Nic said this could add value by updating soil data, but they will focus on the core urban area first.
+-   Nora asked whether well-mapped outer areas should still be updated. Nic said this could add value by updating soil data, but they will focus on the core urban area first.
 
-- The group looked at historical land use maps from 1945, 1984, and 2020. There has been a lot of development in the southern part of the metro. Nic noted the survey year ranges will influence what gets updated.
+-   The group looked at historical land use maps from 1945, 1984, and 2020. There has been a lot of development in the southern part of the metro. Nic noted the survey year ranges will influence what gets updated.
 
 ### Planning for Kickoff Meeting
 
-- Patty relayed that the NRCS office needs a UMN presenter for the April 2 Fargo meeting. Nic will coordinate with Brent to determine who will present.
+-   Patty relayed that the NRCS office needs a UMN presenter for the April 2 Fargo meeting. Nic will coordinate with Brent to determine who will present.
 
-- Possible kickoff meeting dates are the week of May 6th or the last week of May. Patty will provide a few options from the NRCS side.
+-   Possible kickoff meeting dates are the week of May 6th or the last week of May. Patty will provide a few options from the NRCS side.
 
 ### Action Items
-- Nora will trim the urban area shapefile to the core metro area.
 
-- Patty will create SSURGO map unit layers focused on urban, Udorthents, floodplain components, gravel pits, etc.
+-   Nora will trim the urban area shapefile to the core metro area.
 
-- Nic will follow up on UMN presenter for Fargo kickoff meeting. 
+-   Patty will create SSURGO map unit layers focused on urban, Udorthents, floodplain components, gravel pits, etc.
 
-- Patty will provide date options for kickoff meeting.
+-   Nic will follow up on UMN presenter for Fargo kickoff meeting.
+
+-   Patty will provide date options for kickoff meeting.
 
 ## Additional Discussion
 
-- Patty showed Nora the clipped TIGER census layer she already created. She will send this to Nora as a starting point.
+-   Patty showed Nora the clipped TIGER census layer she already created. She will send this to Nora as a starting point.
 
-- Nora said the city labels layer would help orient herself. Patty can provide common reference layers.
+-   Nora said the city labels layer would help orient herself. Patty can provide common reference layers.
 
-- Patty's role is Soil Specialist, NRCS Contractor. Nora will update the e-book.
+-   Patty's role is Soil Specialist, NRCS Contractor. Nora will update the e-book.
 
-- Best days to reach Patty are Tues-Fri. Text is also good for quick questions.
+-   Best days to reach Patty are Tues-Fri. Text is also good for quick questions.
 
-- Patty requested county geologic atlases if UMN has hard copies to review. Nora will check and order if needed.
+-   Patty requested county geologic atlases if UMN has hard copies to review. Nora will check and order if needed.
 
 ## Action Items Moving Forward
 
-- Nora will continue preparing the project area shapefile.
+-   Nora will continue preparing the project area shapefile.
 
-- Patty will compile SSURGO layers focused on urban soils.
+-   Patty will compile SSURGO layers focused on urban soils.
 
-- The team will make final decisions on project area after reviewing additional layers.
+-   The team will make final decisions on project area after reviewing additional layers.
 
-- Nic and Patty will coordinate scheduling the kickoff meeting for May or June.
+-   Nic and Patty will coordinate scheduling the kickoff meeting for May or June.
 
-- Nora and Patty will arrange county atlases for Patty's reference.
+-   Nora and Patty will arrange county atlases for Patty's reference.
 
-- The team will reconvene next Wednesday for continued discussion.
+-   The team will reconvene next Wednesday for continued discussion.

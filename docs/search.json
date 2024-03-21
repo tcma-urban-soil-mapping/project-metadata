@@ -483,18 +483,18 @@
     "text": "13.7 Additional Notes\n\nNora’s new PC build is running GIS programs very quickly!\nThe team is making great progress locating relevant datasets and defining the workflow for spatial analysis.\nDeveloping the AOI will allow them to focus the project scope and move forward with more detailed analysis.\nCollaboration between Nic, Nora, and Patty is going smoothly. Their skills are complementing each other nicely.\nOverall, the project remains on schedule and within scope."
   },
   {
-    "objectID": "minutes-28FEB2024-patty-nic-nora.html#attendees",
-    "href": "minutes-28FEB2024-patty-nic-nora.html#attendees",
-    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "14.1 Attendees",
-    "text": "14.1 Attendees\n\nNora Pearson\nNic Jelinski\nPatty Burns"
-  },
-  {
     "objectID": "minutes-28FEB2024-patty-nic-nora.html#date",
     "href": "minutes-28FEB2024-patty-nic-nora.html#date",
     "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "14.2 Date",
-    "text": "14.2 Date\nWednesday, February 28, 2024"
+    "section": "14.1 Date",
+    "text": "14.1 Date\nWednesday, February 28, 2024"
+  },
+  {
+    "objectID": "minutes-28FEB2024-patty-nic-nora.html#attendees",
+    "href": "minutes-28FEB2024-patty-nic-nora.html#attendees",
+    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
+    "section": "14.2 Attendees",
+    "text": "14.2 Attendees\n\nNora Pearson\nNic Jelinski\nPatty Burns"
   },
   {
     "objectID": "minutes-28FEB2024-patty-nic-nora.html#agenda-items",
@@ -522,14 +522,14 @@
     "href": "minutes-06MAR2024-patty-nora.html#date",
     "title": "15  Patty and Nora Check-in 06MAR2024",
     "section": "15.1 Date",
-    "text": "15.1 Date\nMarch 6, 2024"
+    "text": "15.1 Date\nWednesday, March 6, 2024"
   },
   {
     "objectID": "minutes-06MAR2024-patty-nora.html#attendees",
     "href": "minutes-06MAR2024-patty-nora.html#attendees",
     "title": "15  Patty and Nora Check-in 06MAR2024",
     "section": "15.2 Attendees",
-    "text": "15.2 Attendees\n\nNora B Pearson\nPatty Burns"
+    "text": "15.2 Attendees\n\nNora Pearson\nPatty Burns"
   },
   {
     "objectID": "minutes-06MAR2024-patty-nora.html#agenda",
@@ -553,9 +553,51 @@
     "text": "16.1 Date\nTuesday, March 12, 2024\n\n16.1.1 Attendees\n\nPatty Burns\nNic Jelinski\nNora Pearson\n\n\n\n16.1.2 Agenda\n\nDiscussion on soil data and urbanization\nDefining the project Area of Interest (AOI)\nNext steps\n\n\n\n16.1.3 Meeting Summary\n\n16.1.3.1 Soil Data and Urbanization\n\nPatty shared her analysis of the soil data, highlighting areas with no data, partially populated data, and fully populated data.\nUrban areas and areas with a high percentage of urbanization were generally lacking soil data or had incomplete data.\nPatty created separate shapefiles for different categories like urban land, partially populated areas, wetlands, floodplains, and pits.\nThe team discussed the Arden Hills Army Training Site (AHATS) and the need to contact the Army Reserves for potential data access and updates.\nWetland data in Ramsey County seemed incomplete, and the team discussed leveraging existing soil series concepts to fill in the gaps.\n\n\n\n16.1.3.2 Defining the Project AOI\n\nThe team discussed using the TIGER urban area file from the census as a basis for defining the contiguous urbanized area, conforming with the project agreement language.\nSuggestions were made to clip off certain non-contiguous areas, islands, and areas connected only by roads.\nThe Minnesota River floodplain was proposed to be included, with a straight line drawn across the floodplain in Carver/Scott counties to avoid intrusion into undeveloped areas.\nThe team agreed to exclude areas like Sherburne and Wright counties, which are too far from the core urbanized area for the current project scope.\nNora and Nic planned to work on creating a draft AOI shapefile based on the discussed criteria.\n\n\n\n16.1.3.3 Next Steps\n\nNora and Nic will create a draft AOI shapefile and send it to Patty.\nPatty will share the draft AOI with Joe and other stakeholders for feedback and approval.\nOnce approved, Patty will incorporate the AOI into NASIS and identify the target map units for updating.\nThe team discussed acquiring hard copies of county geological atlases to better understand the geology and parent materials in the AOI.\n\n\n\n\n16.1.4 Action Items\n\nNora and Nic: Create a draft AOI shapefile and send it to Patty.\nPatty: Share the draft AOI with stakeholders for feedback and approval.\nNora: Obtain hard copies of county geological atlases for Patty (Nic has on campus).\n\n\n\n16.1.5 Next Meeting\nThe team agreed to meet again the following Wednesday (March 20, 2024) for a progress update."
   },
   {
+    "objectID": "minutes-20MAR2024-patty-nic-nora.html#date",
+    "href": "minutes-20MAR2024-patty-nic-nora.html#date",
+    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
+    "section": "17.1 Date",
+    "text": "17.1 Date\nWednesday, March 20, 2024"
+  },
+  {
+    "objectID": "minutes-20MAR2024-patty-nic-nora.html#attendees",
+    "href": "minutes-20MAR2024-patty-nic-nora.html#attendees",
+    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
+    "section": "17.2 Attendees",
+    "text": "17.2 Attendees\n\nNic Jelinski\nPatty Burns\nNora Pearson"
+  },
+  {
+    "objectID": "minutes-20MAR2024-patty-nic-nora.html#agenda",
+    "href": "minutes-20MAR2024-patty-nic-nora.html#agenda",
+    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
+    "section": "17.3 Agenda",
+    "text": "17.3 Agenda\n\nReview of Area of Interest (AOI) boundary\nPresentation for Fargo meeting in early April\nPermitting process update\nSampling strategy for the current year\nInitial field review and coordination"
+  },
+  {
+    "objectID": "minutes-20MAR2024-patty-nic-nora.html#discussion-points",
+    "href": "minutes-20MAR2024-patty-nic-nora.html#discussion-points",
+    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
+    "section": "17.4 Discussion Points",
+    "text": "17.4 Discussion Points\n\n17.4.1 1. Review of Area of Interest (AOI) Boundary\n\nNic presented the draft AOI boundary, which was modified from the previous version:\n\nExcluded non-contiguous areas\nIncluded the Minnesota River valley within the urban area (southwest corner)\nExcluded the northwest corner\n\nPatty had shared the draft with Dan and Joe, who suggested excluding the Minnesota River valley as it may not be urbanized enough.\nDiscussions were held regarding the level of urbanization and potential impacts within the floodplain areas.\nPatty agreed to investigate the level of existing data coverage within the Minnesota River valley to inform the decision.\nArguments were made for including the floodplain areas, as they represent an urban river system with potential soil disturbances and impacts from urban activities.\nThe group leaned towards including the Minnesota River valley within the AOI, as it would capture an interesting aspect of the project and involve more potential partners (e.g., State Parks, National Wildlife Refuge).\nPatty will share the group’s rationale with Dan and Joe for further discussion.\n\n\n\n17.4.2 2. Presentation for Fargo Meeting in Early April\n\nNora will be giving a talk at the Fargo meeting, providing an overview of the project.\nNic and Nora discussed developing a draft presentation for Nora to share with Patty next week, to get feedback from an NRCS perspective.\nThe presentation will cover important aspects of the project, calibrated for the NRCS audience at the Fargo meeting.\n\n\n\n17.4.3 3. Permitting Process Update\n\nNora is working on obtaining permits from various entities, including DNR, Fish and Wildlife Service, Three Rivers Parks, and several cities (Maplewood, Roseville, Saint Paul).\nNora plans to create maps showing potential sampling points for each entity, to facilitate the permitting process.\nThe maps will be shared with Patty, as they will help in logistically planning and coordinating NRCS staff involvement.\n\n\n\n17.4.4 4. Sampling Strategy for the Current Year\n\nThe primary goal for the current year is to collect as much data as possible, rather than focusing extensively on residential areas, which can be more challenging.\nResidential sampling will be opportunistic and conducted in parallel with public land sampling.\nA dedicated team will conduct rapid response sampling at construction sites or upcoming construction sites, as opportunities arise.\nNic emphasized the importance of assessing and stratifying the sampling based on the data collected this season and the legacy data from previous years.\n\n\n\n17.4.5 5. Initial Field Review and Coordination\n\nPatty suggested an initial field review before the full-scale sampling begins, to calibrate data collection, sampling protocols, and rules.\nThe tentative timeline for the field review is June or early July, aligning with the NRCS field season.\nNora will be presenting at the Fargo meeting on Wednesday, and there was a discussion about potentially coordinating a smaller group meeting with key NRCS personnel (e.g., Dan, Joe, Albert Lea group) either before or after the Fargo meeting.\nPatty will coordinate with Dan, Joe, and others to determine the feasibility of a small group meeting during the Fargo meeting or scheduling a separate meeting before the kickoff meeting on May 28.\nThe goal is to gather input, concerns, and feedback from the NRCS partners before the kickoff meeting."
+  },
+  {
+    "objectID": "minutes-20MAR2024-patty-nic-nora.html#action-items",
+    "href": "minutes-20MAR2024-patty-nic-nora.html#action-items",
+    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
+    "section": "17.5 Action Items",
+    "text": "17.5 Action Items\n\nPatty to investigate the level of existing data coverage within the Minnesota River valley and share the group’s rationale for including it with Dan and Joe.\nNora to create a short presentation outlining the group’s rationale.\nNora to develop a draft presentation for the Fargo meeting and share it with Patty next week.\nNora to create maps showing potential sampling points for each entity, to facilitate the permitting process and share with Patty.\nPatty to coordinate with Dan, Joe, and others regarding a potential small group meeting during or around the Fargo meeting, or scheduling a separate meeting before the kickoff meeting on May 28.\nNic to email Joe about the confirmed date for the kickoff meeting (May 28, 10AM) and share a draft agenda within a couple of weeks."
+  },
+  {
+    "objectID": "minutes-20MAR2024-patty-nic-nora.html#next-meeting",
+    "href": "minutes-20MAR2024-patty-nic-nora.html#next-meeting",
+    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
+    "section": "17.6 Next Meeting",
+    "text": "17.6 Next Meeting\nThe next meeting is scheduled for the last week of March."
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "17  Summary",
+    "title": "18  Summary",
     "section": "",
     "text": "Do we need a summary chapter?"
   }
