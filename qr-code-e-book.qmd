@@ -1,0 +1,12 @@
+## QR code to project metadata e-book
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE, out.width = "300%"}
+#note - control plotting size with fig.width and fig.height in chunk option above - numbers are in inches. see here: https://bookdown.org/yihui/rmarkdown-cookbook/figure-size.html - out.width works!!!!!
+library(qrcode)
+
+metadata_qr_code <- qrcode::qr_code("https://tcma-urban-soil-mapping.github.io/project-metadata/")
+#print(metadata_qr_code)
+plot(metadata_qr_code)
+```
+
+
