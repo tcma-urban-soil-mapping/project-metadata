@@ -1,6 +1,7 @@
 # Metadata for Deliverable 2: Documented mapping guide
 
 ## Approach
+Current protocols and equipment lists are published in the section of this e-book titled *Field Protocols.*
 
 ## Deliverables
 

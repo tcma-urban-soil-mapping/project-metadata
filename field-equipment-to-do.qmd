@@ -1,0 +1,43 @@
+# TCMA Urban Soil Mapping Field Equipment Check List & To Do List
+
+*Last edited 04SEP2024 NP*
+
+## Field Equipment Checklist
+
+-   [ ] Pedon description sheets printed on Rite in the Rain [NRCS-UMN Pedon Description Sheet](https://docs.google.com/spreadsheets/d/1ni4ZqxBZGSQ7mRD_f0gUEV5xwQzT-kC3/edit?usp=sharing&ouid=108934466869932900090&rtpof=true&sd=true)
+-   [ ] RUSI description sheets printed on Rite in the Rain \[rusi-field-sheet\](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)
+-   [ ] [Field Book for Describing and Sampling Soils, version 3.0](https://www.nrcs.usda.gov/sites/default/files/2022-09/field-book.pdf) (USDA-NRCS; red book)
+-   [ ] Clipboard and writing utensils (pencils)
+-   [ ] Folder with following items
+    -   [ ] [UMN certificate of insurance form](https://drive.google.com/file/d/1wBfGt-lMefoeQGNBarZpaUoRWoRCXP3B/view?usp=sharing); email Nora for access
+    -   [ ] [Agreement document](https://drive.google.com/file/d/1EjPbuHDeOBsuRaeVOukvweFPeo08C4ti/view?usp=sharing); email Nora for access
+    -   [ ] Permits, as necessary; email Nora for copies if needed
+-   [ ] Clinometer
+-   [ ] Munsell color book
+-   [ ] Auger: dutch auger, open bucket, and closed bucket augers
+-   [ ] 2 gutter sections
+-   [ ] Pedon tape / photo tape (black fabric w/ cm and m markings)
+-   [ ] Tape measure with centimeters
+-   [ ] 10% HCl in dropper bottle, 1L backup in vehicle
+-   [ ] Spray bottle
+-   [ ] Phone, to take site videos and profile photos
+-   [ ] 4 orange cones; place in square around sampling location 
+
+### Additional supplies for construction sites
+
+- [ ] Hard hat 
+- [ ] High-vis vests
+- [ ] Optional: safety glasses
+
+## Field To Do Checklist
+
+-   [ ] Pre-Sampling Survey123 (email Nic for access)
+-   [ ] Pedon description sheet, front and back; write location name on top right of front page
+-   [ ] Artifact description sheet, as necessary
+-   [ ] RUSI field sheet
+-   [ ] Photo of entire profile
+-   [ ] Photos of profile sections
+-   [ ] Horizontal video of profile (\~20 seconds long)
+-   [ ] Site video, in 0.5x if possible (\<2 minutes long)
+-   [ ] Soil samples from each horizon
+-   [ ] Soil Observation & Pedon Description Survey123 (email Nic for access)

@@ -22,7 +22,7 @@ This document contains metadata for each of the grant deliverables, as well as g
 
 -   Nic Jelinski; Associate Professor, University of Minnesota (PI)
 -   Joe Brennan; State Soil Scientist, NRCS
--   Nora Pearson; Researcher, University of Minnesota
+-   Nora Pearson; M.S. Student, University of Minnesota
 -   Dan Wing; Senior Regional Soil Scientist, NRCS
 -   Randy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS
 -   Francine Lheritier; Natural Resource Soil Scientist, NRCS
@@ -30,6 +30,10 @@ This document contains metadata for each of the grant deliverables, as well as g
 -   Patty Burns; Soil Specialist, NRCS Contractor
 
 ## Additional Collaborators
+
+-   City of South St. Paul (soil sampling permit)
+-   Three Rivers Parks District (soil sampling permit)
+-   US Fish & Wildlife Service (soil sampling permit)
 
 ## Funding Source and RFP
 

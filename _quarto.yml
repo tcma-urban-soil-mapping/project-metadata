@@ -32,8 +32,11 @@ book:
       - minutes-06MAR2024-patty-nora.qmd
       - minutes-12MAR2024-patty-nic-nora.qmd
       - minutes-20MAR2024-patty-nic-nora.qmd
+    - part: "Field Protocols"
+      chapters:
+      - field-protocol.qmd
+      - field-equipment-to-do.qmd
     # - authorship-guidelines.qmd
-    - summary.qmd
     - references.qmd
   # appendices:
     # - co-authorship-template.qmd
