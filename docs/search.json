@@ -64,7 +64,7 @@
     "href": "index.html#project-website",
     "title": "TMCA Urban Soil Mapping",
     "section": "Project Website",
-    "text": "Project Website\nhttps://github.com/tmca-urban-soil-mapping",
+    "text": "Project Website\nhttps://tcma-urban-soil-mapping.github.io/project-metadata/",
     "crumbs": [
       "Preface"
     ]
@@ -521,586 +521,113 @@
     ]
   },
   {
-    "objectID": "minutes-02FEB2024-joe-nic-nora.html",
-    "href": "minutes-02FEB2024-joe-nic-nora.html",
-    "title": "10  Joe, Nic, and Nora Check In",
-    "section": "",
-    "text": "10.1 Meeting Minutes",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Joe, Nic, and Nora Check In</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
-    "href": "minutes-02FEB2024-joe-nic-nora.html#meeting-minutes",
-    "title": "10  Joe, Nic, and Nora Check In",
-    "section": "",
-    "text": "10.1.1 Date\nFriday, February 02, 2024\n\n\n10.1.2 Attendees:\n\nJoseph Brennan (NRCS)\nNic Jelinski (UMN)\nNora Pearson (UMN)\n\n\n\n10.1.3 Agenda:\n\nOnboarding of Patty Burns (NRCS retiree)\nKickoff meeting planning\nInvestigation plan review\nResource planning\n\n\n\n10.1.4 Discussion Points:\n\n10.1.4.1 Onboarding Patty Burns\n\nPatty will be starting Feb 12th as a contractor for NRCS to support the project\nShe will be the main point of contact and lead for deliverables, given her extensive experience with NRCS urban soil mapping projects\nHer time (16-20 hrs per pay period) is available to the UMN team - she can help with logistics, planning, project workflow, NRCS processes etc.\nJoseph will connect with Patty every few weeks, but the UMN team can reach out to her directly as needed\nNora and Nic plan to have weekly check-ins with Patty to get her up to speed and seek guidance\n\n\n\n10.1.4.2 Kickoff Meeting Planning\n\nOriginal target was Q1 2023 but realistically looking at April/May now\nU of MN team would like to have a more representative group beyond just NRCS, including:\n\nMunicipal partners (City of Minneapolis, DNR, FWS, etc)\nMinnesota Geological Survey\nGrower groups\n\nJoseph offered to check NRCS leadership availability the week of May 6th\nNic will send some date options that work for the UMN side\nGoal is to find a common date in early May with NRCS leadership and external partners for a kickoff meeting over Zoom\n\n\n\n10.1.4.3 Investigation Plan Review\n\nJoseph noted that since this is an update rather than an initial survey, the documentation requirements are less intensive than some past urban projects\nFor raster projects, NRCS standards recommend 10 samples per map unit class as a minimum\nPast urban projects like Detroit sampled around 300 sites for 200,000 acres\nJoseph encouraged focusing on key properties needed by users - texture, organic matter, Ksat etc. - which can likely be estimated from existing data\nThe current agreement is for 3 field seasons, so recommendations are focused on the minimum requirements rather than extensive sampling\nNic agreed the DSP requirements seem achievable for the current scope\n\n\n\n10.1.4.4 Resource Planning\n\nJoseph estimates NRCS can commit around 50 staff weeks this first field season\nThis includes new soil scientist Adam Devlin starting in July who can commit 2-3 days per week\nOther NRCS staff like Kellen, Clayton, Matt may also be able to assist periodically in the field\nNic suggested a broader spatial and temporal sampling plan over the next couple years, given the extra resources\nThe U of MN team can start developing a draft plan to share with NRCS in the coming weeks\nNora confirmed the U of MN side has capacity this season with her time plus opportunistic sampling\n\n\n\n\n10.1.5 Action Items:\n\nUMN team to send some May kickoff meeting date options to Joseph\nJoseph to check availability with NRCS leadership for early May kickoff meeting\nNora to connect with Patty Burns weekly once she starts Feb 12\nUMN team to develop draft expanded sampling plan for next couple years",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Joe, Nic, and Nora Check In</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-nic-nora.html",
-    "href": "minutes-02FEB2024-nic-nora.html",
-    "title": "11  Nic and Nora Check In Meeting Minutes",
-    "section": "",
-    "text": "11.1 Date\nFriday, February 02, 2024",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nic and Nora Check In Meeting Minutes</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-nic-nora.html#attendees",
-    "href": "minutes-02FEB2024-nic-nora.html#attendees",
-    "title": "11  Nic and Nora Check In Meeting Minutes",
-    "section": "11.2 Attendees",
-    "text": "11.2 Attendees\n\nNic Jelinski\nNora Pearson",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nic and Nora Check In Meeting Minutes</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-nic-nora.html#agenda",
-    "href": "minutes-02FEB2024-nic-nora.html#agenda",
-    "title": "11  Nic and Nora Check In Meeting Minutes",
-    "section": "11.3 Agenda",
-    "text": "11.3 Agenda\n\nIdentify key datasets to obtain\nDetermine preliminary project boundaries\nIdentify stakeholders to contact for permissions and engagement\nPlan for project kickoff meeting",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nic and Nora Check In Meeting Minutes</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-nic-nora.html#discussion-notes",
-    "href": "minutes-02FEB2024-nic-nora.html#discussion-notes",
-    "title": "11  Nic and Nora Check In Meeting Minutes",
-    "section": "11.4 Discussion Notes",
-    "text": "11.4 Discussion Notes\n\n11.4.1 Key Datasets to Obtain\n\nFederal definition of Twin Cities metropolitan statistical area boundary\nMinnesota Geological Survey county soil maps\nMetropolitan Council/MetroGIS land use and land cover data\nLiDAR digital elevation data\nNRCS SSURGO soils data\nHistoric Twin Cities soil survey maps/data (for example, UMN Extension Bulletin 320 (1967))\nMinnesota Geospatial Commons data, listed below:\n\nTCMA 1-Meter Land Cover Classification\nCounties and Cities & Townships, Twin Cities Metropolitan Area\nRegional Parks and Trails - 2023 Annual Update\nGeneralized Land Use 2020\nLakes and Rivers - Open Water Features\nLocalized Flood Map for Climate Vulnerability Screening\nCensus 2020 Geography - Blocks, Block Groups, Tracts, Counties, and County Subdivisions\nCensus 2020 Geographic Crosswalks\nDigital Orthoimagery, Twin Cities, Minnesota, Spring 2020, 1-ft Resolution\nCounties and Cities & Townships 2020, Twin Cities Metropolitan Area\nGeneralized Land Use Historical (1984, 1990, 1997, 2000, 2005, 2010, 2016, 2020)\nMetropolitan Urban Service Areas - Historical (1995 - 1998)\n2000 Urbanized Area and Urban Clusters\n1945 and 1959 Residential Land Use\n1990 to 2000 Census Tract Correspondence and Combined Tracts\nMetropolitan Council Base Map Service\nAnnual Small Area Population and Household Estimates, Twin Cities Metropolitan Area\nTwin Cities Metropolitan Area Regional Groundwater Flow Model, Version 2.00 (Metro Model 2) Projected Hydraulic Head DEMs - Twin Cities Metropolitan Area, Minnesota\nTop of Bedrock Units\nTIGER/Line Shapefile, 2019, nation, U.S., Current Metropolitan Statistical Area/Micropolitan Statistical Area (CBSA) National\nD-01 Surficial Geology WFL1 (MGS)\nMinnesota Geological Survey\nDepth to bedrock (MGS)\nNRCS gSSURGO database\nDEM LiDAR\nMaplewood Neighborhood Preserves\nCity of Blaine Open Space\n\n\n\n\n11.4.2 Preliminary Project Boundaries\n\nStart with federal metropolitan statistical area boundary polygon\nTrim to developed areas using land cover dataset\nFurther refine based on input from stakeholders\nCoordinate with Joe to determine extent of sampling needed\n\n\n\n11.4.3 Stakeholders to Contact\n\nCounties: Ramsey, Hennepin\nCities: Minneapolis, St. Paul\nPark districts: Minneapolis Parks, St. Paul Parks, Ramsey County Parks, Three Rivers Park District\nCommunity groups: Urban Farmers Guild Alliance (UFGA), Urban Roots\nState agencies: DNR, Minnesota Geological Survey\nFederal: Fish & Wildlife Service\n\n\n\n11.4.4 Engagement Goals\n\nObtain permissions for site access and sampling\nGather input on local needs and interests\nIncrease involvement in field work and outreach\n\n\n\n11.4.5 Project Kickoff Meeting\n\nSet tentative date for week of May 6th\nSend initial save the date notice next week\nFollow up with more details and solicit questions/feedback\nPresent goals, gather additional input\nInvite stakeholders listed above",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nic and Nora Check In Meeting Minutes</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-nic-nora.html#action-items",
-    "href": "minutes-02FEB2024-nic-nora.html#action-items",
-    "title": "11  Nic and Nora Check In Meeting Minutes",
-    "section": "11.5 Action Items",
-    "text": "11.5 Action Items\n\nContact listed stakeholders for permissions and engagement\nObtain key datasets and assemble in GIS\nDevelop draft boundary map to review with NRCS\n\nPlan kickoff meeting agenda and presentation",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nic and Nora Check In Meeting Minutes</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-02FEB2024-nic-nora.html#next-meeting",
-    "href": "minutes-02FEB2024-nic-nora.html#next-meeting",
-    "title": "11  Nic and Nora Check In Meeting Minutes",
-    "section": "11.6 Next Meeting",
-    "text": "11.6 Next Meeting\n\nWeekly check-ins on Fridays\nTentative kickoff meeting week of May 6th",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nic and Nora Check In Meeting Minutes</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html",
-    "href": "minutes-20FEB2024-patty-nic-nora.html",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "",
-    "text": "12.1 Attendees",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#attendees",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#attendees",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "",
-    "text": "Nic Jelinski, University of Minnesota\nNora Pearson, University of Minnesota\nPatty Burns, NRCS",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#date",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#date",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.2 Date",
-    "text": "12.2 Date\nTuesday, February 20, 2024",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#project-overview",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#project-overview",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.3 Project Overview",
-    "text": "12.3 Project Overview\n\nThis project involves updating SSURGO soil survey data for the Twin Cities metro area.\nThere is a high demand for updated urban soil information. Much of the existing SSURGO data for the core urban areas of Minneapolis and St. Paul is very limited.\nThe project will involve field sampling, lab analysis, digital soil mapping, and development of products tailored for urban end users.\nThe project timeline is 2023-2025.\nA key early task is defining the project area boundary - the “contiguous census qualifying urbanized area within the Minneapolis, Saint Paul, Bloomington Metropolitan Statistical Area”.\nNora is working on analyzing land use, land cover, census, and other data layers to delineate this project area.\nThe project area will likely encompass Minneapolis, St. Paul, and the inner ring suburbs. It will be smaller than the full 7-county metro area.\nDefining the project area boundary will allow intersecting it with the existing SSURGO map units to identify the project map units.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#project-components",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#project-components",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.4 Project Components",
-    "text": "12.4 Project Components\n\n12.4.1 Soil Survey Update\n\nThe main project component is conducting field sampling and analysis to update and improve the SSURGO soil map and data for the defined urbanized project area.\nThe team will start by securing access permissions for public parks, open spaces, etc. This will give initial sites to sample while permissions for other areas are sought.\nField work will involve morphological descriptions and sampling by genetic horizon. Samples will be archived and analyzed.\nMid-infrared spectroscopy will be used to predict soil properties. Lab data will verify and calibrate predictions.\nRasters, not vectors, will be the main mapping products. Rasters integrate well with the high-resolution LiDAR, land cover, and other metro geospatial data.\nThe NRCS will handle ingesting final raster products into their systems and creating certified SSURGO updates.\n\n\n\n12.4.2 Dynamic Soil Properties (DSP)\n\nA DSP investigation will occur in 2024-2025 at selected urban land use sites.\nThe DSP investigation will be “extensive” level - less intensive than a full DSM project.\nThe focus will likely be on variations across urban land uses, especially urban agriculture.\n2023 will involve planning and selecting sites for the eventual DSP component.\n\n\n\n12.4.3 Mapping Guide\n\nA documented mapping guide will be developed on conducting urban digital soil mapping and surveys.\nIt will build off an existing 2023 Urban Soil Survey Mapping Guide (NRCS Urban Focus Team 2023).\n\n\n\n12.4.4 Outreach\n\nCommunity engagement such as on-site soil screening will be conducted.\nNRCS staff will be invited to outreach events.\n\n\n\n12.4.5 Geophysical Tools\n\nTraining will be provided to NRCS on using field portable X-ray fluorescence for contaminant screening.\nThis will tie into the NRCS’s Site Assessment CEMA 207 protocol.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#project-timeline-and-milestones",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#project-timeline-and-milestones",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.5 Project Timeline and Milestones",
-    "text": "12.5 Project Timeline and Milestones\n\n12.5.1 2024\n\nKickoff meeting with NRCS partners in mid-December 2023.\nBroader project kickoff meeting in May 2024 with other potential project data users.\nFinalize sampling plans.\nField work in summer 2024.\nPlan DSP investigation sites.\n\n\n\n12.5.2 2025\n\nContinue field work.\nPerform DSP investigation.\n\n\n\n12.5.3 2025\n\nFinal data analysis and product development.\nDeliver certified SSURGO updates and final reports.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#next-steps",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#next-steps",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.6 Next Steps",
-    "text": "12.6 Next Steps\n\nRefine project area boundary using various data layers.\nBy next meeting (3/28/23): Have draft boundary ready to discuss.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#action-items",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#action-items",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.7 Action Items",
-    "text": "12.7 Action Items\n\nNora: Have project area boundary draft ready for 3/28 meeting.\nNic: Schedule May kickoff meeting.\nPatty: Check on getting urban areas shapefile from Census (during meeting with Danielle).\nNic: Send Patty and Nora example mapping guide.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#discussion-points",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#discussion-points",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.8 Discussion Points",
-    "text": "12.8 Discussion Points\n\nGood foundational data exists - land cover, Lidar, geology maps, etc. This will help stratify sampling and support modeling.\nExisting twin cities soil survey isn’t terrible compared to other cities. Useful concepts are present to build from.\nPermissions and access are critical in urban areas. Starting with public lands then expanding outward is a solid approach.\nNRCS will handle integrating final products into their systems and protocols. The research team will focus on developing the core raster mapping products.\nNRCS staff may participate in field work as available. Field calibration will be done in June/July 2023 with all teams present.\nJoe Brennan (NRCS) will help with DSP methodology. Patty has DSP experience from other projects.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20FEB2024-patty-nic-nora.html#follow-up",
-    "href": "minutes-20FEB2024-patty-nic-nora.html#follow-up",
-    "title": "12  Patty, Nic, and Nora Check-In 20FEB2024",
-    "section": "12.9 Follow Up",
-    "text": "12.9 Follow Up\n\nShift upcoming Tuesday meetings to Wednesday at 2PM.\nShare contact info for coordinating outside of meetings.\nNext meeting is 3/28/23 at 2pm via Zoom.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Patty, Nic, and Nora Check-In 20FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "",
-    "text": "13.1 Attendees",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#attendees",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#attendees",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "",
-    "text": "Nora Pearson\nNic Jelinski",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#agenda",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#agenda",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "13.2 Agenda",
-    "text": "13.2 Agenda\n\nReview GIS shapefiles to define project area of interest\nIdentify datasets to use for defining geographic boundaries\nDetermine coordinate reference systems and perform necessary transformations\nDiscuss approach for extracting relevant soil map units\nAssign action items",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#review-of-shapefiles",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#review-of-shapefiles",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "13.3 Review of Shapefiles",
-    "text": "13.3 Review of Shapefiles\nNora shared her screen and walked through the various GIS shapefiles she had loaded into QGIS. The shapefiles included:\n\nMinnesota Census Blocks (TIGER data, 2023) - Covers all of MN\nGroundwater Flow Model Data - Shows groundwater elevation, different layers like Mount Simon, etc.\n1990-2000 Census Tract Correspondence/Combined Tracts\nResidential Land Use 1945 and 1959\nMetropolitan Urban Service Areas, Historical 1995-1990\nGeneralized Land Use, Historical - Can choose year, favorite dataset\nGeneralized Land Use 2020 - Most recent land use data\nGroundwater Boundary - Not very useful\nCounties and Cities - From Met Council\nLakes and Rivers\nRegional Parks and Trails Management Boundaries\nCensus Public Use Microdata Areas - Needs to be clipped to study area\n2020 TIGER Blocks\nUrban Area Clusters\n\nThey discussed that the LiDAR data is too large to download directly and should be brought in through a WMS for viewing (based on Nora’s meeting with Joel Nelson). The TIGER Urban Areas dataset looks similar to the Metropolitan Urban Service Areas dataset but is more recent.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#defining-geographic-boundaries",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#defining-geographic-boundaries",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "13.4 Defining Geographic Boundaries",
-    "text": "13.4 Defining Geographic Boundaries\nNic advised that they define the area of interest (AOI) based on the 2020 Generalized Land Use dataset, the TIGER 2020 Urban Areas dataset that Nora downloaded, and an additional dataset they will request from Patty - the NRCS SSURGO map units that contain urban components.\nFor the Generalized Land Use dataset, Nic had Nora export only the developed land use types to a new layer. This includes categories like single family residential, industrial, commercial, etc.\nNora downloaded the 2020 TIGER urban areas dataset for the whole US. She will need to clip this to just Minnesota and reproject it to match the coordinate system of the other layers.\nThey will ask Patty if she can generate a layer of just the Soil Survey map units that have urban components. This will require filtering the components table. If not, they can write code to do this filtering but it will take more time.\nThe goal is for Nora to have the TIGER dataset clipped and reprojected to show alongside the developed land use layer for Patty by tomorrow. Then they can discuss generating the relevant soil map units.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#action-items",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#action-items",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "13.5 Action Items",
-    "text": "13.5 Action Items\n\nNora\n\nClip TIGER Urban Areas dataset to MN and project to correct CRS\nOverlay clipped Urban Areas with Developed Land Use layer\nSend overlapped layers to Patty for discussion on extracting soil map units\n\nNic\n\nFollow up with Patty in the morning on approach for extracting relevant soil map units\nIf needed, work on coding to filter Soil Survey map units\n\nPatty\n\nGenerate layer of Soil Survey map units containing urban components (if possible)",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#next-steps",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#next-steps",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "13.6 Next Steps",
-    "text": "13.6 Next Steps\n\nReview layers with Patty and discuss approach for extracting urban soil map units\nSpatially intersect the 3 layers to define project AOI boundary\nContinue analysis with defined AOI",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-27FEB2024-nic-nora-geospatial.html#additional-notes",
-    "href": "minutes-27FEB2024-nic-nora-geospatial.html#additional-notes",
-    "title": "13  Nic and Nora Check-in 27FEB2024",
-    "section": "13.7 Additional Notes",
-    "text": "13.7 Additional Notes\n\nNora’s new PC build is running GIS programs very quickly!\nThe team is making great progress locating relevant datasets and defining the workflow for spatial analysis.\nDeveloping the AOI will allow them to focus the project scope and move forward with more detailed analysis.\nCollaboration between Nic, Nora, and Patty is going smoothly. Their skills are complementing each other nicely.\nOverall, the project remains on schedule and within scope.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Nic and Nora Check-in 27FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-28FEB2024-patty-nic-nora.html",
-    "href": "minutes-28FEB2024-patty-nic-nora.html",
-    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "",
-    "text": "14.1 Date\nWednesday, February 28, 2024",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 28FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-28FEB2024-patty-nic-nora.html#attendees",
-    "href": "minutes-28FEB2024-patty-nic-nora.html#attendees",
-    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "14.2 Attendees",
-    "text": "14.2 Attendees\n\nNora Pearson\nNic Jelinski\nPatty Burns",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 28FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-28FEB2024-patty-nic-nora.html#agenda-items",
-    "href": "minutes-28FEB2024-patty-nic-nora.html#agenda-items",
-    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "14.3 Agenda Items",
-    "text": "14.3 Agenda Items\n\n14.3.1 Update on Data Preparation\n\nNora shared her screen in QGIS to show the census urban area clusters data for the US reprojected into UTM zone 15N. She needs to clip this to just Minnesota.\nThe group looked at the generalized land use data. Nora extracted just the “developed” land use categories. This includes residential, commercial, industrial, etc.\nPatty had already clipped the TIGER census boundaries to a 7 or 10 county metro area. There is good alignment between the TIGER developed areas and the generalized land use developed areas.\nThe group discussed using the TIGER boundaries as a starting point to define the project area. They will remove the Stillwater area in Washington County and cut out Anoka County chunks that stretch beyond the core metro.\n\n\n\n14.3.2 Ideas for Defining Project Area\n\nPatty will pull SSURGO soil maps for the 7 county metro area and make a layer showing percent of map units that have “urban” in the component name. This will help identify the core urban areas.\nShe will also pull out Udorthents, as these are commonly used for urban soils but have no data.\nNic suggested also extracting floodplain components, gravel pits, and other “trash can” units that are opportunities for updating.\nNora asked whether well-mapped outer areas should still be updated. Nic said this could add value by updating soil data, but they will focus on the core urban area first.\nThe group looked at historical land use maps from 1945, 1984, and 2020. There has been a lot of development in the southern part of the metro. Nic noted the survey year ranges will influence what gets updated.\n\n\n\n14.3.3 Planning for Kickoff Meeting\n\nPatty relayed that the NRCS office needs a UMN presenter for the April 2 Fargo meeting. Nic will coordinate with Brent to determine who will present.\nPossible kickoff meeting dates are the week of May 6th or the last week of May. Patty will provide a few options from the NRCS side.\n\n\n\n14.3.4 Action Items\n\nNora will trim the urban area shapefile to the core metro area.\nPatty will create SSURGO map unit layers focused on urban, Udorthents, floodplain components, gravel pits, etc.\nNic will follow up on UMN presenter for Fargo kickoff meeting.\nPatty will provide date options for kickoff meeting.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 28FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-28FEB2024-patty-nic-nora.html#additional-discussion",
-    "href": "minutes-28FEB2024-patty-nic-nora.html#additional-discussion",
-    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "14.4 Additional Discussion",
-    "text": "14.4 Additional Discussion\n\nPatty showed Nora the clipped TIGER census layer she already created. She will send this to Nora as a starting point.\nNora said the city labels layer would help orient herself. Patty can provide common reference layers.\nPatty’s role is Soil Specialist, NRCS Contractor. Nora will update the e-book.\nBest days to reach Patty are Tues-Fri. Text is also good for quick questions.\nPatty requested county geologic atlases if UMN has hard copies to review. Nora will check and order if needed.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 28FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-28FEB2024-patty-nic-nora.html#action-items-moving-forward",
-    "href": "minutes-28FEB2024-patty-nic-nora.html#action-items-moving-forward",
-    "title": "14  Patty, Nic, Nora Check-in 28FEB2024",
-    "section": "14.5 Action Items Moving Forward",
-    "text": "14.5 Action Items Moving Forward\n\nNora will continue preparing the project area shapefile.\nPatty will compile SSURGO layers focused on urban soils.\nThe team will make final decisions on project area after reviewing additional layers.\nNic and Patty will coordinate scheduling the kickoff meeting for May or June.\nNora and Patty will arrange county atlases for Patty’s reference.\nThe team will reconvene next Wednesday for continued discussion.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 28FEB2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-06MAR2024-patty-nora.html",
-    "href": "minutes-06MAR2024-patty-nora.html",
-    "title": "15  Patty and Nora Check-in 06MAR2024",
-    "section": "",
-    "text": "15.1 Date\nWednesday, March 6, 2024",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Patty and Nora Check-in 06MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-06MAR2024-patty-nora.html#attendees",
-    "href": "minutes-06MAR2024-patty-nora.html#attendees",
-    "title": "15  Patty and Nora Check-in 06MAR2024",
-    "section": "15.2 Attendees",
-    "text": "15.2 Attendees\n\nNora Pearson\nPatty Burns",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Patty and Nora Check-in 06MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-06MAR2024-patty-nora.html#agenda",
-    "href": "minutes-06MAR2024-patty-nora.html#agenda",
-    "title": "15  Patty and Nora Check-in 06MAR2024",
-    "section": "15.3 Agenda",
-    "text": "15.3 Agenda\n\nUpdate on finding official geology maps\nUpdate on clipping generalized land use data\nDiscussion on mapping challenges\nPotential dates for project kickoff meeting",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Patty and Nora Check-in 06MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-06MAR2024-patty-nora.html#minutes",
-    "href": "minutes-06MAR2024-patty-nora.html#minutes",
-    "title": "15  Patty and Nora Check-in 06MAR2024",
-    "section": "15.4 Minutes",
-    "text": "15.4 Minutes\n\n15.4.1 1. Update on finding surficial geology maps\n\nNora checked the teaching lab for a copy of soil maps and county atlases but did not find any.\nShe plans to ask Nic about obtaining a hard copy. If not available, she can purchase one.\n\n\n\n15.4.2 2. Update on clipping generalized land use data\n\nNora trimmed the generalized land use 2020 data set to the tiger data for the urban area cluster.\nShe encountered errors with geometry while clipping the data set and had to fix it to make a new layer.\nHowever, she is now unable to get the symbology to show correctly, and the attribute table is empty.\nNora is unsure how to clip out specific areas like lakes and islands from the data set.\n\n\n\n15.4.3 3. Discussion on mapping challenges\n\nPatty shared her screen and showed the generalized land use data she had symbolized for 2020.\nPatty explained how she colored different land uses (e.g., agricultural, residential, industrial) for easier visualization.\nPatty also showed a layer she created by clipping the soil survey polygon layer to the 7-county metro area.\nShe joined this layer with NASIS data and created a new column for “percent no data” to identify areas with missing soil horizon data.\nThe duo discussed the challenges of mapping urban areas, floodplains, and undeveloped lands.\nThey identified the need to consult with Nic on the next steps and potentially expand the project boundary.\n\n\n\n15.4.4 4. Potential dates for project kickoff meeting\n\nJoe suggested targeting the last week of May or the first week of June for the project kickoff meeting.\nNic will identify 2-3 days during that period when he can fly in the partners.\nNora will follow up with Nik this week to finalize the dates and get them on everyone’s calendar before the field season starts.\n\n\n\n15.4.5 Other Notes\n\nNora will be out of town on March 13th, 14th and 15th and unavailable for the regular meeting.\nThe meeting for the following week was rescheduled to Tuesday, March 19th at 2:30 PM.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Patty and Nora Check-in 06MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-12MAR2024-patty-nic-nora.html",
-    "href": "minutes-12MAR2024-patty-nic-nora.html",
-    "title": "16  Patty, Nic, Nora Check-in 12MAR2024",
-    "section": "",
-    "text": "16.1 Date\nTuesday, March 12, 2024",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 12MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-12MAR2024-patty-nic-nora.html#date",
-    "href": "minutes-12MAR2024-patty-nic-nora.html#date",
-    "title": "16  Patty, Nic, Nora Check-in 12MAR2024",
-    "section": "",
-    "text": "16.1.1 Attendees\n\nPatty Burns\nNic Jelinski\nNora Pearson\n\n\n\n16.1.2 Agenda\n\nDiscussion on soil data and urbanization\nDefining the project Area of Interest (AOI)\nNext steps\n\n\n\n16.1.3 Meeting Summary\n\n16.1.3.1 Soil Data and Urbanization\n\nPatty shared her analysis of the soil data, highlighting areas with no data, partially populated data, and fully populated data.\nUrban areas and areas with a high percentage of urbanization were generally lacking soil data or had incomplete data.\nPatty created separate shapefiles for different categories like urban land, partially populated areas, wetlands, floodplains, and pits.\nThe team discussed the Arden Hills Army Training Site (AHATS) and the need to contact the Army Reserves for potential data access and updates.\nWetland data in Ramsey County seemed incomplete, and the team discussed leveraging existing soil series concepts to fill in the gaps.\n\n\n\n16.1.3.2 Defining the Project AOI\n\nThe team discussed using the TIGER urban area file from the census as a basis for defining the contiguous urbanized area, conforming with the project agreement language.\nSuggestions were made to clip off certain non-contiguous areas, islands, and areas connected only by roads.\nThe Minnesota River floodplain was proposed to be included, with a straight line drawn across the floodplain in Carver/Scott counties to avoid intrusion into undeveloped areas.\nThe team agreed to exclude areas like Sherburne and Wright counties, which are too far from the core urbanized area for the current project scope.\nNora and Nic planned to work on creating a draft AOI shapefile based on the discussed criteria.\n\n\n\n16.1.3.3 Next Steps\n\nNora and Nic will create a draft AOI shapefile and send it to Patty.\nPatty will share the draft AOI with Joe and other stakeholders for feedback and approval.\nOnce approved, Patty will incorporate the AOI into NASIS and identify the target map units for updating.\nThe team discussed acquiring hard copies of county geological atlases to better understand the geology and parent materials in the AOI.\n\n\n\n\n16.1.4 Action Items\n\nNora and Nic: Create a draft AOI shapefile and send it to Patty.\nPatty: Share the draft AOI with stakeholders for feedback and approval.\nNora: Obtain hard copies of county geological atlases for Patty (Nic has on campus).\n\n\n\n16.1.5 Next Meeting\nThe team agreed to meet again the following Wednesday (March 20, 2024) for a progress update.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 12MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20MAR2024-patty-nic-nora.html",
-    "href": "minutes-20MAR2024-patty-nic-nora.html",
-    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
-    "section": "",
-    "text": "17.1 Date\nWednesday, March 20, 2024",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 20MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20MAR2024-patty-nic-nora.html#attendees",
-    "href": "minutes-20MAR2024-patty-nic-nora.html#attendees",
-    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
-    "section": "17.2 Attendees",
-    "text": "17.2 Attendees\n\nNic Jelinski\nPatty Burns\nNora Pearson",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 20MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20MAR2024-patty-nic-nora.html#agenda",
-    "href": "minutes-20MAR2024-patty-nic-nora.html#agenda",
-    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
-    "section": "17.3 Agenda",
-    "text": "17.3 Agenda\n\nReview of Area of Interest (AOI) boundary\nPresentation for Fargo meeting in early April\nPermitting process update\nSampling strategy for the current year\nInitial field review and coordination",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 20MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20MAR2024-patty-nic-nora.html#discussion-points",
-    "href": "minutes-20MAR2024-patty-nic-nora.html#discussion-points",
-    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
-    "section": "17.4 Discussion Points",
-    "text": "17.4 Discussion Points\n\n17.4.1 1. Review of Area of Interest (AOI) Boundary\n\nNic presented the draft AOI boundary, which was modified from the previous version:\n\nExcluded non-contiguous areas\nIncluded the Minnesota River valley within the urban area (southwest corner)\nExcluded the northwest corner\n\nPatty had shared the draft with Dan and Joe, who suggested excluding the Minnesota River valley as it may not be urbanized enough.\nDiscussions were held regarding the level of urbanization and potential impacts within the floodplain areas.\nPatty agreed to investigate the level of existing data coverage within the Minnesota River valley to inform the decision.\nArguments were made for including the floodplain areas, as they represent an urban river system with potential soil disturbances and impacts from urban activities.\nThe group leaned towards including the Minnesota River valley within the AOI, as it would capture an interesting aspect of the project and involve more potential partners (e.g., State Parks, National Wildlife Refuge).\nPatty will share the group’s rationale with Dan and Joe for further discussion.\n\n\n\n17.4.2 2. Presentation for Fargo Meeting in Early April\n\nNora will be giving a talk at the Fargo meeting, providing an overview of the project.\nNic and Nora discussed developing a draft presentation for Nora to share with Patty next week, to get feedback from an NRCS perspective.\nThe presentation will cover important aspects of the project, calibrated for the NRCS audience at the Fargo meeting.\n\n\n\n17.4.3 3. Permitting Process Update\n\nNora is working on obtaining permits from various entities, including DNR, Fish and Wildlife Service, Three Rivers Parks, and several cities (Maplewood, Roseville, Saint Paul).\nNora plans to create maps showing potential sampling points for each entity, to facilitate the permitting process.\nThe maps will be shared with Patty, as they will help in logistically planning and coordinating NRCS staff involvement.\n\n\n\n17.4.4 4. Sampling Strategy for the Current Year\n\nThe primary goal for the current year is to collect as much data as possible, rather than focusing extensively on residential areas, which can be more challenging.\nResidential sampling will be opportunistic and conducted in parallel with public land sampling.\nA dedicated team will conduct rapid response sampling at construction sites or upcoming construction sites, as opportunities arise.\nNic emphasized the importance of assessing and stratifying the sampling based on the data collected this season and the legacy data from previous years.\n\n\n\n17.4.5 5. Initial Field Review and Coordination\n\nPatty suggested an initial field review before the full-scale sampling begins, to calibrate data collection, sampling protocols, and rules.\nThe tentative timeline for the field review is June or early July, aligning with the NRCS field season.\nNora will be presenting at the Fargo meeting on Wednesday, and there was a discussion about potentially coordinating a smaller group meeting with key NRCS personnel (e.g., Dan, Joe, Albert Lea group) either before or after the Fargo meeting.\nPatty will coordinate with Dan, Joe, and others to determine the feasibility of a small group meeting during the Fargo meeting or scheduling a separate meeting before the kickoff meeting on May 28.\nThe goal is to gather input, concerns, and feedback from the NRCS partners before the kickoff meeting.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 20MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20MAR2024-patty-nic-nora.html#action-items",
-    "href": "minutes-20MAR2024-patty-nic-nora.html#action-items",
-    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
-    "section": "17.5 Action Items",
-    "text": "17.5 Action Items\n\nPatty to investigate the level of existing data coverage within the Minnesota River valley and share the group’s rationale for including it with Dan and Joe.\nNora to create a short presentation outlining the group’s rationale.\nNora to develop a draft presentation for the Fargo meeting and share it with Patty next week.\nNora to create maps showing potential sampling points for each entity, to facilitate the permitting process and share with Patty.\nPatty to coordinate with Dan, Joe, and others regarding a potential small group meeting during or around the Fargo meeting, or scheduling a separate meeting before the kickoff meeting on May 28.\nNic to email Joe about the confirmed date for the kickoff meeting (May 28, 10AM) and share a draft agenda within a couple of weeks.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 20MAR2024</span>"
-    ]
-  },
-  {
-    "objectID": "minutes-20MAR2024-patty-nic-nora.html#next-meeting",
-    "href": "minutes-20MAR2024-patty-nic-nora.html#next-meeting",
-    "title": "17  Patty, Nic, Nora Check-in 20MAR2024",
-    "section": "17.6 Next Meeting",
-    "text": "17.6 Next Meeting\nThe next meeting is scheduled for the last week of March.",
-    "crumbs": [
-      "Discussion Log and Meeting Minutes",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Patty, Nic, Nora Check-in 20MAR2024</span>"
-    ]
-  },
-  {
     "objectID": "field-protocol.html",
     "href": "field-protocol.html",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
     "section": "",
-    "text": "18.1 Sampling Location Selection",
+    "text": "10.1 Sampling Location Selection",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#sampling-location-selection",
     "href": "field-protocol.html#sampling-location-selection",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
     "section": "",
     "text": "Complete the Pre-Sampling Survey on Survey123\nComplete a site walk around and choose a sampling location.\n\nLook for electrical lines: either overhead or buried. If buried, they should be marked. As a best practice, find the electrical pole and the location that the pole connects to the house.\nAvoid sampling within three feet of a sidewalk, as utilities are commonly buried parallel to them.\nCheck for detached buildings (garages, etc.) and look for signs of buried electrical lines from the house to the building. If there is a buried line, conduit will be visible coming from the ground and entering the detached building.\nThe sampling location should be a representative area of the site and not highly disturbed in comparison to natural conditions. Keep in mind that this soil survey update is on a broader scale than the home level.\nIn residential areas, do not sample in food-producing areas. Compost and other amendment applications are common and this does not represent the most common land use.\n\nIf sampling at a construction site: once location is established; place cones around the work area. Hard hats and high vis vests should be worn.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#sampling-protocol",
     "href": "field-protocol.html#sampling-protocol",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
-    "section": "18.2 Sampling Protocol",
-    "text": "18.2 Sampling Protocol\n\nAt sites where the ground surface is pavement (ie, a construction site where you are looking at an exposure), pavement should be included as a horizon. Do not start the description with the soil surface being the first horizon if there is pavement above it.\nAuger to a minimum of 150 cm or until the auger handles are buried, carefully transferring each bucket into the gutter section.\n\nPull the auger up after 2 full rotations to ensure that the soil is not compacted into the bucket.\nTake care to keep the depth of soil in the gutter the same as the depth of the whole. The tendency can be to expand the soil in the gutter. Compare the hole depth to the gutter depth after every 2 buckets by putting the auger all the way into the hole, putting a fist around the auger pole (with the bottom of the fist marking the ground depth), and comparing the length of the auger that was in the ground to the length of soil laying in the gutter.\n\nTake detailed photos and videos of the profile in the gutter. This should be done prior to describing the profile to minimize disturbance. Use the spray bottle to re-moisten the profile if necessary.\n\nLay a tape measure showing centimeters on one side of the gutter and a black fabric tape measure (“photo tape”) on the other side.\nPhotos: Stand at the bottom of the gutter, hold the phone directly over the gutter (parallel to the gutter, not angled), and take a vertical photo of the entire profile. Also take vertical photos of 20 cm sections of the profile.\nVideo: take a horizontal video while slowly moving from the top to the bottom of the profile.",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "section": "10.2 Sampling Protocol",
+    "text": "10.2 Sampling Protocol\n\nAt sites where the ground surface is pavement (ie, a construction site where you are looking at an exposure), pavement should be included as a horizon. Do not start the description with the soil surface being the first horizon if there is pavement above it.\nAuger to a minimum of 150 cm or until the auger handles are buried, carefully transferring each bucket into the gutter section.\n\nPull the auger up after 2 full rotations to ensure that the soil is not compacted into the bucket.\nTake care to keep the depth of soil in the gutter the same as the depth of the whole. The tendency can be to expand the soil in the gutter. Compare the hole depth to the gutter depth after every 2 buckets by putting the auger all the way into the hole, putting a fist around the auger pole (with the bottom of the fist marking the ground depth), and comparing the length of the auger that was in the ground to the length of soil laying in the gutter.\n\nTake detailed photos and videos of the profile in the gutter. This should be done prior to describing the profile to minimize disturbance. Use the spray bottle to re-moisten the profile if necessary.\n\nLay a tape measure showing centimeters on one side of the gutter and a black fabric tape measure (“photo tape”) on the other side.\nPhotos: Stand at the bottom of the gutter, hold the phone directly over the gutter (parallel to the gutter, not angled), and take a vertical photo of the entire profile. Also take vertical photos of 20 cm sections of the profile.\nVideo: take a horizontal video while slowly moving from the top to the bottom of the profile.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#profile-description-protocol",
     "href": "field-protocol.html#profile-description-protocol",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
-    "section": "18.3 Profile Description Protocol",
-    "text": "18.3 Profile Description Protocol\n\nDelineate horizons after sampling using golf tees. Record horizon depths on the second page of the pedon description sheet using the tape measure, in centimeters. Complete the remainder of the second page.\n\nUse a Munsell color book to identify horizon colors. Record moist color for all horizons and dry color for surface or topsoil horizons.\nRecord soil texture for each horizon.\nEstimate kind, percentage, and size of rock fragments.\nIdentify horizon structure if possible; the auger may destroy natural structure, so be mindful of this.\nEstimate clay percent if possible, but disregard sand and silt percentages in the field.\nDescribe redox features (red book page 2-12), ped & void surface features (2-32), and concentrations (2-20) if present.\nDescribe pores and/or roots if present (2-70).\nIdentify horizon names. This can also be done after the fact using profile photos.\nRecord sample codes in the boundaries column of the pedon description sheet. Remember, codes should be the two digit year code and three digit sample code. Example: 24-123.\n\nComplete the first page of the pedon description sheet (site level information, generally).\n\nLandscape and landform: remember to record both the anthropogenic landscape and landform (e.g., urban anthroscape) in addition to the natural one. See page 3-1 in the red book for complete lists for each.\nSlope %, using the clinometer\nSlope complexity\nSlope shape: up and down / across → 2 words, one for up/down and one for across. Choose from convex, concave, and linear.\nDrainage: estimate based on presence of redox features and soil texture.\nFlooding and ponding: make a note if either are present, otherwise leave blank\nSoil moisture status: very dry, dry, moist, very moist, wet (satiated or non-satiated). See red book for additional details.\nParent material and bedrock can be done after the fact, but estimate parent material if possible. Remember, fill, if identified, is a different parent material.\nErosion and runoff: can make notes if present, otherwise leave blank\nSurface stoniness: describe if present\nAny cells not included in above list can be left blank\n\nCollect a soil sample from each horizon in a 5x8” ULINE bag labeled with sample code.\n\nCollect approximately 1 cup of soil, if possible; this should be just above the bottom line of the white box on the ULINE bags.",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "section": "10.3 Profile Description Protocol",
+    "text": "10.3 Profile Description Protocol\n\nDelineate horizons after sampling using golf tees. Record horizon depths on the second page of the pedon description sheet using the tape measure, in centimeters. Complete the remainder of the second page.\n\nUse a Munsell color book to identify horizon colors. Record moist color for all horizons and dry color for surface or topsoil horizons.\nRecord soil texture for each horizon.\nEstimate kind, percentage, and size of rock fragments.\nIdentify horizon structure if possible; the auger may destroy natural structure, so be mindful of this.\nEstimate clay percent if possible, but disregard sand and silt percentages in the field.\nDescribe redox features (red book page 2-12), ped & void surface features (2-32), and concentrations (2-20) if present.\nDescribe pores and/or roots if present (2-70).\nIdentify horizon names. This can also be done after the fact using profile photos.\nRecord sample codes in the boundaries column of the pedon description sheet. Remember, codes should be the two digit year code and three digit sample code. Example: 24-123.\n\nComplete the first page of the pedon description sheet (site level information, generally).\n\nLandscape and landform: remember to record both the anthropogenic landscape and landform (e.g., urban anthroscape) in addition to the natural one. See page 3-1 in the red book for complete lists for each.\nSlope %, using the clinometer\nSlope complexity\nSlope shape: up and down / across → 2 words, one for up/down and one for across. Choose from convex, concave, and linear.\nDrainage: estimate based on presence of redox features and soil texture.\nFlooding and ponding: make a note if either are present, otherwise leave blank\nSoil moisture status: very dry, dry, moist, very moist, wet (satiated or non-satiated). See red book for additional details.\nParent material and bedrock can be done after the fact, but estimate parent material if possible. Remember, fill, if identified, is a different parent material.\nErosion and runoff: can make notes if present, otherwise leave blank\nSurface stoniness: describe if present\nAny cells not included in above list can be left blank\n\nCollect a soil sample from each horizon in a 5x8” ULINE bag labeled with sample code.\n\nCollect approximately 1 cup of soil, if possible; this should be just above the bottom line of the white box on the ULINE bags.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#vegetation-description-protocol",
     "href": "field-protocol.html#vegetation-description-protocol",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
-    "section": "18.4 Vegetation description protocol",
-    "text": "18.4 Vegetation description protocol\n\nUse the pedon description form to describe vegetation. It is acceptable to record the common name only, in the field.\n\nOnly record species that compose greater than 2% of the visible area.\nUse iNaturalist’s Seek app for identification help.\nAlways record percent cover of (1) bare soil and (2) litter or thatch (as opposed to live vegetation).\nEstimate: this should not take more than 5 minutes.",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "section": "10.4 Vegetation description protocol",
+    "text": "10.4 Vegetation description protocol\n\nUse the pedon description form to describe vegetation. It is acceptable to record the common name only, in the field.\n\nOnly record species that compose greater than 2% of the visible area.\nUse iNaturalist’s Seek app for identification help.\nAlways record percent cover of (1) bare soil and (2) litter or thatch (as opposed to live vegetation).\nEstimate: this should not take more than 5 minutes.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#partial-rusi",
     "href": "field-protocol.html#partial-rusi",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
-    "section": "18.5 Partial RUSI",
-    "text": "18.5 Partial RUSI\n\nComplete partial RUSI for the site using the field sheet, assigning each category a score between 0-3. Note that a higher score indicates a less urbanized area. See the backside of the sheet for descriptions of each category.\n\nQuantify traffic. Also note the size of the nearest road in the notes section.\nQuantify infrastructure.\nQuantify surface cover types. Specific species descriptions and percentages are included in the vegetation portion of the pedon description form.\nQuantify other soil characteristics, including texture, structure, etc.",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "section": "10.5 Partial RUSI",
+    "text": "10.5 Partial RUSI\n\nComplete partial RUSI for the site using the field sheet, assigning each category a score between 0-3. Note that a higher score indicates a less urbanized area. See the backside of the sheet for descriptions of each category.\n\nQuantify traffic. Also note the size of the nearest road in the notes section.\nQuantify infrastructure.\nQuantify surface cover types. Specific species descriptions and percentages are included in the vegetation portion of the pedon description form.\nQuantify other soil characteristics, including texture, structure, etc.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#post-sampling-protocol",
     "href": "field-protocol.html#post-sampling-protocol",
-    "title": "18  TCMA Urban Soil Mapping Field Protocol",
-    "section": "18.6 Post Sampling Protocol",
-    "text": "18.6 Post Sampling Protocol\n\nTake a ~1 minute video of the site, in 0.5x if possible. Slowly walk around the site, narrating anything of importance. Highlight sampling location.\nTake 6 photos of the site. Standing over or very near the auger hole, take photos facing north, east, south, and west away from the hole. Take a photo of your feet standing over or directly next to the hole. Take a photo approximately 10 feet away from the hole.\nTake photos of the pedon description sheet.\nComplete the Soil Observations & Pedon Descriptions survey in Survey123. Make sure that GPS coordinates are recorded. Upload site and pedon description sheet photos into the survey.\n\nAll photos should be taken through the Camera app, not through Survey123; it compresses the photos and decreases the quality.\n\nUpload scanned description sheet, pedon photos and video, and site photos and video to shared Google Drive folder\n\nDescription sheets: folder titled “scanned-pedon-description-sheets”\nPedon and site photos, site video: folder titled “site-photos-videos”",
+    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "section": "10.6 Post Sampling Protocol",
+    "text": "10.6 Post Sampling Protocol\n\nTake a ~1 minute video of the site, in 0.5x if possible. Slowly walk around the site, narrating anything of importance. Highlight sampling location.\nTake 6 photos of the site. Standing over or very near the auger hole, take photos facing north, east, south, and west away from the hole. Take a photo of your feet standing over or directly next to the hole. Take a photo approximately 10 feet away from the hole.\nTake photos of the pedon description sheet.\nComplete the Soil Observations & Pedon Descriptions survey in Survey123. Make sure that GPS coordinates are recorded. Upload site and pedon description sheet photos into the survey.\n\nAll photos should be taken through the Camera app, not through Survey123; it compresses the photos and decreases the quality.\n\nUpload scanned description sheet, pedon photos and video, and site photos and video to shared Google Drive folder\n\nDescription sheets: folder titled “scanned-pedon-description-sheets”\nPedon and site photos, site video: folder titled “site-photos-videos”",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-equipment-to-do.html",
     "href": "field-equipment-to-do.html",
-    "title": "19  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
+    "title": "11  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
     "section": "",
-    "text": "19.1 Field Equipment Checklist",
+    "text": "11.1 Field Equipment Checklist",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
   },
   {
     "objectID": "field-equipment-to-do.html#field-equipment-checklist",
     "href": "field-equipment-to-do.html#field-equipment-checklist",
-    "title": "19  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
+    "title": "11  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
     "section": "",
-    "text": "Pedon description sheets printed on Rite in the Rain NRCS-UMN Pedon Description Sheet\nRUSI description sheets printed on Rite in the Rain [rusi-field-sheet](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)\nField Book for Describing and Sampling Soils, version 3.0 (USDA-NRCS; red book)\nClipboard and writing utensils (pencils)\nFolder with following items\n\nUMN certificate of insurance form; email Nora for access\nAgreement document; email Nora for access\nPermits, as necessary; email Nora for copies if needed\n\nClinometer\nMunsell color book\nAuger: dutch auger, open bucket, and closed bucket augers\n2 gutter sections\nPedon tape / photo tape (black fabric w/ cm and m markings)\nTape measure with centimeters\n10% HCl in dropper bottle, 1L backup in vehicle\nSpray bottle\nPhone, to take site videos and profile photos\n4 orange cones; place in square around sampling location\n\n\n19.1.1 Additional supplies for construction sites\n\nHard hat\nHigh-vis vests\nOptional: safety glasses",
+    "text": "Pedon description sheets printed on Rite in the Rain NRCS-UMN Pedon Description Sheet\nRUSI description sheets printed on Rite in the Rain [rusi-field-sheet](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)\nField Book for Describing and Sampling Soils, version 3.0 (USDA-NRCS; red book)\nClipboard and writing utensils (pencils)\nFolder with following items\n\nUMN certificate of insurance form; email Nora for access\nAgreement document; email Nora for access\nPermits, as necessary; email Nora for copies if needed\n\nClinometer\nMunsell color book\nAuger: dutch auger, open bucket, and closed bucket augers\n2 gutter sections\nPedon tape / photo tape (black fabric w/ cm and m markings)\nTape measure with centimeters\n10% HCl in dropper bottle, 1L backup in vehicle\nSpray bottle\nPhone, to take site videos and profile photos\n4 orange cones; place in square around sampling location\n\n\n11.1.1 Additional supplies for construction sites\n\nHard hat\nHigh-vis vests\nOptional: safety glasses",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
   },
   {
     "objectID": "field-equipment-to-do.html#field-to-do-checklist",
     "href": "field-equipment-to-do.html#field-to-do-checklist",
-    "title": "19  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
-    "section": "19.2 Field To Do Checklist",
-    "text": "19.2 Field To Do Checklist\n\nPre-Sampling Survey123 (email Nic for access)\nPedon description sheet, front and back; write location name on top right of front page\nArtifact description sheet, as necessary\nRUSI field sheet\nPhoto of entire profile\nPhotos of profile sections\nHorizontal video of profile (~20 seconds long)\nSite video, in 0.5x if possible (&lt;2 minutes long)\nSoil samples from each horizon\nSoil Observation & Pedon Description Survey123 (email Nic for access)",
+    "title": "11  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
+    "section": "11.2 Field To Do Checklist",
+    "text": "11.2 Field To Do Checklist\n\nPre-Sampling Survey123 (email Nic for access)\nPedon description sheet, front and back; write location name on top right of front page\nArtifact description sheet, as necessary\nRUSI field sheet\nPhoto of entire profile\nPhotos of profile sections\nHorizontal video of profile (~20 seconds long)\nSite video, in 0.5x if possible (&lt;2 minutes long)\nSoil samples from each horizon\nSoil Observation & Pedon Description Survey123 (email Nic for access)",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
   }
 ]

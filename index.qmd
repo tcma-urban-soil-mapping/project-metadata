@@ -41,4 +41,4 @@ This project was funded by a cooperative agreement bewteen the USDA-NRCS and the
 
 ## Project Website
 
-<https://github.com/tmca-urban-soil-mapping>
+<https://tcma-urban-soil-mapping.github.io/project-metadata/>

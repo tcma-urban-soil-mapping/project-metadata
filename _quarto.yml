@@ -24,14 +24,6 @@ book:
       - minutes-15DEC2023-technical-kickoff.qmd
       - minutes-12JAN2024-dsp.qmd
       - minutes-12JAN2024-qa-qc-nasis.qmd
-      - minutes-02FEB2024-joe-nic-nora.qmd
-      - minutes-02FEB2024-nic-nora.qmd
-      - minutes-20FEB2024-patty-nic-nora.qmd
-      - minutes-27FEB2024-nic-nora-geospatial.qmd
-      - minutes-28FEB2024-patty-nic-nora.qmd
-      - minutes-06MAR2024-patty-nora.qmd
-      - minutes-12MAR2024-patty-nic-nora.qmd
-      - minutes-20MAR2024-patty-nic-nora.qmd
     - part: "Field Protocols"
       chapters:
       - field-protocol.qmd
