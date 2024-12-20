@@ -629,5 +629,49 @@
       "Field Protocols",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
+  },
+  {
+    "objectID": "minutes-17DEC2024-nic-nora.html",
+    "href": "minutes-17DEC2024-nic-nora.html",
+    "title": "12  Using Google Earth Engine to Access Geospatial Data",
+    "section": "",
+    "text": "12.1 Part One",
+    "crumbs": [
+      "Covariate Development",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17DEC2024-nic-nora.html#part-one",
+    "href": "minutes-17DEC2024-nic-nora.html#part-one",
+    "title": "12  Using Google Earth Engine to Access Geospatial Data",
+    "section": "",
+    "text": "12.1.1 1. Initial Project Organization\n\nCreated a Google Doc for prompt engineering work in the urban soil mapping shared folder\nDocument named “prompt engineering” placed in shared project folder\nDiscussed organizing project files within lab shared drive structure\n\n\n\n12.1.2 2. QGIS Bounding Box Creation\n\nCreated new project with following steps:\n\nAdded XYZ tile layer for Google satellite imagery as base map\nSet coordinate system to NAD 83 UTM Zone 15N\n\n\n\nAdded TCMA urban soil survey update draft AOI shapefile\nCreated new shapefile for bounding box\nUsed center and point method to create square boundary around the AOI\nEnsured coverage extended beyond immediate AOI\n\n\nBounding Box Specifications:\n\nFile named: “bounding-box-draft-v2-17December2024”\nDesigned to have 2km overlap between tiles\nConfigured to extend beyond final boundary limits\nCreated in UTM coordinate system for consistent tile sizing\n\n\n\n\n12.1.3 3. Google Earth Engine Setup\nRegistration Process: - Accessed through umn.edu account - Selected unpaid usage for education - Project type: Research - Created new Google Cloud project with Earth Engine integration - Completed Earth Engine registration\n\n\n12.1.4 4. Google Cloud Console Configuration\n\nAccessed console.cloud.google.com\nCreated project under organizational structure\nAttempted to set up cloud storage buckets\nNote: Encountered payment verification issues that need resolution\n\n\n\n12.1.5 5. MSI (Minnesota Supercomputing Institute) Environment\nJupyter Lab Setup: - Accessed through interactive apps - Selected Python 3.8.3 environment - Created new project folder: “tcma_covar_development” - Installed required package (e.g., geopandas)\n\n\n12.1.6 Technical Considerations\n\nNeed to ensure 2km overlap in tiles for processing\nFile organization split between:\n\nGoogle Cloud Storage (for large datasets)\nMSI Tier 1 & 2 storage\nGoogle Drive (for documentation)\n\nWorking environment includes:\n\nGoogle Earth Engine for satellite data\nMSI for computing\nQGIS for spatial analysis\nPython/Jupyter Lab for processing",
+    "crumbs": [
+      "Covariate Development",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17DEC2024-nic-nora.html#part-two",
+    "href": "minutes-17DEC2024-nic-nora.html#part-two",
+    "title": "12  Using Google Earth Engine to Access Geospatial Data",
+    "section": "12.2 Part Two",
+    "text": "12.2 Part Two\n\n12.2.1 1. Google Cloud Project Setup\n\nCreated access to project environment\n\nAdded user as editor to existing project\nConfirmed access to cloud console\nSet up bucket structure for data storage\n\nCreated Storage Structure:\n\nCreated main bucket “tcma_covars”\nCreated initial directory: “dem-3dep-1”\nConfigured with multi-region storage\nEnabled standard storage settings\nEnforced public access hazard prevention\n\n\n\n\n12.2.2 2. Jupyter Lab Environment Configuration\n\nPackage Installation:\n\nAttempted Conda installation of GeoPandas\nSwitched to Pip install when Conda had conflicts\nSuccessfully installed GeoPandas using Pip\nAdded local bin directory to path for module access\n\nEnvironment Organization:\n\nCreated clear file naming conventions\nSet up documentation of one-time setup steps\nOrganized notebooks with clear prefixes for setup vs. regular usage\nAdded annotations for process documentation\n\n\n\n\n12.2.3 3. Google Earth Engine Setup\n\nAsset Management:\n\nUploaded shapefile as Earth Engine asset\nRequired coordinate system conversion to EPSG:4326\nCreated project structure for scripts\nSet up folders for different data types\n\nScript Development:\n\nCreated visualization script for tiles\nSet up data processing framework\nImplemented naming conventions for exported files\nFormat: “tcma_3dep_1meter_tile_h[XX]v[YY]”\n\n\n\n\n12.2.4 4. Data Processing Framework\n\nInitial Setup:\n\nImported tiles asset\nAdded 3DEP elevation data\nConfigured NAIP imagery access\nSet up processing functions for tiles\n\nKey Components:\n\nTile processing function\nExport naming convention setup\nVisualization parameters\nData extraction framework\n\n\n\n\n12.2.5 Technical Notes\n\nModified tile size to handle ~1.5GB files instead of smaller segments\nReduced number of tiles from 169 (13x13) to 49 (7x7)\nImplemented 2km overlap between tiles for processing continuity\nConfigured proper coordinate system transformations",
+    "crumbs": [
+      "Covariate Development",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-17DEC2024-nic-nora.html#part-three",
+    "href": "minutes-17DEC2024-nic-nora.html#part-three",
+    "title": "12  Using Google Earth Engine to Access Geospatial Data",
+    "section": "12.3 Part Three",
+    "text": "12.3 Part Three\n\n12.3.1 1. Data Visualization Troubleshooting\n\nIdentified Issues with Attribute Table:\n\nFound shapefile attribute table was not correctly formatted\nMade necessary adjustments to tile ID properties\nAdded proper ID fields to enable processing\n\nScript Refinements:\n\nModified JavaScript to handle tile naming conventions\nAdjusted bucket paths for correct data storage\nSet up proper directory structure for output files\n\n\n\n\n12.3.2 2. Image Processing Configuration\n\nNAIP Imagery Setup:\n\nConfigured date range for 2021 imagery\nExtended collection window to May-September\nConfirmed NAIP imagery is typically cloud-free\nSet up composite parameters\n\nSentinel-2 Configuration:\n\nSet date range: 2019-2024\nConfigured growing season window: June 1 - August 31\nAdded cloud masking procedures\nSet up 5-year composite parameters\n\n\n\n\n12.3.3 3. File Structure and Organization\n\nGoogle Cloud Storage:\n\nCreated main bucket: “tcma_covars”\nEstablished directory structure:\n\nDEM (3DEP data)\nNAIP imagery\nSentinel-2 data\n\nSet up proper naming conventions for outputs\n\nProcessing Framework:\n\nConfigured 10-meter resolution as standard output\nAligned with G-SERGO grid specifications\nSet up downscaling procedures for higher resolution data\n\n\n\n\n12.3.4 4. Next Steps and Action Items\n\nImmediate Tasks:\n\nComplete DEM processing for remaining tiles\nSet up NAIP processing for 2021\nConfigure Sentinel-2 processing\nDocument process for technical documentation\n\nFuture Processing:\n\nTransfer processed data to MSI Tier 2\nDevelop Python scripts for:\n\nData alignment\nResolution matching\nStack creation\nQuality control\n\n\nDocumentation Requirements:\n\nCreate progress slides for project update\nInclude screenshots of:\n\nGoogle Earth Engine interface\nCloud console\nProcessing results\n\nDocument technical procedures\n\n\n\n\n12.3.5 Technical Notes\n\nResolution Standards:\n\nFinal output will be 10-meter resolution\nMatching gSSURGO grid specifications\nDownscaling required for higher resolution inputs\nInterpolation needed for alignment\n\nProcessing Considerations:\n\nCloud-free compositing for Sentinel data\nScene classification layer (SCL) for cloud masking\nMedian value computation for composites\nSpatial alignment requirements",
+    "crumbs": [
+      "Covariate Development",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data</span>"
+    ]
   }
 ]

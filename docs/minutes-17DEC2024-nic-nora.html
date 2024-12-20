@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>11&nbsp; TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List – TMCA Urban Soil Mapping</title>
+<title>12&nbsp; Using Google Earth Engine to Access Geospatial Data – TMCA Urban Soil Mapping</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./minutes-17DEC2024-nic-nora.html" rel="next">
-<link href="./field-protocol.html" rel="prev">
+<link href="./references.html" rel="next">
+<link href="./field-equipment-to-do.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./field-protocol.html">Field Protocols</a></li><li class="breadcrumb-item"><a href="./field-equipment-to-do.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./minutes-17DEC2024-nic-nora.html">Covariate Development</a></li><li class="breadcrumb-item"><a href="./minutes-17DEC2024-nic-nora.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Using Google Earth Engine to Access Geospatial Data</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -205,7 +205,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./field-equipment-to-do.html" class="sidebar-item-text sidebar-link active">
+  <a href="./field-equipment-to-do.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List</span></span></a>
   </div>
 </li>
@@ -222,7 +222,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./minutes-17DEC2024-nic-nora.html" class="sidebar-item-text sidebar-link">
+  <a href="./minutes-17DEC2024-nic-nora.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Using Google Earth Engine to Access Geospatial Data</span></span></a>
   </div>
 </li>
@@ -244,20 +244,40 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#field-equipment-checklist" id="toc-field-equipment-checklist" class="nav-link active" data-scroll-target="#field-equipment-checklist"><span class="header-section-number">11.1</span> Field Equipment Checklist</a>
+  <li><a href="#part-one" id="toc-part-one" class="nav-link active" data-scroll-target="#part-one"><span class="header-section-number">12.1</span> Part One</a>
   <ul class="collapse">
-  <li><a href="#additional-supplies-for-construction-sites" id="toc-additional-supplies-for-construction-sites" class="nav-link" data-scroll-target="#additional-supplies-for-construction-sites"><span class="header-section-number">11.1.1</span> Additional supplies for construction sites</a></li>
+  <li><a href="#initial-project-organization" id="toc-initial-project-organization" class="nav-link" data-scroll-target="#initial-project-organization"><span class="header-section-number">12.1.1</span> 1. Initial Project Organization</a></li>
+  <li><a href="#qgis-bounding-box-creation" id="toc-qgis-bounding-box-creation" class="nav-link" data-scroll-target="#qgis-bounding-box-creation"><span class="header-section-number">12.1.2</span> 2. QGIS Bounding Box Creation</a></li>
+  <li><a href="#google-earth-engine-setup" id="toc-google-earth-engine-setup" class="nav-link" data-scroll-target="#google-earth-engine-setup"><span class="header-section-number">12.1.3</span> 3. Google Earth Engine Setup</a></li>
+  <li><a href="#google-cloud-console-configuration" id="toc-google-cloud-console-configuration" class="nav-link" data-scroll-target="#google-cloud-console-configuration"><span class="header-section-number">12.1.4</span> 4. Google Cloud Console Configuration</a></li>
+  <li><a href="#msi-minnesota-supercomputing-institute-environment" id="toc-msi-minnesota-supercomputing-institute-environment" class="nav-link" data-scroll-target="#msi-minnesota-supercomputing-institute-environment"><span class="header-section-number">12.1.5</span> 5. MSI (Minnesota Supercomputing Institute) Environment</a></li>
+  <li><a href="#technical-considerations" id="toc-technical-considerations" class="nav-link" data-scroll-target="#technical-considerations"><span class="header-section-number">12.1.6</span> Technical Considerations</a></li>
   </ul></li>
-  <li><a href="#field-to-do-checklist" id="toc-field-to-do-checklist" class="nav-link" data-scroll-target="#field-to-do-checklist"><span class="header-section-number">11.2</span> Field To Do Checklist</a></li>
+  <li><a href="#part-two" id="toc-part-two" class="nav-link" data-scroll-target="#part-two"><span class="header-section-number">12.2</span> Part Two</a>
+  <ul class="collapse">
+  <li><a href="#google-cloud-project-setup" id="toc-google-cloud-project-setup" class="nav-link" data-scroll-target="#google-cloud-project-setup"><span class="header-section-number">12.2.1</span> 1. Google Cloud Project Setup</a></li>
+  <li><a href="#jupyter-lab-environment-configuration" id="toc-jupyter-lab-environment-configuration" class="nav-link" data-scroll-target="#jupyter-lab-environment-configuration"><span class="header-section-number">12.2.2</span> 2. Jupyter Lab Environment Configuration</a></li>
+  <li><a href="#google-earth-engine-setup-1" id="toc-google-earth-engine-setup-1" class="nav-link" data-scroll-target="#google-earth-engine-setup-1"><span class="header-section-number">12.2.3</span> 3. Google Earth Engine Setup</a></li>
+  <li><a href="#data-processing-framework" id="toc-data-processing-framework" class="nav-link" data-scroll-target="#data-processing-framework"><span class="header-section-number">12.2.4</span> 4. Data Processing Framework</a></li>
+  <li><a href="#technical-notes" id="toc-technical-notes" class="nav-link" data-scroll-target="#technical-notes"><span class="header-section-number">12.2.5</span> Technical Notes</a></li>
+  </ul></li>
+  <li><a href="#part-three" id="toc-part-three" class="nav-link" data-scroll-target="#part-three"><span class="header-section-number">12.3</span> Part Three</a>
+  <ul class="collapse">
+  <li><a href="#data-visualization-troubleshooting" id="toc-data-visualization-troubleshooting" class="nav-link" data-scroll-target="#data-visualization-troubleshooting"><span class="header-section-number">12.3.1</span> 1. Data Visualization Troubleshooting</a></li>
+  <li><a href="#image-processing-configuration" id="toc-image-processing-configuration" class="nav-link" data-scroll-target="#image-processing-configuration"><span class="header-section-number">12.3.2</span> 2. Image Processing Configuration</a></li>
+  <li><a href="#file-structure-and-organization" id="toc-file-structure-and-organization" class="nav-link" data-scroll-target="#file-structure-and-organization"><span class="header-section-number">12.3.3</span> 3. File Structure and Organization</a></li>
+  <li><a href="#next-steps-and-action-items" id="toc-next-steps-and-action-items" class="nav-link" data-scroll-target="#next-steps-and-action-items"><span class="header-section-number">12.3.4</span> 4. Next Steps and Action Items</a></li>
+  <li><a href="#technical-notes-1" id="toc-technical-notes-1" class="nav-link" data-scroll-target="#technical-notes-1"><span class="header-section-number">12.3.5</span> Technical Notes</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./field-protocol.html">Field Protocols</a></li><li class="breadcrumb-item"><a href="./field-equipment-to-do.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./minutes-17DEC2024-nic-nora.html">Covariate Development</a></li><li class="breadcrumb-item"><a href="./minutes-17DEC2024-nic-nora.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Using Google Earth Engine to Access Geospatial Data</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List</span></h1>
+<h1 class="title"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Using Google Earth Engine to Access Geospatial Data</span></h1>
 </div>
 
 
@@ -274,56 +294,282 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><em>Last edited 04SEP2024 NP</em></p>
-<section id="field-equipment-checklist" class="level2" data-number="11.1">
-<h2 data-number="11.1" class="anchored" data-anchor-id="field-equipment-checklist"><span class="header-section-number">11.1</span> Field Equipment Checklist</h2>
-<ul class="task-list">
-<li><label><input type="checkbox">Pedon description sheets printed on Rite in the Rain <a href="https://docs.google.com/spreadsheets/d/1ni4ZqxBZGSQ7mRD_f0gUEV5xwQzT-kC3/edit?usp=sharing&amp;ouid=108934466869932900090&amp;rtpof=true&amp;sd=true">NRCS-UMN Pedon Description Sheet</a></label></li>
-<li><label><input type="checkbox">RUSI description sheets printed on Rite in the Rain [rusi-field-sheet](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)</label></li>
-<li><label><input type="checkbox"><a href="https://www.nrcs.usda.gov/sites/default/files/2022-09/field-book.pdf">Field Book for Describing and Sampling Soils, version 3.0</a> (USDA-NRCS; red book)</label></li>
-<li><label><input type="checkbox">Clipboard and writing utensils (pencils)</label></li>
-<li><label><input type="checkbox">Folder with following items</label>
-<ul class="task-list">
-<li><label><input type="checkbox"><a href="https://drive.google.com/file/d/1wBfGt-lMefoeQGNBarZpaUoRWoRCXP3B/view?usp=sharing">UMN certificate of insurance form</a>; email Nora for access</label></li>
-<li><label><input type="checkbox"><a href="https://drive.google.com/file/d/1EjPbuHDeOBsuRaeVOukvweFPeo08C4ti/view?usp=sharing">Agreement document</a>; email Nora for access</label></li>
-<li><label><input type="checkbox">Permits, as necessary; email Nora for copies if needed</label></li>
+<p><em>December 17, 2024 Meeting Transcript Analysis</em></p>
+<section id="part-one" class="level2" data-number="12.1">
+<h2 data-number="12.1" class="anchored" data-anchor-id="part-one"><span class="header-section-number">12.1</span> Part One</h2>
+<section id="initial-project-organization" class="level3" data-number="12.1.1">
+<h3 data-number="12.1.1" class="anchored" data-anchor-id="initial-project-organization"><span class="header-section-number">12.1.1</span> 1. Initial Project Organization</h3>
+<ul>
+<li>Created a Google Doc for prompt engineering work in the urban soil mapping shared folder</li>
+<li>Document named “prompt engineering” placed in shared project folder</li>
+<li>Discussed organizing project files within lab shared drive structure</li>
+</ul>
+</section>
+<section id="qgis-bounding-box-creation" class="level3" data-number="12.1.2">
+<h3 data-number="12.1.2" class="anchored" data-anchor-id="qgis-bounding-box-creation"><span class="header-section-number">12.1.2</span> 2. QGIS Bounding Box Creation</h3>
+<ol type="1">
+<li>Created new project with following steps:
+<ul>
+<li>Added XYZ tile layer for Google satellite imagery as base map</li>
+<li>Set coordinate system to NAD 83 UTM Zone 15N</li>
 </ul></li>
-<li><label><input type="checkbox">Clinometer</label></li>
-<li><label><input type="checkbox">Munsell color book</label></li>
-<li><label><input type="checkbox">Auger: dutch auger, open bucket, and closed bucket augers</label></li>
-<li><label><input type="checkbox">2 gutter sections</label></li>
-<li><label><input type="checkbox">Pedon tape / photo tape (black fabric w/ cm and m markings)</label></li>
-<li><label><input type="checkbox">Tape measure with centimeters</label></li>
-<li><label><input type="checkbox">10% HCl in dropper bottle, 1L backup in vehicle</label></li>
-<li><label><input type="checkbox">Spray bottle</label></li>
-<li><label><input type="checkbox">Phone, to take site videos and profile photos</label></li>
-<li><label><input type="checkbox">4 orange cones; place in square around sampling location</label></li>
+</ol>
+<ul>
+<li>Added TCMA urban soil survey update draft AOI shapefile</li>
+<li>Created new shapefile for bounding box</li>
+<li>Used center and point method to create square boundary around the AOI</li>
+<li>Ensured coverage extended beyond immediate AOI</li>
 </ul>
-<section id="additional-supplies-for-construction-sites" class="level3" data-number="11.1.1">
-<h3 data-number="11.1.1" class="anchored" data-anchor-id="additional-supplies-for-construction-sites"><span class="header-section-number">11.1.1</span> Additional supplies for construction sites</h3>
-<ul class="task-list">
-<li><label><input type="checkbox">Hard hat</label></li>
-<li><label><input type="checkbox">High-vis vests</label></li>
-<li><label><input type="checkbox">Optional: safety glasses</label></li>
+<ol start="2" type="1">
+<li>Bounding Box Specifications:
+<ul>
+<li>File named: “bounding-box-draft-v2-17December2024”</li>
+<li>Designed to have 2km overlap between tiles</li>
+<li>Configured to extend beyond final boundary limits</li>
+<li>Created in UTM coordinate system for consistent tile sizing</li>
+</ul></li>
+</ol>
+</section>
+<section id="google-earth-engine-setup" class="level3" data-number="12.1.3">
+<h3 data-number="12.1.3" class="anchored" data-anchor-id="google-earth-engine-setup"><span class="header-section-number">12.1.3</span> 3. Google Earth Engine Setup</h3>
+<p>Registration Process: - Accessed through umn.edu account - Selected unpaid usage for education - Project type: Research - Created new Google Cloud project with Earth Engine integration - Completed Earth Engine registration</p>
+</section>
+<section id="google-cloud-console-configuration" class="level3" data-number="12.1.4">
+<h3 data-number="12.1.4" class="anchored" data-anchor-id="google-cloud-console-configuration"><span class="header-section-number">12.1.4</span> 4. Google Cloud Console Configuration</h3>
+<ul>
+<li>Accessed console.cloud.google.com</li>
+<li>Created project under organizational structure</li>
+<li>Attempted to set up cloud storage buckets</li>
+<li>Note: Encountered payment verification issues that need resolution</li>
+</ul>
+</section>
+<section id="msi-minnesota-supercomputing-institute-environment" class="level3" data-number="12.1.5">
+<h3 data-number="12.1.5" class="anchored" data-anchor-id="msi-minnesota-supercomputing-institute-environment"><span class="header-section-number">12.1.5</span> 5. MSI (Minnesota Supercomputing Institute) Environment</h3>
+<p>Jupyter Lab Setup: - Accessed through interactive apps - Selected Python 3.8.3 environment - Created new project folder: “tcma_covar_development” - Installed required package (e.g., geopandas)</p>
+</section>
+<section id="technical-considerations" class="level3" data-number="12.1.6">
+<h3 data-number="12.1.6" class="anchored" data-anchor-id="technical-considerations"><span class="header-section-number">12.1.6</span> Technical Considerations</h3>
+<ul>
+<li>Need to ensure 2km overlap in tiles for processing</li>
+<li>File organization split between:
+<ul>
+<li>Google Cloud Storage (for large datasets)</li>
+<li>MSI Tier 1 &amp; 2 storage</li>
+<li>Google Drive (for documentation)</li>
+</ul></li>
+<li>Working environment includes:
+<ul>
+<li>Google Earth Engine for satellite data</li>
+<li>MSI for computing</li>
+<li>QGIS for spatial analysis</li>
+<li>Python/Jupyter Lab for processing</li>
+</ul></li>
 </ul>
 </section>
 </section>
-<section id="field-to-do-checklist" class="level2" data-number="11.2">
-<h2 data-number="11.2" class="anchored" data-anchor-id="field-to-do-checklist"><span class="header-section-number">11.2</span> Field To Do Checklist</h2>
-<ul class="task-list">
-<li><label><input type="checkbox">Pre-Sampling Survey123 (email Nic for access)</label></li>
-<li><label><input type="checkbox">Pedon description sheet, front and back; write location name on top right of front page</label></li>
-<li><label><input type="checkbox">Artifact description sheet, as necessary</label></li>
-<li><label><input type="checkbox">RUSI field sheet</label></li>
-<li><label><input type="checkbox">Photo of entire profile</label></li>
-<li><label><input type="checkbox">Photos of profile sections</label></li>
-<li><label><input type="checkbox">Horizontal video of profile (~20 seconds long)</label></li>
-<li><label><input type="checkbox">Site video, in 0.5x if possible (&lt;2 minutes long)</label></li>
-<li><label><input type="checkbox">Soil samples from each horizon</label></li>
-<li><label><input type="checkbox">Soil Observation &amp; Pedon Description Survey123 (email Nic for access)</label></li>
+<section id="part-two" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="part-two"><span class="header-section-number">12.2</span> Part Two</h2>
+<section id="google-cloud-project-setup" class="level3" data-number="12.2.1">
+<h3 data-number="12.2.1" class="anchored" data-anchor-id="google-cloud-project-setup"><span class="header-section-number">12.2.1</span> 1. Google Cloud Project Setup</h3>
+<ol type="1">
+<li>Created access to project environment
+<ul>
+<li>Added user as editor to existing project</li>
+<li>Confirmed access to cloud console</li>
+<li>Set up bucket structure for data storage</li>
+</ul></li>
+<li>Created Storage Structure:
+<ul>
+<li>Created main bucket “tcma_covars”</li>
+<li>Created initial directory: “dem-3dep-1”</li>
+<li>Configured with multi-region storage</li>
+<li>Enabled standard storage settings</li>
+<li>Enforced public access hazard prevention</li>
+</ul></li>
+</ol>
+</section>
+<section id="jupyter-lab-environment-configuration" class="level3" data-number="12.2.2">
+<h3 data-number="12.2.2" class="anchored" data-anchor-id="jupyter-lab-environment-configuration"><span class="header-section-number">12.2.2</span> 2. Jupyter Lab Environment Configuration</h3>
+<ol type="1">
+<li>Package Installation:
+<ul>
+<li>Attempted Conda installation of GeoPandas</li>
+<li>Switched to Pip install when Conda had conflicts</li>
+<li>Successfully installed GeoPandas using Pip</li>
+<li>Added local bin directory to path for module access</li>
+</ul></li>
+<li>Environment Organization:
+<ul>
+<li>Created clear file naming conventions</li>
+<li>Set up documentation of one-time setup steps</li>
+<li>Organized notebooks with clear prefixes for setup vs.&nbsp;regular usage</li>
+<li>Added annotations for process documentation</li>
+</ul></li>
+</ol>
+</section>
+<section id="google-earth-engine-setup-1" class="level3" data-number="12.2.3">
+<h3 data-number="12.2.3" class="anchored" data-anchor-id="google-earth-engine-setup-1"><span class="header-section-number">12.2.3</span> 3. Google Earth Engine Setup</h3>
+<ol type="1">
+<li>Asset Management:
+<ul>
+<li>Uploaded shapefile as Earth Engine asset</li>
+<li>Required coordinate system conversion to EPSG:4326</li>
+<li>Created project structure for scripts</li>
+<li>Set up folders for different data types</li>
+</ul></li>
+<li>Script Development:
+<ul>
+<li>Created visualization script for tiles</li>
+<li>Set up data processing framework</li>
+<li>Implemented naming conventions for exported files</li>
+<li>Format: “tcma_3dep_1meter_tile_h[XX]v[YY]”</li>
+</ul></li>
+</ol>
+</section>
+<section id="data-processing-framework" class="level3" data-number="12.2.4">
+<h3 data-number="12.2.4" class="anchored" data-anchor-id="data-processing-framework"><span class="header-section-number">12.2.4</span> 4. Data Processing Framework</h3>
+<ol type="1">
+<li>Initial Setup:
+<ul>
+<li>Imported tiles asset</li>
+<li>Added 3DEP elevation data</li>
+<li>Configured NAIP imagery access</li>
+<li>Set up processing functions for tiles</li>
+</ul></li>
+<li>Key Components:
+<ul>
+<li>Tile processing function</li>
+<li>Export naming convention setup</li>
+<li>Visualization parameters</li>
+<li>Data extraction framework</li>
+</ul></li>
+</ol>
+</section>
+<section id="technical-notes" class="level3" data-number="12.2.5">
+<h3 data-number="12.2.5" class="anchored" data-anchor-id="technical-notes"><span class="header-section-number">12.2.5</span> Technical Notes</h3>
+<ul>
+<li>Modified tile size to handle ~1.5GB files instead of smaller segments</li>
+<li>Reduced number of tiles from 169 (13x13) to 49 (7x7)</li>
+<li>Implemented 2km overlap between tiles for processing continuity</li>
+<li>Configured proper coordinate system transformations</li>
 </ul>
+</section>
+</section>
+<section id="part-three" class="level2" data-number="12.3">
+<h2 data-number="12.3" class="anchored" data-anchor-id="part-three"><span class="header-section-number">12.3</span> Part Three</h2>
+<section id="data-visualization-troubleshooting" class="level3" data-number="12.3.1">
+<h3 data-number="12.3.1" class="anchored" data-anchor-id="data-visualization-troubleshooting"><span class="header-section-number">12.3.1</span> 1. Data Visualization Troubleshooting</h3>
+<ol type="1">
+<li>Identified Issues with Attribute Table:
+<ul>
+<li>Found shapefile attribute table was not correctly formatted</li>
+<li>Made necessary adjustments to tile ID properties</li>
+<li>Added proper ID fields to enable processing</li>
+</ul></li>
+<li>Script Refinements:
+<ul>
+<li>Modified JavaScript to handle tile naming conventions</li>
+<li>Adjusted bucket paths for correct data storage</li>
+<li>Set up proper directory structure for output files</li>
+</ul></li>
+</ol>
+</section>
+<section id="image-processing-configuration" class="level3" data-number="12.3.2">
+<h3 data-number="12.3.2" class="anchored" data-anchor-id="image-processing-configuration"><span class="header-section-number">12.3.2</span> 2. Image Processing Configuration</h3>
+<ol type="1">
+<li>NAIP Imagery Setup:
+<ul>
+<li>Configured date range for 2021 imagery</li>
+<li>Extended collection window to May-September</li>
+<li>Confirmed NAIP imagery is typically cloud-free</li>
+<li>Set up composite parameters</li>
+</ul></li>
+<li>Sentinel-2 Configuration:
+<ul>
+<li>Set date range: 2019-2024</li>
+<li>Configured growing season window: June 1 - August 31</li>
+<li>Added cloud masking procedures</li>
+<li>Set up 5-year composite parameters</li>
+</ul></li>
+</ol>
+</section>
+<section id="file-structure-and-organization" class="level3" data-number="12.3.3">
+<h3 data-number="12.3.3" class="anchored" data-anchor-id="file-structure-and-organization"><span class="header-section-number">12.3.3</span> 3. File Structure and Organization</h3>
+<ol type="1">
+<li>Google Cloud Storage:
+<ul>
+<li>Created main bucket: “tcma_covars”</li>
+<li>Established directory structure:
+<ul>
+<li>DEM (3DEP data)</li>
+<li>NAIP imagery</li>
+<li>Sentinel-2 data</li>
+</ul></li>
+<li>Set up proper naming conventions for outputs</li>
+</ul></li>
+<li>Processing Framework:
+<ul>
+<li>Configured 10-meter resolution as standard output</li>
+<li>Aligned with G-SERGO grid specifications</li>
+<li>Set up downscaling procedures for higher resolution data</li>
+</ul></li>
+</ol>
+</section>
+<section id="next-steps-and-action-items" class="level3" data-number="12.3.4">
+<h3 data-number="12.3.4" class="anchored" data-anchor-id="next-steps-and-action-items"><span class="header-section-number">12.3.4</span> 4. Next Steps and Action Items</h3>
+<ol type="1">
+<li>Immediate Tasks:
+<ul>
+<li>Complete DEM processing for remaining tiles</li>
+<li>Set up NAIP processing for 2021</li>
+<li>Configure Sentinel-2 processing</li>
+<li>Document process for technical documentation</li>
+</ul></li>
+<li>Future Processing:
+<ul>
+<li>Transfer processed data to MSI Tier 2</li>
+<li>Develop Python scripts for:
+<ul>
+<li>Data alignment</li>
+<li>Resolution matching</li>
+<li>Stack creation</li>
+<li>Quality control</li>
+</ul></li>
+</ul></li>
+<li>Documentation Requirements:
+<ul>
+<li>Create progress slides for project update</li>
+<li>Include screenshots of:
+<ul>
+<li>Google Earth Engine interface</li>
+<li>Cloud console</li>
+<li>Processing results</li>
+</ul></li>
+<li>Document technical procedures</li>
+</ul></li>
+</ol>
+</section>
+<section id="technical-notes-1" class="level3" data-number="12.3.5">
+<h3 data-number="12.3.5" class="anchored" data-anchor-id="technical-notes-1"><span class="header-section-number">12.3.5</span> Technical Notes</h3>
+<ol type="1">
+<li>Resolution Standards:
+<ul>
+<li>Final output will be 10-meter resolution</li>
+<li>Matching gSSURGO grid specifications</li>
+<li>Downscaling required for higher resolution inputs</li>
+<li>Interpolation needed for alignment</li>
+</ul></li>
+<li>Processing Considerations:
+<ul>
+<li>Cloud-free compositing for Sentinel data</li>
+<li>Scene classification layer (SCL) for cloud masking</li>
+<li>Median value computation for composites</li>
+<li>Spatial alignment requirements</li>
+</ul></li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -749,13 +995,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./field-protocol.html" class="pagination-link" aria-label="TCMA Urban Soil Mapping Field Protocol">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">TCMA Urban Soil Mapping Field Protocol</span></span>
+      <a href="./field-equipment-to-do.html" class="pagination-link" aria-label="TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">TCMA Urban Soil Mapping Field Equipment Check List &amp; To Do List</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./minutes-17DEC2024-nic-nora.html" class="pagination-link" aria-label="Using Google Earth Engine to Access Geospatial Data">
-        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Using Google Earth Engine to Access Geospatial Data</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./references.html" class="pagination-link" aria-label="References">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

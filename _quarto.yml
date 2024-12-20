@@ -28,6 +28,9 @@ book:
       chapters:
       - field-protocol.qmd
       - field-equipment-to-do.qmd
+    - part: "Covariate Development"
+      chapters:
+      - minutes-17DEC2024-nic-nora.qmd
     # - authorship-guidelines.qmd
     - references.qmd
   # appendices:
