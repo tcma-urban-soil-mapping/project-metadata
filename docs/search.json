@@ -673,5 +673,104 @@
       "Covariate Development",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data</span>"
     ]
+  },
+  {
+    "objectID": "survey123-guide.html",
+    "href": "survey123-guide.html",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "",
+    "text": "13.1 Resources",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#resources",
+    "href": "survey123-guide.html#resources",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "",
+    "text": "Keys to Soil Taxonomy (13th ed)\nSoil Survey Methods Manual (2017)\nField Book for Describing and Sampling Soils (v 4.0)\nNRCS PLANTS Database\n\nNote that on description sheets, common names were used. Select “common name” instead of “scientific name” in the dropdown menu.\n\nPedon description sheets, in the Box folder or in the scanned-pedon-description-sheets folder of the project folder of the Jelinski group shared drive (email Nora for access)\n\nI would slightly prefer that you use the shared drive versions, because I’ve made a few comments with small changes on a few of the sheets\n\nProfile photos, organized by site ID in the Jelinski group shared drive\n\nUse if something on the second page of the description sheet doesn’t make sense\n\nA Glossary of Terms Used in Soil Survey and Soil Classification",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#type-of-form-and-location-info-page-1",
+    "href": "survey123-guide.html#type-of-form-and-location-info-page-1",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.2 Type of Form and Location Info – Page 1",
+    "text": "13.2 Type of Form and Location Info – Page 1\n\nIn the Survey123 field app on your computer, click on the Pedon Description V.1.9 survey –&gt; Collect. Under Type of Form, choose Pedon Description.\nDescriber: enter the describers’ initials from the scanned pedon description. Use three letter initials when available – Nora’s are NBP, for example.\nLocation: leave this empty; Survey123 will crash if you try to navigate to a point on the map.\nCoordinate source: change to auto-populated from survey-grade GPS.\nDate: change to date description was collected.\nArea symbol: change to MNXXX, with XXX being the three digit county FIPS code from the site ID. Examples are 123, 003, 037, or 052.\nPedon ID: populate the final two or three digits of the full site ID.\nSite ID: this will auto-populate from the Pedon ID once you click on the text box; they’re the same code.\nYear: click “-” to change back to 2024.\nPedon #: last three digits of site ID.\nRegion: North Central; click the dropdown menu and that should be the only choice.\nOffice: NC-ALB; click the dropdown menu to select. If that isn’t available, leave it blank.\nState: MN; click the dropdown menu and that should be the only choice.\nMLRA: 103; using this for all as per Joe’s decision.\nLRR: leave blank.\nLat/long: populate from clean-survey-points-20NOV2024 (in Box). Observation Name column holds site IDs. X and Y columns hold long and lat, respectively. Remember: y is latitude and x is longitude.\nDatum, accuracy, and GPS PDOP: leave blank or don’t change.",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#pedon-description-page-2",
+    "href": "survey123-guide.html#pedon-description-page-2",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.3 Pedon Description – Page 2",
+    "text": "13.3 Pedon Description – Page 2\n\nSeries name: return to this after you’ve classified the pedon; we won’t enter a series name, just a classification.\nMap unit symbol: leave blank.\nPedon purpose: soil survey inventory.\nClassification: same as series name.\nSoil moisture regime (tax): udic.\nWeather, air temp, soil temp, depth, transect info: leave blank.\nLand cover kind 1 and 2: populate from land cover cell (highlighted orange). If “grass” is recorded on description sheet, kind 1 should be grass/herbaceous cover and kind 2 should be other grass/herbaceous cover.\nGeomorphic Environments and Other Groupings: choose based on Landscape and Landform identified on the description sheet. Many of ours are either glacial or fluvial.\n\nIf we didn’t identify Landscape/Landform, feel free to make an educated guess based on the site location (find the location in SoilExplorer). Chapter 3 of the Field Book for Describing Soils has a long and nicely organized list of possible options starting on page 3-10 or page 174 of the PDF.\nIf you aren’t at all sure what to choose, note that on the notes document and submit the survey without it – Nora will populate it.\n\nAnthro: use your judgement here. Options I’ve chosen are fill, anthroscape, and artificial levee. NRCS is still thinking about what anthroscape means. If a site has any HTM at all, if should have an anthropogenic landform marked.\n\nElevation, aspect: leave blank.\nSlope: populate from sheet. If we put a range, choose the middle number.\nSlope complexity and shape (up/down AND across): populate from sheet.\nHillslope profile: populate from sheet. Leave blank if we didn’t populate.\nMicrorelief: we didn’t populate this very often, but populate from sheet if there is something.\n\nGeomorphic Component (3D): the only one we will use is terrace. If you choose that, it will open the Geom. Terraces and Flats questions. Populate from sheet, or leave blank and note on the notes document if you don’t know.\n\nDrainage: populate from sheet.\nFlooding and Ponding: populate from sheet or leave blank if you don’t know.\n\nNote: For the National Wildlife Refuge sites that were on the floodplain, frequent flooding and long duration should be marked. See page 1-13 of the Field Book for guidelines.\n\nSoil Moisture Status: populate from sheet; most were moist.\nPermeability, Ksat, Runoff: leave blank.\nParent material: identify top and bottom depths and kind from sheet.\n\nPay attention to mistakes we might’ve made. I scroll down to the second page to see if we identified any fill on the top of the profile OR two parent materials in a “natural” soil, but didn’t note it in the parent materials section. You can identify multiple.\n\nHTM/fill should always be marked as a parent material, no matter the depth.\n\nUPDATE 29JAN: for an instance of till, use the “till, unspecified” option.\n\nBedrock, Lithostrat. Units, and Erosion: leave blank.\nSurface Frag %: if nothing was noted, leave blank.\nDiagnostic Horizons/Properties: identify anything relevant. Any epipedon, diagnostic subsurface horizon (such as argillic), lithologic discontinuity, etc.\n\nIf nothing was marked on the sheet, look at the horizonation on the back side.\n\nParticle Size Control Section: this defaults to 25-100cm if there is nothing “special.” See Chapter 17 of Keys (page 363 of the PDF) for a description.\nCracks: for ~98% of these, we marked no.\nCrust: leave blank.",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#taxonomic-classification-page-3",
+    "href": "survey123-guide.html#taxonomic-classification-page-3",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.4 Taxonomic Classification – Page 3",
+    "text": "13.4 Taxonomic Classification – Page 3\n\nTax Kind: miscellaneous area\nTax Part Size Class: options described in Chapter 17 of Keys (page 363 of the PDF). We frequently use coarse/fine-loamy or silty, sandy; see page 368 of the PDF\nTax CEC: Many soils in MN are superactive. Will update with additional guidance.\nTax Rxn, Tax Family Other: leave blank.\nTax Moist Sublcass: udic, normally. Could also use anthraquic (see page 11 of Keys PDF).\nTax Order, Suborder, Greatgroup: again, we did not classify soils in the field, so you will do this based on the second page of the description sheet. Keys has a list of classifying soils by order starting on page 75 of the PDF. Once you know the order, find the available suborders in the corresponding Chapter and classify from there.\n\nNote: pay attention to soils that have fill and reference the rules for anthropic epipedon.",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#horizon-page-4",
+    "href": "survey123-guide.html#horizon-page-4",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.5 Horizon – Page 4",
+    "text": "13.5 Horizon – Page 4\nEach horizon has a different page within page 4 of the survey.\n\nObserv. Method: almost always auger, dutch – check on the front page of the sheet if a small pit was dug. Then, the first three or so horizons were described in the pit, so the Observ. Method should be pit, small. The remaining ones should be auger, dutch.\nEnter Top/Bottom depth and Horizon Designation from sheet.\nName: entered from sheet. Reminder to make sure horizons with artifacts get “u” suffixes and the horizons under HTM/fill get a “2” in front for a lithologic discontinuity.\nBoundary Distinctness and Topography: leave blank. We didn’t describe this in augered profiles. If there was a small pit dug and we described distinctness, please mark it.\nMatrix color: enter as described.\n\nNote: there is no place to enter percentages of different colors, so that should be entered in the horizon notes text box at the bottom of the page. Use the following format: “80% 10YR 2/1 20% 10YR 4/4.”\nNote: at the bottom of the Matrix Color box, there’s a bar that says “1 of 5” - click the arrow to the right to enter multiple colors.\n\nTexture: mark no for Stratified Flag unless we wrote that in. Leave In Lieu Texture blank; I don’t think we ever used it. Add a Textural Modifier if we marked one – most commonly, we used gravelly (GR) or extremely gravelly (EXGR).\n\nNote page 2-42 of the Field Book (page 86): if there are ≥ 15% artifacts, the horizon gets a textural modifier.\n\nRock Frags: enter % and Sz High – if we only wrote one number for the size, it was the largest piece. We didn’t note Hardness, Round, Shape, or Kind, so leave those blank.\nStructure: use page 2-52 of the Field Book (page 96 of the PDF) for descriptions of what each item means. Leave ID and Parting To blank. If we wrote Parting To or added a second texture, mark both in the Structure section and note in the horizon notes text box that it was texture A parting to texture B.\n\nUPDATE 29JAN: make sure C horizons don’t have a texture, even if we entered one!\n\nConsistence: we only marked Moist consistence. Leave Manner of Failure blank. Use page 2-63 of the Field Book (page 107 of the PDF) for a list of what each abbreviation means.\nChange 3% and H202 Change 30%: leave blank.\nMottles: enter as described.\nRedox Features: enter as described. We didn’t describe Hardness, Shape, Location, or Redox Bnd, so leave those blank. See page 1-27 of the Field Book (page 39) for a list of what each abbreviation means. We used moist colors.\n\nUPDATE 29JAN: all FMCs (iron concretions) we entered, should be entered as F3M (non-cemented masses of Fe3+). Masses are much more common than concretions; we just used the wrong symbol.\n\nConcentrations: same notes as redox box. See pages 2-26 and 2-27 of the Field Book (pages 70-71) for a list of what each abbreviation means.\nPed and Void Surface Features: used infrequently, but enter as described or leave blank if nothing.\nRoots: we described percentage of roots for most of the season, instead of number, like NASIS wants, so leave Roots blank if there is a percent on our sheet. If there is a percent, enter “1% roots” in the notes box.\nPores: didn’t use often.\nField Measurement Properties: enter effervescence and clay/sand %s here. See page 2-87 of the Field Book (page 131) for a list of what each effervescence abbreviation means. We used HCL, 1N. Leave clay and sand estimates blank if we didn’t mark anything. Silt estimate is calculated automatically.\n\nUPDATE 29JAN: if we didn’t estimate sand/clay, delete the zero that is automatically populated in the silt text box.\n\nHuman artifacts: this would be on the third page of the scanned PDF. Enter as described. Choose the Kind that most closely matches what we wrote. If none match at all, leave it blank and enter the kind into the notes box of the artifacts box. See page 2-50 of the Field book (page 94) for a list of what each abbreviation means. Artifact-related notes should go in the “NOTES” textbox.\n\nUPDATE 29JAN: reminder that any horizon that has artifacts should get a “u” suffix in the horizon name. We missed this frequently, especially on the earlier pedons.\n\nHorizon NOTES: check the MISCELLANEOUS FIELD NOTES box on the front page of the sheet for any notes we made about individual horizons and enter them in the Horizon NOTES box. Do not enter site-level notes here.\n\nRepeat for each horizon, up to 10. If more than 10 horizons were described, consider stratifying them (combining) if they are small and similar. Talk to Nora with questions.",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#vegetation-page-5",
+    "href": "survey123-guide.html#vegetation-page-5",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.6 Vegetation – Page 5",
+    "text": "13.6 Vegetation – Page 5\nEnter as described in the VEGETATION box on the bottom left of the front page of the sheet.\nWe always wrote only the common name and % ground cover – enter those in the corresponding boxes. Here’s a list of common vegetation types we saw. Look up others in the Plants database, linked above and in the Survey123.\n\nKentucky bluegrass: POPR\nCreeping charlie: PINU\nReed canary grass: PHAR3\nPerennial ryegrass: LOPE\nCommon dandelion: TAOF\nCrabgrass: DIGIT2\nWhite clover: TRRE3\nCommon Buckthorn: RHCA3",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#miscellaneous-field-notes-page-6",
+    "href": "survey123-guide.html#miscellaneous-field-notes-page-6",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.7 Miscellaneous field notes– Page 6",
+    "text": "13.7 Miscellaneous field notes– Page 6\nEnter any site-level or other notes from the bottom right of the first page of the sheet here.\nCurrently there is no place to record Plot Radius or Break in the Landscape from page 1 of the description sheet, so please add it here\nDo not attach photos of the profile.",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
+  },
+  {
+    "objectID": "survey123-guide.html#user-summary---page-7",
+    "href": "survey123-guide.html#user-summary---page-7",
+    "title": "13  Entering Pedons into Survey123",
+    "section": "13.8 User summary - Page 7",
+    "text": "13.8 User summary - Page 7\nRemember to add any notes or questions you have in the notes document.\nLook over everything you entered and submit. Great job!\nNote from Ryder: it seems like Survey123 frequently misses color and structure for the last few horizons, so double check that those are still populated before submitting.\nNora has had a Survey123 glitch in the past where on horizon 3-4, the horizon color entry box disappears and I have to save and exit Survey123 altogether. I wonder if that’s what’s causing the missing data? Even if I repopulate it?",
+    "crumbs": [
+      "Data Entry",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+    ]
   }
 ]

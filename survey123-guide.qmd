@@ -1,0 +1,244 @@
+# Entering Pedons into Survey123
+
+*Last edited 13FEB2025 NP*
+
+::: {.callout-info}
+This guide is for UMN staff and students who are entering pedons into the Pedon Description V.1.9 Survey123 for the Twin Cities soil survey update. Use pedon-entry-tracking spreadsheet (in Box) to identify and note which pedon you’re working on. Remember to click “open” on the top right to edit it in Microsoft Excel Online.Open PB_RA_nora-notes-nrcs-survey123-12nov2024 (in Box) to make notes as you enter each pedon. Again, remember to click “open” on the top right to edit it in Microsoft Word Online. Regardless of if you have any comments/questions for a pedon, make a new bullet point for it, bold the site code (ex: 2024MN123001), and write its location (based on the clean-survey-points spreadsheet).
+:::
+
+## Resources
+
+-   [Keys to Soil Taxonomy (13th ed)](https://www.nrcs.usda.gov/sites/default/files/2022-09/Keys-to-Soil-Taxonomy.pdf)
+
+-   [Soil Survey Methods Manual (2017)](https://www.nrcs.usda.gov/sites/default/files/2022-09/The-Soil-Survey-Manual.pdf)
+
+-   [Field Book for Describing and Sampling Soils (v 4.0)](https://www.nrcs.usda.gov/sites/default/files/2022-09/field-book.pdf)
+
+-   [NRCS PLANTS Database](https://plants.usda.gov/)
+
+    -   Note that on description sheets, common names were used. Select "common name" instead of "scientific name" in the dropdown menu.
+
+-   Pedon description sheets, in the Box folder or in the scanned-pedon-description-sheets folder of the project folder of the Jelinski group shared drive (email Nora for access)
+
+    -   I would slightly prefer that you use the shared drive versions, because I’ve made a few comments with small changes on a few of the sheets
+
+-   Profile photos, organized by site ID in the Jelinski group shared drive
+
+    -   Use if something on the second page of the description sheet doesn’t make sense
+
+-   A Glossary of Terms Used in Soil Survey and Soil Classification
+
+## Type of Form and Location Info – Page 1
+
+-   In the Survey123 field app on your computer, click on the Pedon Description V.1.9 survey --\> Collect. Under Type of Form, choose Pedon Description.
+
+-   Describer: enter the describers' initials from the scanned pedon description. Use three letter initials when available – Nora's are NBP, for example.
+
+-   Location: leave this empty; Survey123 will crash if you try to navigate to a point on the map.
+
+-   Coordinate source: change to auto-populated from survey-grade GPS.
+
+-   Date: change to date description was collected.
+
+-   Area symbol: change to MNXXX, with XXX being the three digit county FIPS code from the site ID. Examples are 123, 003, 037, or 052.
+
+-   Pedon ID: populate the final two or three digits of the full site ID.
+
+-   Site ID: this will auto-populate from the Pedon ID once you click on the text box; they’re the same code.
+
+-   Year: click “-” to change back to 2024.
+
+-   Pedon #: last three digits of site ID.
+
+-   Region: North Central; click the dropdown menu and that should be the only choice.
+
+-   Office: NC-ALB; click the dropdown menu to select. If that isn’t available, leave it blank.
+
+-   State: MN; click the dropdown menu and that should be the only choice.
+
+-   MLRA: 103; using this for all as per Joe’s decision.
+
+-   LRR: leave blank.
+
+-   Lat/long: populate from clean-survey-points-20NOV2024 (in Box). Observation Name column holds site IDs. X and Y columns hold long and lat, respectively. Remember: y is latitude and x is longitude.
+
+-   Datum, accuracy, and GPS PDOP: leave blank or don’t change.
+
+## Pedon Description – Page 2
+
+-   Series name: return to this after you’ve classified the pedon; we won’t enter a series name, just a classification.
+
+-   Map unit symbol: leave blank.
+
+-   Pedon purpose: soil survey inventory.
+
+-   Classification: same as series name.
+
+-   Soil moisture regime (tax): udic.
+
+-   Weather, air temp, soil temp, depth, transect info: leave blank.
+
+-   Land cover kind 1 and 2: populate from land cover cell (highlighted orange). If "grass" is recorded on description sheet, kind 1 should be grass/herbaceous cover and kind 2 should be other grass/herbaceous cover.
+
+-   Geomorphic Environments and Other Groupings: choose based on Landscape and Landform identified on the description sheet. Many of ours are either glacial or fluvial.
+
+    -   If we didn’t identify Landscape/Landform, feel free to make an educated guess based on the site location (find the location in SoilExplorer). Chapter 3 of the Field Book for Describing Soils has a long and nicely organized list of possible options starting on page 3-10 or page 174 of the PDF.
+    -   If you aren’t at all sure what to choose, note that on the notes document and submit the survey without it – Nora will populate it.\
+    -   Anthro: use your judgement here. Options I’ve chosen are fill, anthroscape, and artificial levee. NRCS is still thinking about what anthroscape means. If a site has any HTM at all, if should have an anthropogenic landform marked.
+
+-   Elevation, aspect: leave blank.
+
+-   Slope: populate from sheet. If we put a range, choose the middle number.
+
+-   Slope complexity and shape (up/down AND across): populate from sheet.
+
+-   Hillslope profile: populate from sheet. Leave blank if we didn’t populate.
+
+-   Microrelief: we didn’t populate this very often, but populate from sheet if there is something.
+
+Geomorphic Component (3D): the only one we will use is terrace. If you choose that, it will open the Geom. Terraces and Flats questions. Populate from sheet, or leave blank and note on the notes document if you don’t know.
+
+-   Drainage: populate from sheet.
+
+-   Flooding and Ponding: populate from sheet or leave blank if you don’t know.
+
+    -   Note: For the National Wildlife Refuge sites that were on the floodplain, frequent flooding and long duration should be marked. See page 1-13 of the Field Book for guidelines.
+
+-   Soil Moisture Status: populate from sheet; most were moist.
+
+-   Permeability, Ksat, Runoff: leave blank.
+
+-   Parent material: identify top and bottom depths and kind from sheet.
+
+    -   Pay attention to mistakes we might’ve made. I scroll down to the second page to see if we identified any fill on the top of the profile OR two parent materials in a “natural” soil, but didn’t note it in the parent materials section. You can identify multiple.
+
+-   HTM/fill should always be marked as a parent material, no matter the depth.
+
+    -   UPDATE 29JAN: for an instance of till, use the “till, unspecified” option.
+
+-   Bedrock, Lithostrat. Units, and Erosion: leave blank.
+
+-   Surface Frag %: if nothing was noted, leave blank.
+
+-   Diagnostic Horizons/Properties: identify anything relevant. Any epipedon, diagnostic subsurface horizon (such as argillic), lithologic discontinuity, etc.
+
+    -   If nothing was marked on the sheet, look at the horizonation on the back side.
+
+-   Particle Size Control Section: this defaults to 25-100cm if there is nothing “special.” See Chapter 17 of Keys (page 363 of the PDF) for a description.
+
+-   Cracks: for \~98% of these, we marked no.
+
+-   Crust: leave blank.
+
+## Taxonomic Classification – Page 3
+
+-   Tax Kind: miscellaneous area
+
+-   Tax Part Size Class: options described in Chapter 17 of Keys (page 363 of the PDF). We frequently use coarse/fine-loamy or silty, sandy; see page 368 of the PDF
+
+-   Tax CEC: Many soils in MN are superactive. Will update with additional guidance.
+
+-   Tax Rxn, Tax Family Other: leave blank.
+
+-   Tax Moist Sublcass: udic, normally. Could also use anthraquic (see page 11 of Keys PDF).
+
+-   Tax Order, Suborder, Greatgroup: again, we did not classify soils in the field, so you will do this based on the second page of the description sheet. Keys has a list of classifying soils by order starting on page 75 of the PDF. Once you know the order, find the available suborders in the corresponding Chapter and classify from there.
+
+    -   Note: pay attention to soils that have fill and reference the rules for anthropic epipedon.
+
+## Horizon – Page 4
+
+Each horizon has a different page within page 4 of the survey.
+
+-   Observ. Method: almost always auger, dutch – check on the front page of the sheet if a small pit was dug. Then, the first three or so horizons were described in the pit, so the Observ. Method should be pit, small. The remaining ones should be auger, dutch.
+
+-   Enter Top/Bottom depth and Horizon Designation from sheet.
+
+-   Name: entered from sheet. Reminder to make sure horizons with artifacts get “u” suffixes and the horizons under HTM/fill get a “2” in front for a lithologic discontinuity.
+
+-   Boundary Distinctness and Topography: leave blank. We didn’t describe this in augered profiles. If there was a small pit dug and we described distinctness, please mark it.
+
+-   Matrix color: enter as described.
+
+    -   Note: there is no place to enter percentages of different colors, so that should be entered in the horizon notes text box at the bottom of the page. Use the following format: “80% 10YR 2/1 20% 10YR 4/4.”
+    -   Note: at the bottom of the Matrix Color box, there’s a bar that says “1 of 5” - click the arrow to the right to enter multiple colors.
+
+-   Texture: mark no for Stratified Flag unless we wrote that in. Leave In Lieu Texture blank; I don’t think we ever used it. Add a Textural Modifier if we marked one – most commonly, we used gravelly (GR) or extremely gravelly (EXGR).
+
+    -   Note page 2-42 of the Field Book (page 86): if there are ≥ 15% artifacts, the horizon gets a textural modifier.
+
+-   Rock Frags: enter % and Sz High – if we only wrote one number for the size, it was the largest piece. We didn’t note Hardness, Round, Shape, or Kind, so leave those blank.
+
+-   Structure: use page 2-52 of the Field Book (page 96 of the PDF) for descriptions of what each item means. Leave ID and Parting To blank. If we wrote Parting To or added a second texture, mark both in the Structure section and note in the horizon notes text box that it was texture A parting to texture B.
+
+    -   UPDATE 29JAN: make sure C horizons don’t have a texture, even if we entered one!
+
+-   Consistence: we only marked Moist consistence. Leave Manner of Failure blank. Use page 2-63 of the Field Book (page 107 of the PDF) for a list of what each abbreviation means.
+
+-   Change 3% and H202 Change 30%: leave blank.
+
+-   Mottles: enter as described.
+
+-   Redox Features: enter as described. We didn’t describe Hardness, Shape, Location, or Redox Bnd, so leave those blank. See page 1-27 of the Field Book (page 39) for a list of what each abbreviation means. We used moist colors.
+
+    -   UPDATE 29JAN: all FMCs (iron concretions) we entered, should be entered as F3M (non-cemented masses of Fe3+). Masses are much more common than concretions; we just used the wrong symbol.
+
+-   Concentrations: same notes as redox box. See pages 2-26 and 2-27 of the Field Book (pages 70-71) for a list of what each abbreviation means.
+
+-   Ped and Void Surface Features: used infrequently, but enter as described or leave blank if nothing.
+
+-   Roots: we described percentage of roots for most of the season, instead of number, like NASIS wants, so leave Roots blank if there is a percent on our sheet. If there is a percent, enter “1% roots” in the notes box.
+
+-   Pores: didn’t use often.
+
+-   Field Measurement Properties: enter effervescence and clay/sand %s here. See page 2-87 of the Field Book (page 131) for a list of what each effervescence abbreviation means. We used HCL, 1N. Leave clay and sand estimates blank if we didn’t mark anything. Silt estimate is calculated automatically.
+
+    -   UPDATE 29JAN: if we didn’t estimate sand/clay, delete the zero that is automatically populated in the silt text box.
+
+-   Human artifacts: this would be on the third page of the scanned PDF. Enter as described. Choose the Kind that most closely matches what we wrote. If none match at all, leave it blank and enter the kind into the notes box of the artifacts box. See page 2-50 of the Field book (page 94) for a list of what each abbreviation means. Artifact-related notes should go in the “NOTES” textbox.
+
+    -   UPDATE 29JAN: reminder that any horizon that has artifacts should get a “u” suffix in the horizon name. We missed this frequently, especially on the earlier pedons.
+
+-   Horizon NOTES: check the MISCELLANEOUS FIELD NOTES box on the front page of the sheet for any notes we made about individual horizons and enter them in the Horizon NOTES box. Do not enter site-level notes here.
+
+Repeat for each horizon, up to 10. If more than 10 horizons were described, consider stratifying them (combining) if they are small and similar. Talk to Nora with questions.
+
+## Vegetation – Page 5
+
+Enter as described in the VEGETATION box on the bottom left of the front page of the sheet.
+
+We always wrote only the common name and % ground cover – enter those in the corresponding boxes. Here’s a list of common vegetation types we saw. Look up others in the Plants database, linked above and in the Survey123.
+
+-   Kentucky bluegrass: POPR
+
+-   Creeping charlie: PINU
+
+-   Reed canary grass: PHAR3
+
+-   Perennial ryegrass: LOPE
+
+-   Common dandelion: TAOF
+
+-   Crabgrass: DIGIT2
+
+-   White clover: TRRE3
+
+-   Common Buckthorn: RHCA3
+
+## Miscellaneous field notes– Page 6
+
+Enter any site-level or other notes from the bottom right of the first page of the sheet here.
+
+***Currently there is no place to record Plot Radius or Break in the Landscape from page 1 of the description sheet, so please add it here***
+
+Do not attach photos of the profile.
+
+## User summary - Page 7
+
+Remember to add any notes or questions you have in the notes document.
+
+Look over everything you entered and submit. Great job!
+
+Note from Ryder: it seems like Survey123 frequently misses color and structure for the last few horizons, so double check that those are still populated before submitting.
+
+Nora has had a Survey123 glitch in the past where on horizon 3-4, the horizon color entry box disappears and I have to save and exit Survey123 altogether. I wonder if that’s what’s causing the missing data? Even if I repopulate it?
