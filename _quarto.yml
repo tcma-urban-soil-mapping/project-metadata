@@ -28,7 +28,7 @@ book:
       chapters:
       - field-protocol.qmd
       - field-equipment-to-do.qmd
-    - part: "Covariate Development"
+    - part: "Job Aids"
       chapters:
       - minutes-17DEC2024-nic-nora.qmd
     - part: "Data Entry"

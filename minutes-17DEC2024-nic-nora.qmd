@@ -1,206 +1,192 @@
-# Using Google Earth Engine to Access Geospatial Data
+# Using Google Earth Engine to Access Geospatial Data (Covariate Development)
 
 *December 17, 2024 Meeting Transcript Analysis*
 
 ## Part One
 
 ### 1. Initial Project Organization
-- Created a Google Doc for prompt engineering work in the urban soil mapping shared folder
-- Document named "prompt engineering" placed in shared project folder
-- Discussed organizing project files within lab shared drive structure
+
+-   Created a Google Doc for prompt engineering work in the urban soil mapping shared folder
+-   Document named "prompt engineering" placed in shared project folder
+-   Discussed organizing project files within lab shared drive structure
 
 ### 2. QGIS Bounding Box Creation
 
-1. Created new project with following steps:
-   - Added XYZ tile layer for Google satellite imagery as base map
-   - Set coordinate system to NAD 83 UTM Zone 15N
-  - Added TCMA urban soil survey update draft AOI shapefile
-   - Created new shapefile for bounding box
-   - Used center and point method to create square boundary around the AOI
-   - Ensured coverage extended beyond immediate AOI
+1.  Created new project with following steps:
+    -   Added XYZ tile layer for Google satellite imagery as base map
+    -   Set coordinate system to NAD 83 UTM Zone 15N
 
-2. Bounding Box Specifications:
-   - File named: "bounding-box-draft-v2-17December2024"
-   - Designed to have 2km overlap between tiles
-   - Configured to extend beyond final boundary limits
-   - Created in UTM coordinate system for consistent tile sizing
+-   Added TCMA urban soil survey update draft AOI shapefile
+-   Created new shapefile for bounding box
+-   Used center and point method to create square boundary around the AOI
+-   Ensured coverage extended beyond immediate AOI
+
+2.  Bounding Box Specifications:
+    -   File named: "bounding-box-draft-v2-17December2024"
+    -   Designed to have 2km overlap between tiles
+    -   Configured to extend beyond final boundary limits
+    -   Created in UTM coordinate system for consistent tile sizing
 
 ### 3. Google Earth Engine Setup
 
-Registration Process:
-   - Accessed through umn.edu account
-   - Selected unpaid usage for education
-   - Project type: Research
-   - Created new Google Cloud project with Earth Engine integration
-   - Completed Earth Engine registration
+Registration Process: - Accessed through umn.edu account - Selected unpaid usage for education - Project type: Research - Created new Google Cloud project with Earth Engine integration - Completed Earth Engine registration
 
 ### 4. Google Cloud Console Configuration
 
-   - Accessed console.cloud.google.com
-   - Created project under organizational structure
-   - Attempted to set up cloud storage buckets
-   - Note: Encountered payment verification issues that need resolution
+-   Accessed console.cloud.google.com
+-   Created project under organizational structure
+-   Attempted to set up cloud storage buckets
+-   Note: Encountered payment verification issues that need resolution
 
 ### 5. MSI (Minnesota Supercomputing Institute) Environment
 
-Jupyter Lab Setup:
-   - Accessed through interactive apps
-   - Selected Python 3.8.3 environment
-   - Created new project folder: "tcma_covar_development"
-   - Installed required package (e.g., geopandas)
+Jupyter Lab Setup: - Accessed through interactive apps - Selected Python 3.8.3 environment - Created new project folder: "tcma_covar_development" - Installed required package (e.g., geopandas)
 
 ### Technical Considerations
 
-- Need to ensure 2km overlap in tiles for processing
-- File organization split between:
-  - Google Cloud Storage (for large datasets)
-  - MSI Tier 1 & 2 storage
-  - Google Drive (for documentation)
-- Working environment includes:
-  - Google Earth Engine for satellite data
-  - MSI for computing
-  - QGIS for spatial analysis
-  - Python/Jupyter Lab for processing
-
+-   Need to ensure 2km overlap in tiles for processing
+-   File organization split between:
+    -   Google Cloud Storage (for large datasets)
+    -   MSI Tier 1 & 2 storage
+    -   Google Drive (for documentation)
+-   Working environment includes:
+    -   Google Earth Engine for satellite data
+    -   MSI for computing
+    -   QGIS for spatial analysis
+    -   Python/Jupyter Lab for processing
 
 ## Part Two
 
 ### 1. Google Cloud Project Setup
 
-1. Created access to project environment
-   - Added user as editor to existing project
-   - Confirmed access to cloud console
-   - Set up bucket structure for data storage
-
-2. Created Storage Structure:
-   - Created main bucket "tcma_covars"
-   - Created initial directory: "dem-3dep-1"
-   - Configured with multi-region storage
-   - Enabled standard storage settings
-   - Enforced public access hazard prevention
+1.  Created access to project environment
+    -   Added user as editor to existing project
+    -   Confirmed access to cloud console
+    -   Set up bucket structure for data storage
+2.  Created Storage Structure:
+    -   Created main bucket "tcma_covars"
+    -   Created initial directory: "dem-3dep-1"
+    -   Configured with multi-region storage
+    -   Enabled standard storage settings
+    -   Enforced public access hazard prevention
 
 ### 2. Jupyter Lab Environment Configuration
-1. Package Installation:
-   - Attempted Conda installation of GeoPandas
-   - Switched to Pip install when Conda had conflicts
-   - Successfully installed GeoPandas using Pip
-   - Added local bin directory to path for module access
 
-2. Environment Organization:
-   - Created clear file naming conventions
-   - Set up documentation of one-time setup steps
-   - Organized notebooks with clear prefixes for setup vs. regular usage
-   - Added annotations for process documentation
+1.  Package Installation:
+    -   Attempted Conda installation of GeoPandas
+    -   Switched to Pip install when Conda had conflicts
+    -   Successfully installed GeoPandas using Pip
+    -   Added local bin directory to path for module access
+2.  Environment Organization:
+    -   Created clear file naming conventions
+    -   Set up documentation of one-time setup steps
+    -   Organized notebooks with clear prefixes for setup vs. regular usage
+    -   Added annotations for process documentation
 
 ### 3. Google Earth Engine Setup
 
-1. Asset Management:
-   - Uploaded shapefile as Earth Engine asset
-   - Required coordinate system conversion to EPSG:4326
-   - Created project structure for scripts
-   - Set up folders for different data types
-
-2. Script Development:
-   - Created visualization script for tiles
-   - Set up data processing framework
-   - Implemented naming conventions for exported files
-   - Format: "tcma_3dep_1meter_tile_h[XX]v[YY]"
-
+1.  Asset Management:
+    -   Uploaded shapefile as Earth Engine asset
+    -   Required coordinate system conversion to EPSG:4326
+    -   Created project structure for scripts
+    -   Set up folders for different data types
+2.  Script Development:
+    -   Created visualization script for tiles
+    -   Set up data processing framework
+    -   Implemented naming conventions for exported files
+    -   Format: "tcma_3dep_1meter_tile_h\[XX\]v\[YY\]"
 
 ### 4. Data Processing Framework
 
-1. Initial Setup:
-   - Imported tiles asset
-   - Added 3DEP elevation data
-   - Configured NAIP imagery access
-   - Set up processing functions for tiles
-
-2. Key Components:
-   - Tile processing function
-   - Export naming convention setup
-   - Visualization parameters
-   - Data extraction framework
+1.  Initial Setup:
+    -   Imported tiles asset
+    -   Added 3DEP elevation data
+    -   Configured NAIP imagery access
+    -   Set up processing functions for tiles
+2.  Key Components:
+    -   Tile processing function
+    -   Export naming convention setup
+    -   Visualization parameters
+    -   Data extraction framework
 
 ### Technical Notes
 
-- Modified tile size to handle ~1.5GB files instead of smaller segments
-- Reduced number of tiles from 169 (13x13) to 49 (7x7)
-- Implemented 2km overlap between tiles for processing continuity
-- Configured proper coordinate system transformations
-
+-   Modified tile size to handle \~1.5GB files instead of smaller segments
+-   Reduced number of tiles from 169 (13x13) to 49 (7x7)
+-   Implemented 2km overlap between tiles for processing continuity
+-   Configured proper coordinate system transformations
 
 ## Part Three
 
 ### 1. Data Visualization Troubleshooting
-1. Identified Issues with Attribute Table:
-   - Found shapefile attribute table was not correctly formatted
-   - Made necessary adjustments to tile ID properties
-   - Added proper ID fields to enable processing
-   
-2. Script Refinements:
-   - Modified JavaScript to handle tile naming conventions
-   - Adjusted bucket paths for correct data storage
-   - Set up proper directory structure for output files
+
+1.  Identified Issues with Attribute Table:
+    -   Found shapefile attribute table was not correctly formatted
+    -   Made necessary adjustments to tile ID properties
+    -   Added proper ID fields to enable processing
+2.  Script Refinements:
+    -   Modified JavaScript to handle tile naming conventions
+    -   Adjusted bucket paths for correct data storage
+    -   Set up proper directory structure for output files
 
 ### 2. Image Processing Configuration
-1. NAIP Imagery Setup:
-   - Configured date range for 2021 imagery
-   - Extended collection window to May-September
-   - Confirmed NAIP imagery is typically cloud-free
-   - Set up composite parameters
 
-2. Sentinel-2 Configuration:
-   - Set date range: 2019-2024
-   - Configured growing season window: June 1 - August 31
-   - Added cloud masking procedures
-   - Set up 5-year composite parameters
+1.  NAIP Imagery Setup:
+    -   Configured date range for 2021 imagery
+    -   Extended collection window to May-September
+    -   Confirmed NAIP imagery is typically cloud-free
+    -   Set up composite parameters
+2.  Sentinel-2 Configuration:
+    -   Set date range: 2019-2024
+    -   Configured growing season window: June 1 - August 31
+    -   Added cloud masking procedures
+    -   Set up 5-year composite parameters
 
 ### 3. File Structure and Organization
-1. Google Cloud Storage:
-   - Created main bucket: "tcma_covars"
-   - Established directory structure:
-     - DEM (3DEP data)
-     - NAIP imagery
-     - Sentinel-2 data
-   - Set up proper naming conventions for outputs
 
-2. Processing Framework:
-   - Configured 10-meter resolution as standard output
-   - Aligned with G-SERGO grid specifications
-   - Set up downscaling procedures for higher resolution data
+1.  Google Cloud Storage:
+    -   Created main bucket: "tcma_covars"
+    -   Established directory structure:
+        -   DEM (3DEP data)
+        -   NAIP imagery
+        -   Sentinel-2 data
+    -   Set up proper naming conventions for outputs
+2.  Processing Framework:
+    -   Configured 10-meter resolution as standard output
+    -   Aligned with G-SERGO grid specifications
+    -   Set up downscaling procedures for higher resolution data
 
 ### 4. Next Steps and Action Items
-1. Immediate Tasks:
-   - Complete DEM processing for remaining tiles
-   - Set up NAIP processing for 2021
-   - Configure Sentinel-2 processing
-   - Document process for technical documentation
 
-2. Future Processing:
-   - Transfer processed data to MSI Tier 2
-   - Develop Python scripts for:
-     - Data alignment
-     - Resolution matching
-     - Stack creation
-     - Quality control
-
-3. Documentation Requirements:
-   - Create progress slides for project update
-   - Include screenshots of:
-     - Google Earth Engine interface
-     - Cloud console
-     - Processing results
-   - Document technical procedures
+1.  Immediate Tasks:
+    -   Complete DEM processing for remaining tiles
+    -   Set up NAIP processing for 2021
+    -   Configure Sentinel-2 processing
+    -   Document process for technical documentation
+2.  Future Processing:
+    -   Transfer processed data to MSI Tier 2
+    -   Develop Python scripts for:
+        -   Data alignment
+        -   Resolution matching
+        -   Stack creation
+        -   Quality control
+3.  Documentation Requirements:
+    -   Create progress slides for project update
+    -   Include screenshots of:
+        -   Google Earth Engine interface
+        -   Cloud console
+        -   Processing results
+    -   Document technical procedures
 
 ### Technical Notes
-1. Resolution Standards:
-   - Final output will be 10-meter resolution
-   - Matching gSSURGO grid specifications
-   - Downscaling required for higher resolution inputs
-   - Interpolation needed for alignment
 
-2. Processing Considerations:
-   - Cloud-free compositing for Sentinel data
-   - Scene classification layer (SCL) for cloud masking
-   - Median value computation for composites
-   - Spatial alignment requirements
+1.  Resolution Standards:
+    -   Final output will be 10-meter resolution
+    -   Matching gSSURGO grid specifications
+    -   Downscaling required for higher resolution inputs
+    -   Interpolation needed for alignment
+2.  Processing Considerations:
+    -   Cloud-free compositing for Sentinel data
+    -   Scene classification layer (SCL) for cloud masking
+    -   Median value computation for composites
+    -   Spatial alignment requirements
