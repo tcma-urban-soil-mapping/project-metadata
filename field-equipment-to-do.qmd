@@ -1,10 +1,12 @@
 # TCMA Urban Soil Mapping Field Equipment Check List & To Do List
 
-*Last edited 04SEP2024 NP*
+*Last edited 09MAY2025 NP*
 
 ## Field Equipment Checklist
 
--   [ ] Pedon description sheets printed on Rite in the Rain [NRCS-UMN Pedon Description Sheet](https://docs.google.com/spreadsheets/d/1ni4ZqxBZGSQ7mRD_f0gUEV5xwQzT-kC3/edit?usp=sharing&ouid=108934466869932900090&rtpof=true&sd=true)
+**See [field-protocol-equipment-list-26AUG2024](https://docs.google.com/document/d/1j7VGiQoLkrYA2JY9yjJM5sLL2IDeFJiXK2fpnDyhxdY/edit?usp=sharing) (Google Doc) for the most updated version of the equipment list.**
+
+-   [ ] Pedon description sheets printed on Rite in the Rain [NRCS-UMN Pedon Description Sheet](https://drive.google.com/file/d/1LQBxOf4WxO95nJbVx9PhE5M47naiWgQ0/view?usp=sharing)
 -   [ ] RUSI description sheets printed on Rite in the Rain \[rusi-field-sheet\](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)
 -   [ ] [Field Book for Describing and Sampling Soils, version 3.0](https://www.nrcs.usda.gov/sites/default/files/2022-09/field-book.pdf) (USDA-NRCS; red book)
 -   [ ] Clipboard and writing utensils (pencils)
@@ -21,13 +23,13 @@
 -   [ ] 10% HCl in dropper bottle, 1L backup in vehicle
 -   [ ] Spray bottle
 -   [ ] Phone, to take site videos and profile photos
--   [ ] 4 orange cones; place in square around sampling location 
+-   [ ] 4 orange cones; place in square around sampling location
 
 ### Additional supplies for construction sites
 
-- [ ] Hard hat 
-- [ ] High-vis vests
-- [ ] Optional: safety glasses
+-   [ ] Hard hat
+-   [ ] High-vis vests
+-   [ ] Optional: safety glasses
 
 ## Field To Do Checklist
 

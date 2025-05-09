@@ -1,6 +1,6 @@
 # TCMA Urban Soil Mapping Field Protocol
 
-*Last edited 04SEP2024 NP*
+*Last edited 09MAY2025 NP*
 
 ## Sampling Location Selection
 
@@ -26,30 +26,15 @@
 
 ## Profile Description Protocol
 
--   Delineate horizons after sampling using golf tees. Record horizon depths on the second page of the pedon description sheet using the tape measure, in centimeters. Complete the remainder of the second page.
+-   Delineate horizons after sampling using golf tees. Record horizon depths on the second page of the pedon description sheet using the tape measure, in centimeters. Complete the remainder of the second page. A few notes:
     -   Use a Munsell color book to identify horizon colors. Record moist color for all horizons and dry color for surface or topsoil horizons.
-    -   Record soil texture for each horizon.
-    -   Estimate kind, percentage, and size of rock fragments.
-    -   Identify horizon structure if possible; the auger may destroy natural structure, so be mindful of this.
-    -   Estimate clay percent if possible, but disregard sand and silt percentages in the field.
-    -   Describe redox features (red book page 2-12), ped & void surface features (2-32), and concentrations (2-20) if present.
-    -   Describe pores and/or roots if present (2-70).
-    -   Identify horizon names. This can also be done after the fact using profile photos.
-    -   **Record sample codes in the boundaries column of the pedon description sheet.** Remember, codes should be the two digit year code and three digit sample code. Example: 24-123.
+    -   Redox features are on page 2-12 of the red book, ped & void surface features on 2-32, and concentrations on 2-20.
+    -   Pores and/or roots are on 2-70.
+    -   Record a sample code on the back side of the description sheet. Codes should be the two digit year and three digit sample code, like 25-001.
 -   Complete the first page of the pedon description sheet (site level information, generally).
-    -   Landscape and landform: remember to **record both the anthropogenic landscape and landform (e.g., urban anthroscape) in addition to the natural one.** See page 3-1 in the red book for complete lists for each.
-    -   Slope %, using the clinometer
-    -   Slope complexity
-    -   Slope shape: up and down / across → 2 words, one for up/down and one for across. Choose from convex, concave, and linear.
-    -   Drainage: estimate based on presence of redox features and soil texture.
-    -   Flooding and ponding: make a note if either are present, otherwise leave blank
-    -   Soil moisture status: very dry, dry, moist, very moist, wet (satiated or non-satiated). See red book for additional details.
-    -   Parent material and bedrock can be done after the fact, but estimate parent material if possible. Remember, fill, if identified, is a different parent material.
-    -   Erosion and runoff: can make notes if present, otherwise leave blank
-    -   Surface stoniness: describe if present
-    -   Any cells not included in above list can be left blank
+    -   Landscape and landform: remember to record both the anthropogenic landscape and landform (e.g., urban anthroscape) in addition to the natural one. See page 3-1 in the red book for complete lists for each.
 -   Collect a soil sample from each horizon in a 5x8” ULINE bag labeled with sample code.
-    -   Collect approximately 1 cup of soil, if possible; this should be just above the bottom line of the white box on the ULINE bags.
+-   Collect approximately 1 cup of soil, if possible; this should be just above the bottom line of the white box on the ULINE bags.
 
 ## Vegetation description protocol
 
@@ -62,10 +47,6 @@
 ## Partial RUSI
 
 -   Complete partial RUSI for the site using the field sheet, assigning each category a score between 0-3. Note that a higher score indicates a less urbanized area. See the backside of the sheet for descriptions of each category.
-    -   Quantify traffic. Also note the size of the nearest road in the notes section.
-    -   Quantify infrastructure.
-    -   Quantify surface cover types. Specific species descriptions and percentages are included in the vegetation portion of the pedon description form.
-    -   Quantify other soil characteristics, including texture, structure, etc.
 
 ## Post Sampling Protocol
 
@@ -75,5 +56,5 @@
 -   Complete the Soil Observations & Pedon Descriptions survey in Survey123. Make sure that GPS coordinates are recorded. Upload site and pedon description sheet photos into the survey.
     -   All photos should be taken through the Camera app, not through Survey123; it compresses the photos and decreases the quality.
 -   Upload scanned description sheet, pedon photos and video, and site photos and video to shared Google Drive folder
-    -   Description sheets: folder titled "scanned-pedon-description-sheets"
-    -   Pedon and site photos, site video: folder titled "site-photos-videos"
+    -   Description sheets: folder titled "2025-scanned-pedon-description-sheets"
+    -   Pedon and site photos, site video: folder titled "2025-site-photos-videos"

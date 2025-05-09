@@ -31,6 +31,7 @@ book:
     - part: "Job Aids"
       chapters:
       - minutes-17DEC2024-nic-nora.qmd
+      - minutes-18APR2025-nic-nora.qmd
     - part: "Data Entry"
       chapters: 
         - survey123-guide.qmd

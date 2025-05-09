@@ -1,0 +1,170 @@
+# Covariate Space Coverage Sampling 18APR2025
+
+**Date: April 18, 2025**
+
+**Participants:**
+
+-   Nic Jelinski
+-   Nora Pearson
+
+## Meeting Objective
+
+To establish a shared workspace on Minnesota Supercomputing Institute's platform (MSI) for accessing and processing geospatial data for the Twin Cities Metropolitan Area (TCMA) survey project, including transferring data from Google Cloud Storage, setting up data access, and planning next steps for spatial data processing.
+
+## Workspace Setup and Data Organization
+
+### Shared MSI Access
+
+-   Participants set up a shared folder at `/home/jeli0026/shared/TCMA_survey` on MSI to enable collaborative work
+-   Initially had difficulty accessing the shared folder - Nora encountered issues with sessions stuck in "starting" state
+-   Successfully established access to the shared folder for both participants
+-   Confirmed that Nora has read/write access to folders inside the shared workspace, but cannot create new directories
+
+### Google Cloud Data Management
+
+-   Identified and accessed the `TCMA-covars` Google Cloud bucket they had previously created
+
+-   Nic set up Google Cloud SDK command-line tools to access the bucket via terminal
+
+-   Used `gsutil` to sync data from Google Cloud to MSI
+
+-   Implemented file transfer commands with checksums to ensure data integrity:
+
+    ```         
+    gsutil -m rsync -r -c gs://TCMA-covars/DEM_3DEP-1meter-ag-10meter-huc8/ /home/jeli0026/shared/TCMA_survey/DEM_3DEP-1meter-ag-10meter-huc8/
+    ```
+
+### Essential Data Identified for Transfer
+
+Key datasets to be moved to the shared workspace: 1. 2020 Land Use dataset 2. Metro Lakes and Rivers data 3. Land Cover Classification (1-meter) 4. Patty's geomorphic surfaces data (from Box storage) 5. DEM data from Google Cloud (successfully transferred during meeting)
+
+## Data Processing and Strategies
+
+### DEM Data Processing
+
+-   Nic created a Google Earth Engine script to prepare DEM data based on watershed boundaries
+-   Used HUC-8 watershed boundaries to avoid edge artifacts in hydrological derivatives
+-   Generated DEM data with 5km buffer around watersheds to ensure proper hydrological calculations
+-   Aggregated 1-meter DEM data to 10-meter resolution
+-   Exported 6 HUC-8 watersheds that intersect with the TCMA area of interest
+-   Data size per watershed: approximately 200-250MB each, with total size around 1.2GB
+
+### Technical Insights on DEM Processing
+
+-   Discovered artifacts in the native 3DEP 10-meter DEM product when calculating derivatives
+-   Better approach is to aggregate 1-meter DEM to 10-meter to avoid artifacts
+-   When processing derivatives (slope, flow accumulation), watersheds make better processing units than arbitrary tiles
+-   Buffering watersheds by 5km before calculating derivatives avoids edge effects
+-   Will clip back to actual watershed boundaries after derivatives are calculated
+-   Projected all data to UTM 15N (EPSG:26915 based on NAD83)
+
+### Geospatial Data Handling
+
+-   AOI (Area of Interest) shapefile was imported into QGIS and converted to appropriate format
+-   Uploaded AOI to Google Earth Engine as asset for processing
+-   Identified 6 HUC-8 watersheds that intersect with the TCMA AOI
+-   Exported processed data to Google Cloud Storage for subsequent transfer to MSI
+
+### Data Gaps and Considerations
+
+-   Noted that some tribal lands have redacted data in the newest 3DEP coverage
+-   Approximately 1/3 of Minnesota not yet available in 3DEP data (western part still being processed)
+-   All Twin Cities data is complete in the 3DEP coverage
+
+## Technical Procedures Documented
+
+### Shapefile Processing Workflow
+
+1.  Load GDB file into QGIS
+2.  Export AOI feature as shapefile in WGS84 projection
+3.  Compress into ZIP file for Google Earth Engine
+4.  Upload to Google Earth Engine as asset
+5.  Use asset in processing script
+
+### Google Earth Engine Script
+
+-   Based on existing statewide project script
+-   Modified to use TCMA AOI instead of Minnesota state boundary
+-   Processes watersheds that intersect with the AOI
+-   Buffers watersheds by 5km for processing
+-   Aggregates 1-meter DEM to 10-meter resolution
+-   Exports results to Google Cloud Storage
+
+### MSI to Google Cloud Connection
+
+1.  Install Google Cloud SDK tools:
+
+    ```         
+    # Download and extract the SDK
+    # Run ./google-cloud-sdk/install.sh
+    # Authenticate with gcloud auth login
+    ```
+
+2.  Set up file transfer commands:
+
+    ```         
+    gsutil -m rsync -r -c [SOURCE] [DESTINATION]
+    ```
+
+    -   `-m`: multi-processing for faster transfer
+    -   `-r`: recursive to include all subdirectories
+    -   `-c`: use checksums to verify file integrity
+
+## Knowledge Transfer and Documentation
+
+### Documentation Plans
+
+-   Agreed to document all procedures in a new chapter in the project's ebook
+-   Recording of the meeting saved in Nora's cloud for reference
+-   Will create "job aids" with step-by-step instructions
+
+### Data Insights
+
+-   Google Cloud charges for downloads, not processing or storage (\~\$2000 for statewide data)
+-   Google Earth Engine requires WGS84 projection for uploads but can reproject for exports
+-   Shared understanding of data directory structures and permission systems
+-   Discussed differences between UTM 15N projections (EPSG:26915 vs. EPSG:32615)
+
+## Next Steps and Action Items
+
+### Nic's Action Items
+
+-   Create preliminary notebooks in the shared MSI folder
+-   Fix missing watershed #2 in the DEM data
+-   Ensure all necessary directories are created in shared workspace
+-   Develop initial data processing workflow
+
+### Nora's Action Items
+
+-   Check shared folder on Monday to review Nic's additions
+-   Transfer Patty's geomorphic surfaces data from Box to the shared MSI folder
+-   Create a documentation chapter in the existing ebook
+
+### Future Collaborative Work
+
+-   Create a structured GitHub repository for all analysis scripts
+-   Process watersheds to create seamless hydrological derivatives
+-   Explore ways to simplify workflow for repeated tasks
+-   Scheduled to touch base Monday morning
+
+## Technical Notes and Observations
+
+### MSI Configuration
+
+-   Home directory path: `/user/1/pear0747` (Nora), `/user/1/jeli0026` (Nic)
+-   Shared directory path: `/home/jeli0026/shared/`
+-   Workspace created: `/home/jeli0026/shared/TCMA_survey/`
+
+### Data Storage Insights
+
+-   Previous data organization had been done in home directories and Google Cloud Storage
+-   Google Cloud Storage bucket: `gs://TCMA-covars/`
+-   Box storage contains geomorphic data that needs to be transferred
+-   MSI shared workspace allows both users to access the same files
+
+### Ongoing Challenges
+
+-   Permission structure limits directory creation by Nora in the shared workspace
+-   Some data transfers were slower than expected
+-   Missing data for watershed #2 needs to be resolved
+-   Need to coordinate access to geomorphic surfaces data on Box
