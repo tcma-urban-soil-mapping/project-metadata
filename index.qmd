@@ -28,12 +28,14 @@ This document contains metadata for each of the grant deliverables, as well as g
 -   Francine Lheritier; Natural Resource Soil Scientist, NRCS
 -   Shaunna Repking; Soil Scientist, NRCS
 -   Patty Burns; Soil Specialist, NRCS Contractor
+-   Betsy Schug; Soil Data Quality Specialist, NRCS
 
 ## Additional Collaborators
 
 -   City of South St. Paul (soil sampling permit)
 -   Three Rivers Parks District (soil sampling permit)
 -   US Fish & Wildlife Service (soil sampling permit)
+-   City of St. Paul (soil sampling permit)
 
 ## Funding Source
 

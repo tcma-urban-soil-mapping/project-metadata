@@ -1,0 +1,224 @@
+# Field Review Meeting Minutes 05JUN2025
+
+**Date: June 5, 2025**  
+
+## Attendees
+- Randy Riddle - Senior Soil Scientist, Urban Soil Survey, NRCS Special Projects Region
+- Nora B Pearson
+- Nic Jelinski
+- Patty Burns
+- Joe Brennan
+- Stephen Roecker
+- Betsy Schug
+- Genevieve Saldibar
+- Brianna Hayward
+- Danielle Evans
+
+## Meeting Overview
+
+This training session focused on urban soil survey methods, specifically addressing human transported materials (HTM), soil profile descriptions, and classification challenges in urban environments. Randy Riddle presented material from a previous Soil Science Institute presentation, covering urban soil characteristics, anthropogenic materials, and field description protocols.
+
+## Key Training Topics Covered
+
+### 1. Urban Soil Forming Factors
+
+Randy presented the concept of **six soil forming factors** in urban environments, with humans as the sixth "master variable" that can:
+- Reset the clock on soil formation
+- Modify or change other soil forming factors
+- Impact parent material, climate, organisms, and topography
+- Reshape landforms through construction and development
+
+Development history, zoning practices, construction methods, and material era all influence urban soil properties. Examples included coal combustion byproducts in filled marshland (Ithaca, NY) and extensive hillside reshaping in Los Angeles County.
+
+### 2. Characteristics of Urban Soils
+
+Key properties observed in urban soils include:
+- **Heterogeneous or homogenized properties** with abrupt changes in color and texture
+- **Higher bulk density and compaction** (though this may decrease over time as roots develop)
+- **Rapid pedogenesis** even in short timeframes after site establishment
+- **Human artifacts** including construction debris, plastic materials, and other manufactured items
+- **Elevated rock fragment content** from construction practices
+- **Higher pH values** typically from concrete dust and calcium inputs
+- **Higher organic carbon content** in surface horizons due to intensive management
+
+### 3. Human Transported vs. Human Altered Materials
+
+**Human Transported Materials (HTM):**
+- Soil moved outside of the one cubic meter pedon unit
+- Requires corresponding anthropogenic landform
+- Most common type found in urban areas
+- Classified as parent material in soil taxonomy
+
+**Human Altered Materials:**
+- In-situ alteration (e.g., deep ripping, subsoiling)
+- Less common in urban mapping
+- Examples include breaking up restrictive layers in agricultural soils
+
+### 4. Anthropogenic Landforms
+
+Three categories of anthropogenic geomorphic features:
+- **Anthroscapes** - Landscape level
+- **Anthropogenic landforms** - Comparable to regular landform level
+  - Constructional (built up)
+  - Destructional (excavated/cut)
+- **Anthropogenic microfeatures** - Smaller features within broader landforms
+
+**Important:** Always identify both native landscape/landform AND anthropogenic landform when HTM is present.
+
+### 5. Human Artifacts Classification
+
+**Definition:** Materials created, modified, or transported by humans for practical purposes
+
+**Size Classes:**
+- **Discrete artifacts** - Greater than 2mm
+- **Particulate artifacts** - Less than 2mm (captured in mineralogy)
+
+**Critical Properties:**
+- Must be both **cohesive** and **persistent** to be included in texture modifiers
+- Non-persistent materials (e.g., cardboard) are not counted in texture analysis
+
+**Common Types:**
+- Construction debris (concrete, brick, asphalt, ceramics, metal, glass)
+- Mechanically fractured rocks intentionally placed (aggregate, gravel, road base)
+- Coal combustion and industrial byproducts
+
+### 6. Artifactual Texture Modifiers
+
+- Use same percentage breaks as traditional modifiers: 15%, 35%, 60%
+- Only cohesive and persistent artifacts are considered
+- **Dual rock fragment-artifact modifiers** most common
+- Fragment name goes first with hyphen, then artifactual modifier
+- Example: "very cobbly-artifactual loamy sand"
+
+### 7. Horizon Designations for HTM
+
+**Key Principles:**
+- Based on pedogenic development since material placement
+- Inherited properties are considered geogenic unless formed in place
+- Use caret symbol (^) for every horizon formed in HTM (e.g., ^A, ^Bw, ^Cu)
+
+**Common Suffixes:**
+- **u suffix** - Presence of human artifacts (no depth or number threshold)
+- **b suffix** - Buried genetic horizons (not buried soils)
+- **d suffix** - Densic/anthrodensic materials (mechanically compacted dense layers)
+
+## Major Discussion Points and Clarifications
+
+### Mollisol vs. Alfisol Classification
+The team discussed challenges in differentiating between mollic and ochric epipedons in urban soils. Key considerations:
+- Base saturation typically high (>50%) in urban areas due to concrete dust and calcium inputs
+- Average pH in Twin Cities area around 7.4 (based on Jelinski lab INFEWS work)
+- Team should assume high base saturation for classification purposes pending lab data
+
+### A Horizon vs. C Horizon Designation
+Extensive discussion on when to call transported dark material an A horizon versus C horizon:
+- Must have pedogenic development (structure formation, organic accumulation) since site establishment
+- Dark color alone from transported topsoil doesn't qualify as A horizon
+- Time zero resets when materials are moved
+- Structure development and root penetration are key indicators
+- Judgment call based on field observations of pedogenic processes
+
+### Cambic (Bw) Horizon Development
+Team has been conservative about calling ^Bw horizons:
+- Should lean toward ^C designation unless strong justification exists
+- More likely in upper 20-30 cm directly below A horizon
+- Deeper occurrences (>50 cm) questionable for pedogenic development
+- Look for associated features (clay films, etc.) that indicate in-situ formation
+- ^A over ^C sequence is very common and typical
+
+### Buried Soils Rules
+Complex taxonomy rules for classification when surface mantles of HTM overlie buried genetic horizons:
+
+**Surface Mantle Requirements:**
+- Can have epiped on and cambic horizon, but no other diagnostic subsurface horizons
+- Must have ≥7.5 cm in lower part failing all diagnostic requirements
+- No thickness requirements for surface mantles
+
+**Classification Surface:**
+- If surface mantle <50 cm and no buried soil: use top of original surface
+- If surface mantle ≥50 cm and no buried genetic horizons: classify whole profile
+- If buried soil present: use current surface, only surface mantle properties for classification
+- Exceptions: family criteria, soil temperature, and moisture use current surface
+
+## Practical Field Guidance
+
+### Structure Description in Auger Samples
+- Challenging to determine real structure vs. artifact of augering
+- Conservative approach recommended - leave blank/null if uncertain
+- Note excavation method to explain missing structure data
+- More confident assessments possible when combined with pit observations
+
+### Documentation Requirements
+- Describe all observed properties regardless of origin
+- Note whether features formed in place or were transported
+- Use text notes to explain interpretations
+- Survey123 allows horizon-level and site-level notes
+
+## Upcoming Field Visit
+
+**Planned Dates:** August 11-14, 2025
+- Randy to arrive Monday, August 11
+- Field work Tuesday-Thursday (August 12-14)
+- 2.5-3 days of field time planned
+- Focus on representative sites and different parent materials/geomorphic positions
+- Will coincide with scheduled team meeting
+
+**Objectives:**
+- Review representative sites across different geomorphic areas
+- Address field questions and soil classification challenges
+- Begin grouping soils into concepts based on properties and behavior
+- Visit various parent materials (terraces, different formations)
+
+## Current Project Status
+
+### Site Classification
+- Team developing list of soil concepts based on properties and behavior
+- Moving from pure taxonomy focus to interpretive value emphasis
+- Will assign concepts to 2024 pedons retroactively
+- 2025 field season will assign concepts in real-time
+- Strong volunteer site distribution in residential areas
+
+### Machine Learning Sampling
+- Additional sampling scheme being developed by Nick Jelinski
+- Code mostly written, needs final tweaking and implementation
+- Will target gaps not covered by volunteer sites
+- May involve parks permits, schools, cemeteries for access
+
+### Data Management
+- Survey123 capturing detailed field notes at horizon level
+- Artifact descriptions being documented
+- Need to verify horizon-level notes are transferring to database
+
+## Action Items
+
+1. **Randy Riddle:**
+   - Submit travel request for August 11-14 field visit
+   - Post urban soils quick primer document to Box site
+   - Include Betsy Schug on future email communications
+
+2. **Field Team:**
+   - Continue conservative approach to ^Bw horizon designation
+   - Document structure decisions in auger samples with notes
+   - Assign soil concepts to sites during 2025 field season
+   - Verify Survey123 horizon notes are transferring properly
+
+3. **Nora Pearson:**
+   - Work with Nic on machine learning sampling implementation
+   - Coordinate August field visit logistics
+   - Continue building volunteer site network
+
+4. **Patty Burns:**
+   - Verify horizon-level notes visibility in database
+   - Continue correlating 2024 pedons to soil concepts
+   - Check artifact documentation transfer from Survey123
+
+## Key Takeaways
+
+The meeting emphasized that **soil mapping focuses on properties and behavior rather than strict taxonomic classification**. The team should:
+- Maintain consistency in field descriptions and concept application
+- Document comprehensive field observations with explanatory notes
+- Focus on interpretive value and soil behavior for grouping decisions
+- Accept that some variability in classification will exist within concept groups
+- Remember that representative sites will define final database classifications
+
+The urban environment creates inherent "noise" in the dataset, making consistent application of concepts more important than perfect taxonomic precision. The upcoming field visit will provide crucial hands-on correlation experience as the project moves toward map unit development.

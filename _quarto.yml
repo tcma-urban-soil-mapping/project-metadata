@@ -24,6 +24,7 @@ book:
       - minutes-15DEC2023-technical-kickoff.qmd
       - minutes-12JAN2024-dsp.qmd
       - minutes-12JAN2024-qa-qc-nasis.qmd
+      - minutes-05JUN2025-field-review.qmd
     - part: "Field Protocols"
       chapters:
       - field-protocol.qmd

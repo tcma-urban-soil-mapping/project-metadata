@@ -34,7 +34,7 @@
     "href": "index.html#key-personnel",
     "title": "TMCA Urban Soil Mapping",
     "section": "Key Personnel",
-    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, NRCS\nNora Pearson; M.S. Student, University of Minnesota\nDan Wing; Senior Regional Soil Scientist, NRCS\nRandy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS\nFrancine Lheritier; Natural Resource Soil Scientist, NRCS\nShaunna Repking; Soil Scientist, NRCS\nPatty Burns; Soil Specialist, NRCS Contractor",
+    "text": "Key Personnel\n\nNic Jelinski; Associate Professor, University of Minnesota (PI)\nJoe Brennan; State Soil Scientist, NRCS\nNora Pearson; M.S. Student, University of Minnesota\nDan Wing; Senior Regional Soil Scientist, NRCS\nRandy Riddle; Senior Soil Scientist for Urban Soil Survey, NRCS\nFrancine Lheritier; Natural Resource Soil Scientist, NRCS\nShaunna Repking; Soil Scientist, NRCS\nPatty Burns; Soil Specialist, NRCS Contractor\nBetsy Schug; Soil Data Quality Specialist, NRCS",
     "crumbs": [
       "Preface"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#additional-collaborators",
     "title": "TMCA Urban Soil Mapping",
     "section": "Additional Collaborators",
-    "text": "Additional Collaborators\n\nCity of South St. Paul (soil sampling permit)\nThree Rivers Parks District (soil sampling permit)\nUS Fish & Wildlife Service (soil sampling permit)",
+    "text": "Additional Collaborators\n\nCity of South St. Paul (soil sampling permit)\nThree Rivers Parks District (soil sampling permit)\nUS Fish & Wildlife Service (soil sampling permit)\nCity of St. Paul (soil sampling permit)",
     "crumbs": [
       "Preface"
     ]
@@ -521,333 +521,443 @@
     ]
   },
   {
+    "objectID": "minutes-05JUN2025-field-review.html",
+    "href": "minutes-05JUN2025-field-review.html",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "",
+    "text": "10.1 Attendees",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#attendees",
+    "href": "minutes-05JUN2025-field-review.html#attendees",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "",
+    "text": "Randy Riddle - Senior Soil Scientist, Urban Soil Survey, NRCS Special Projects Region\nNora B Pearson\nNic Jelinski\nPatty Burns\nJoe Brennan\nStephen Roecker\nBetsy Schug\nGenevieve Saldibar\nBrianna Hayward\nDanielle Evans",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#meeting-overview",
+    "href": "minutes-05JUN2025-field-review.html#meeting-overview",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.2 Meeting Overview",
+    "text": "10.2 Meeting Overview\nThis training session focused on urban soil survey methods, specifically addressing human transported materials (HTM), soil profile descriptions, and classification challenges in urban environments. Randy Riddle presented material from a previous Soil Science Institute presentation, covering urban soil characteristics, anthropogenic materials, and field description protocols.",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#key-training-topics-covered",
+    "href": "minutes-05JUN2025-field-review.html#key-training-topics-covered",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.3 Key Training Topics Covered",
+    "text": "10.3 Key Training Topics Covered\n\n10.3.1 1. Urban Soil Forming Factors\nRandy presented the concept of six soil forming factors in urban environments, with humans as the sixth “master variable” that can: - Reset the clock on soil formation - Modify or change other soil forming factors - Impact parent material, climate, organisms, and topography - Reshape landforms through construction and development\nDevelopment history, zoning practices, construction methods, and material era all influence urban soil properties. Examples included coal combustion byproducts in filled marshland (Ithaca, NY) and extensive hillside reshaping in Los Angeles County.\n\n\n10.3.2 2. Characteristics of Urban Soils\nKey properties observed in urban soils include: - Heterogeneous or homogenized properties with abrupt changes in color and texture - Higher bulk density and compaction (though this may decrease over time as roots develop) - Rapid pedogenesis even in short timeframes after site establishment - Human artifacts including construction debris, plastic materials, and other manufactured items - Elevated rock fragment content from construction practices - Higher pH values typically from concrete dust and calcium inputs - Higher organic carbon content in surface horizons due to intensive management\n\n\n10.3.3 3. Human Transported vs. Human Altered Materials\nHuman Transported Materials (HTM): - Soil moved outside of the one cubic meter pedon unit - Requires corresponding anthropogenic landform - Most common type found in urban areas - Classified as parent material in soil taxonomy\nHuman Altered Materials: - In-situ alteration (e.g., deep ripping, subsoiling) - Less common in urban mapping - Examples include breaking up restrictive layers in agricultural soils\n\n\n10.3.4 4. Anthropogenic Landforms\nThree categories of anthropogenic geomorphic features: - Anthroscapes - Landscape level - Anthropogenic landforms - Comparable to regular landform level - Constructional (built up) - Destructional (excavated/cut) - Anthropogenic microfeatures - Smaller features within broader landforms\nImportant: Always identify both native landscape/landform AND anthropogenic landform when HTM is present.\n\n\n10.3.5 5. Human Artifacts Classification\nDefinition: Materials created, modified, or transported by humans for practical purposes\nSize Classes: - Discrete artifacts - Greater than 2mm - Particulate artifacts - Less than 2mm (captured in mineralogy)\nCritical Properties: - Must be both cohesive and persistent to be included in texture modifiers - Non-persistent materials (e.g., cardboard) are not counted in texture analysis\nCommon Types: - Construction debris (concrete, brick, asphalt, ceramics, metal, glass) - Mechanically fractured rocks intentionally placed (aggregate, gravel, road base) - Coal combustion and industrial byproducts\n\n\n10.3.6 6. Artifactual Texture Modifiers\n\nUse same percentage breaks as traditional modifiers: 15%, 35%, 60%\nOnly cohesive and persistent artifacts are considered\nDual rock fragment-artifact modifiers most common\nFragment name goes first with hyphen, then artifactual modifier\nExample: “very cobbly-artifactual loamy sand”\n\n\n\n10.3.7 7. Horizon Designations for HTM\nKey Principles: - Based on pedogenic development since material placement - Inherited properties are considered geogenic unless formed in place - Use caret symbol (^) for every horizon formed in HTM (e.g., ^A, ^Bw, ^Cu)\nCommon Suffixes: - u suffix - Presence of human artifacts (no depth or number threshold) - b suffix - Buried genetic horizons (not buried soils) - d suffix - Densic/anthrodensic materials (mechanically compacted dense layers)",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#major-discussion-points-and-clarifications",
+    "href": "minutes-05JUN2025-field-review.html#major-discussion-points-and-clarifications",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.4 Major Discussion Points and Clarifications",
+    "text": "10.4 Major Discussion Points and Clarifications\n\n10.4.1 Mollisol vs. Alfisol Classification\nThe team discussed challenges in differentiating between mollic and ochric epipedons in urban soils. Key considerations: - Base saturation typically high (&gt;50%) in urban areas due to concrete dust and calcium inputs - Average pH in Twin Cities area around 7.4 (based on Jelinski lab INFEWS work) - Team should assume high base saturation for classification purposes pending lab data\n\n\n10.4.2 A Horizon vs. C Horizon Designation\nExtensive discussion on when to call transported dark material an A horizon versus C horizon: - Must have pedogenic development (structure formation, organic accumulation) since site establishment - Dark color alone from transported topsoil doesn’t qualify as A horizon - Time zero resets when materials are moved - Structure development and root penetration are key indicators - Judgment call based on field observations of pedogenic processes\n\n\n10.4.3 Cambic (Bw) Horizon Development\nTeam has been conservative about calling ^Bw horizons: - Should lean toward ^C designation unless strong justification exists - More likely in upper 20-30 cm directly below A horizon - Deeper occurrences (&gt;50 cm) questionable for pedogenic development - Look for associated features (clay films, etc.) that indicate in-situ formation - ^A over ^C sequence is very common and typical\n\n\n10.4.4 Buried Soils Rules\nComplex taxonomy rules for classification when surface mantles of HTM overlie buried genetic horizons:\nSurface Mantle Requirements: - Can have epiped on and cambic horizon, but no other diagnostic subsurface horizons - Must have ≥7.5 cm in lower part failing all diagnostic requirements - No thickness requirements for surface mantles\nClassification Surface: - If surface mantle &lt;50 cm and no buried soil: use top of original surface - If surface mantle ≥50 cm and no buried genetic horizons: classify whole profile - If buried soil present: use current surface, only surface mantle properties for classification - Exceptions: family criteria, soil temperature, and moisture use current surface",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#practical-field-guidance",
+    "href": "minutes-05JUN2025-field-review.html#practical-field-guidance",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.5 Practical Field Guidance",
+    "text": "10.5 Practical Field Guidance\n\n10.5.1 Structure Description in Auger Samples\n\nChallenging to determine real structure vs. artifact of augering\nConservative approach recommended - leave blank/null if uncertain\nNote excavation method to explain missing structure data\nMore confident assessments possible when combined with pit observations\n\n\n\n10.5.2 Documentation Requirements\n\nDescribe all observed properties regardless of origin\nNote whether features formed in place or were transported\nUse text notes to explain interpretations\nSurvey123 allows horizon-level and site-level notes",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#upcoming-field-visit",
+    "href": "minutes-05JUN2025-field-review.html#upcoming-field-visit",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.6 Upcoming Field Visit",
+    "text": "10.6 Upcoming Field Visit\nPlanned Dates: August 11-14, 2025 - Randy to arrive Monday, August 11 - Field work Tuesday-Thursday (August 12-14) - 2.5-3 days of field time planned - Focus on representative sites and different parent materials/geomorphic positions - Will coincide with scheduled team meeting\nObjectives: - Review representative sites across different geomorphic areas - Address field questions and soil classification challenges - Begin grouping soils into concepts based on properties and behavior - Visit various parent materials (terraces, different formations)",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#current-project-status",
+    "href": "minutes-05JUN2025-field-review.html#current-project-status",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.7 Current Project Status",
+    "text": "10.7 Current Project Status\n\n10.7.1 Site Classification\n\nTeam developing list of soil concepts based on properties and behavior\nMoving from pure taxonomy focus to interpretive value emphasis\nWill assign concepts to 2024 pedons retroactively\n2025 field season will assign concepts in real-time\nStrong volunteer site distribution in residential areas\n\n\n\n10.7.2 Machine Learning Sampling\n\nAdditional sampling scheme being developed by Nick Jelinski\nCode mostly written, needs final tweaking and implementation\nWill target gaps not covered by volunteer sites\nMay involve parks permits, schools, cemeteries for access\n\n\n\n10.7.3 Data Management\n\nSurvey123 capturing detailed field notes at horizon level\nArtifact descriptions being documented\nNeed to verify horizon-level notes are transferring to database",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#action-items",
+    "href": "minutes-05JUN2025-field-review.html#action-items",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.8 Action Items",
+    "text": "10.8 Action Items\n\nRandy Riddle:\n\nSubmit travel request for August 11-14 field visit\nPost urban soils quick primer document to Box site\nInclude Betsy Schug on future email communications\n\nField Team:\n\nContinue conservative approach to ^Bw horizon designation\nDocument structure decisions in auger samples with notes\nAssign soil concepts to sites during 2025 field season\nVerify Survey123 horizon notes are transferring properly\n\nNora Pearson:\n\nWork with Nic on machine learning sampling implementation\nCoordinate August field visit logistics\nContinue building volunteer site network\n\nPatty Burns:\n\nVerify horizon-level notes visibility in database\nContinue correlating 2024 pedons to soil concepts\nCheck artifact documentation transfer from Survey123",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
+    "objectID": "minutes-05JUN2025-field-review.html#key-takeaways",
+    "href": "minutes-05JUN2025-field-review.html#key-takeaways",
+    "title": "10  Field Review Meeting Minutes 05JUN2025",
+    "section": "10.9 Key Takeaways",
+    "text": "10.9 Key Takeaways\nThe meeting emphasized that soil mapping focuses on properties and behavior rather than strict taxonomic classification. The team should: - Maintain consistency in field descriptions and concept application - Document comprehensive field observations with explanatory notes - Focus on interpretive value and soil behavior for grouping decisions - Accept that some variability in classification will exist within concept groups - Remember that representative sites will define final database classifications\nThe urban environment creates inherent “noise” in the dataset, making consistent application of concepts more important than perfect taxonomic precision. The upcoming field visit will provide crucial hands-on correlation experience as the project moves toward map unit development.",
+    "crumbs": [
+      "Discussion Log and Meeting Minutes",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Review Meeting Minutes 05JUN2025</span>"
+    ]
+  },
+  {
     "objectID": "field-protocol.html",
     "href": "field-protocol.html",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
     "section": "",
-    "text": "10.1 Sampling Location Selection",
+    "text": "11.1 Sampling Location Selection",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#sampling-location-selection",
     "href": "field-protocol.html#sampling-location-selection",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
     "section": "",
     "text": "Complete the Pre-Sampling Survey on Survey123\nComplete a site walk around and choose a sampling location.\n\nLook for electrical lines: either overhead or buried. If buried, they should be marked. As a best practice, find the electrical pole and the location that the pole connects to the house.\nAvoid sampling within three feet of a sidewalk, as utilities are commonly buried parallel to them.\nCheck for detached buildings (garages, etc.) and look for signs of buried electrical lines from the house to the building. If there is a buried line, conduit will be visible coming from the ground and entering the detached building.\nThe sampling location should be a representative area of the site and not highly disturbed in comparison to natural conditions. Keep in mind that this soil survey update is on a broader scale than the home level.\nIn residential areas, do not sample in food-producing areas. Compost and other amendment applications are common and this does not represent the most common land use.\n\nIf sampling at a construction site: once location is established; place cones around the work area. Hard hats and high vis vests should be worn.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#sampling-protocol",
     "href": "field-protocol.html#sampling-protocol",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
-    "section": "10.2 Sampling Protocol",
-    "text": "10.2 Sampling Protocol\n\nAt sites where the ground surface is pavement (ie, a construction site where you are looking at an exposure), pavement should be included as a horizon. Do not start the description with the soil surface being the first horizon if there is pavement above it.\nAuger to a minimum of 150 cm or until the auger handles are buried, carefully transferring each bucket into the gutter section.\n\nPull the auger up after 2 full rotations to ensure that the soil is not compacted into the bucket.\nTake care to keep the depth of soil in the gutter the same as the depth of the whole. The tendency can be to expand the soil in the gutter. Compare the hole depth to the gutter depth after every 2 buckets by putting the auger all the way into the hole, putting a fist around the auger pole (with the bottom of the fist marking the ground depth), and comparing the length of the auger that was in the ground to the length of soil laying in the gutter.\n\nTake detailed photos and videos of the profile in the gutter. This should be done prior to describing the profile to minimize disturbance. Use the spray bottle to re-moisten the profile if necessary.\n\nLay a tape measure showing centimeters on one side of the gutter and a black fabric tape measure (“photo tape”) on the other side.\nPhotos: Stand at the bottom of the gutter, hold the phone directly over the gutter (parallel to the gutter, not angled), and take a vertical photo of the entire profile. Also take vertical photos of 20 cm sections of the profile.\nVideo: take a horizontal video while slowly moving from the top to the bottom of the profile.",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
+    "section": "11.2 Sampling Protocol",
+    "text": "11.2 Sampling Protocol\n\nAt sites where the ground surface is pavement (ie, a construction site where you are looking at an exposure), pavement should be included as a horizon. Do not start the description with the soil surface being the first horizon if there is pavement above it.\nAuger to a minimum of 150 cm or until the auger handles are buried, carefully transferring each bucket into the gutter section.\n\nPull the auger up after 2 full rotations to ensure that the soil is not compacted into the bucket.\nTake care to keep the depth of soil in the gutter the same as the depth of the whole. The tendency can be to expand the soil in the gutter. Compare the hole depth to the gutter depth after every 2 buckets by putting the auger all the way into the hole, putting a fist around the auger pole (with the bottom of the fist marking the ground depth), and comparing the length of the auger that was in the ground to the length of soil laying in the gutter.\n\nTake detailed photos and videos of the profile in the gutter. This should be done prior to describing the profile to minimize disturbance. Use the spray bottle to re-moisten the profile if necessary.\n\nLay a tape measure showing centimeters on one side of the gutter and a black fabric tape measure (“photo tape”) on the other side.\nPhotos: Stand at the bottom of the gutter, hold the phone directly over the gutter (parallel to the gutter, not angled), and take a vertical photo of the entire profile. Also take vertical photos of 20 cm sections of the profile.\nVideo: take a horizontal video while slowly moving from the top to the bottom of the profile.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#profile-description-protocol",
     "href": "field-protocol.html#profile-description-protocol",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
-    "section": "10.3 Profile Description Protocol",
-    "text": "10.3 Profile Description Protocol\n\nDelineate horizons after sampling using golf tees. Record horizon depths on the second page of the pedon description sheet using the tape measure, in centimeters. Complete the remainder of the second page. A few notes:\n\nUse a Munsell color book to identify horizon colors. Record moist color for all horizons and dry color for surface or topsoil horizons.\nRedox features are on page 2-12 of the red book, ped & void surface features on 2-32, and concentrations on 2-20.\nPores and/or roots are on 2-70.\nRecord a sample code on the back side of the description sheet. Codes should be the two digit year and three digit sample code, like 25-001.\n\nComplete the first page of the pedon description sheet (site level information, generally).\n\nLandscape and landform: remember to record both the anthropogenic landscape and landform (e.g., urban anthroscape) in addition to the natural one. See page 3-1 in the red book for complete lists for each.\n\nCollect a soil sample from each horizon in a 5x8” ULINE bag labeled with sample code.\nCollect approximately 1 cup of soil, if possible; this should be just above the bottom line of the white box on the ULINE bags.",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
+    "section": "11.3 Profile Description Protocol",
+    "text": "11.3 Profile Description Protocol\n\nDelineate horizons after sampling using golf tees. Record horizon depths on the second page of the pedon description sheet using the tape measure, in centimeters. Complete the remainder of the second page. A few notes:\n\nUse a Munsell color book to identify horizon colors. Record moist color for all horizons and dry color for surface or topsoil horizons.\nRedox features are on page 2-12 of the red book, ped & void surface features on 2-32, and concentrations on 2-20.\nPores and/or roots are on 2-70.\nRecord a sample code on the back side of the description sheet. Codes should be the two digit year and three digit sample code, like 25-001.\n\nComplete the first page of the pedon description sheet (site level information, generally).\n\nLandscape and landform: remember to record both the anthropogenic landscape and landform (e.g., urban anthroscape) in addition to the natural one. See page 3-1 in the red book for complete lists for each.\n\nCollect a soil sample from each horizon in a 5x8” ULINE bag labeled with sample code.\nCollect approximately 1 cup of soil, if possible; this should be just above the bottom line of the white box on the ULINE bags.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#vegetation-description-protocol",
     "href": "field-protocol.html#vegetation-description-protocol",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
-    "section": "10.4 Vegetation description protocol",
-    "text": "10.4 Vegetation description protocol\n\nUse the pedon description form to describe vegetation. It is acceptable to record the common name only, in the field.\n\nOnly record species that compose greater than 2% of the visible area.\nUse iNaturalist’s Seek app for identification help.\nAlways record percent cover of (1) bare soil and (2) litter or thatch (as opposed to live vegetation).\nEstimate: this should not take more than 5 minutes.",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
+    "section": "11.4 Vegetation description protocol",
+    "text": "11.4 Vegetation description protocol\n\nUse the pedon description form to describe vegetation. It is acceptable to record the common name only, in the field.\n\nOnly record species that compose greater than 2% of the visible area.\nUse iNaturalist’s Seek app for identification help.\nAlways record percent cover of (1) bare soil and (2) litter or thatch (as opposed to live vegetation).\nEstimate: this should not take more than 5 minutes.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#partial-rusi",
     "href": "field-protocol.html#partial-rusi",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
-    "section": "10.5 Partial RUSI",
-    "text": "10.5 Partial RUSI\n\nComplete partial RUSI for the site using the field sheet, assigning each category a score between 0-3. Note that a higher score indicates a less urbanized area. See the backside of the sheet for descriptions of each category.",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
+    "section": "11.5 Partial RUSI",
+    "text": "11.5 Partial RUSI\n\nComplete partial RUSI for the site using the field sheet, assigning each category a score between 0-3. Note that a higher score indicates a less urbanized area. See the backside of the sheet for descriptions of each category.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-protocol.html#post-sampling-protocol",
     "href": "field-protocol.html#post-sampling-protocol",
-    "title": "10  TCMA Urban Soil Mapping Field Protocol",
-    "section": "10.6 Post Sampling Protocol",
-    "text": "10.6 Post Sampling Protocol\n\nTake a ~1 minute video of the site, in 0.5x if possible. Slowly walk around the site, narrating anything of importance. Highlight sampling location.\nTake 6 photos of the site. Standing over or very near the auger hole, take photos facing north, east, south, and west away from the hole. Take a photo of your feet standing over or directly next to the hole. Take a photo approximately 10 feet away from the hole.\nTake photos of the pedon description sheet.\nComplete the Soil Observations & Pedon Descriptions survey in Survey123. Make sure that GPS coordinates are recorded. Upload site and pedon description sheet photos into the survey.\n\nAll photos should be taken through the Camera app, not through Survey123; it compresses the photos and decreases the quality.\n\nUpload scanned description sheet, pedon photos and video, and site photos and video to shared Google Drive folder\n\nDescription sheets: folder titled “2025-scanned-pedon-description-sheets”\nPedon and site photos, site video: folder titled “2025-site-photos-videos”",
+    "title": "11  TCMA Urban Soil Mapping Field Protocol",
+    "section": "11.6 Post Sampling Protocol",
+    "text": "11.6 Post Sampling Protocol\n\nTake a ~1 minute video of the site, in 0.5x if possible. Slowly walk around the site, narrating anything of importance. Highlight sampling location.\nTake 6 photos of the site. Standing over or very near the auger hole, take photos facing north, east, south, and west away from the hole. Take a photo of your feet standing over or directly next to the hole. Take a photo approximately 10 feet away from the hole.\nTake photos of the pedon description sheet.\nComplete the Soil Observations & Pedon Descriptions survey in Survey123. Make sure that GPS coordinates are recorded. Upload site and pedon description sheet photos into the survey.\n\nAll photos should be taken through the Camera app, not through Survey123; it compresses the photos and decreases the quality.\n\nUpload scanned description sheet, pedon photos and video, and site photos and video to shared Google Drive folder\n\nDescription sheets: folder titled “2025-scanned-pedon-description-sheets”\nPedon and site photos, site video: folder titled “2025-site-photos-videos”",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Protocol</span>"
     ]
   },
   {
     "objectID": "field-equipment-to-do.html",
     "href": "field-equipment-to-do.html",
-    "title": "11  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
+    "title": "12  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
     "section": "",
-    "text": "11.1 Field Equipment Checklist\nSee field-protocol-equipment-list-26AUG2024 (Google Doc) for the most updated version of the equipment list.",
+    "text": "12.1 Field Equipment Checklist\nSee field-protocol-equipment-list-26AUG2024 (Google Doc) for the most updated version of the equipment list.",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
   },
   {
     "objectID": "field-equipment-to-do.html#field-equipment-checklist",
     "href": "field-equipment-to-do.html#field-equipment-checklist",
-    "title": "11  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
+    "title": "12  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
     "section": "",
-    "text": "Pedon description sheets printed on Rite in the Rain NRCS-UMN Pedon Description Sheet\nRUSI description sheets printed on Rite in the Rain [rusi-field-sheet](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)\nField Book for Describing and Sampling Soils, version 3.0 (USDA-NRCS; red book)\nClipboard and writing utensils (pencils)\nFolder with following items\n\nUMN certificate of insurance form; email Nora for access\nAgreement document; email Nora for access\nPermits, as necessary; email Nora for copies if needed\n\nClinometer\nMunsell color book\nAuger: dutch auger, open bucket, and closed bucket augers\n2 gutter sections\nPedon tape / photo tape (black fabric w/ cm and m markings)\nTape measure with centimeters\n10% HCl in dropper bottle, 1L backup in vehicle\nSpray bottle\nPhone, to take site videos and profile photos\n4 orange cones; place in square around sampling location\n\n\n11.1.1 Additional supplies for construction sites\n\nHard hat\nHigh-vis vests\nOptional: safety glasses",
+    "text": "Pedon description sheets printed on Rite in the Rain NRCS-UMN Pedon Description Sheet\nRUSI description sheets printed on Rite in the Rain [rusi-field-sheet](https://docs.google.com/spreadsheets/d/1XOkONZLEDajIuxlmId5-DEybK-mr2K3tWkYn-5gDkqw/edit?usp=sharing)\nField Book for Describing and Sampling Soils, version 3.0 (USDA-NRCS; red book)\nClipboard and writing utensils (pencils)\nFolder with following items\n\nUMN certificate of insurance form; email Nora for access\nAgreement document; email Nora for access\nPermits, as necessary; email Nora for copies if needed\n\nClinometer\nMunsell color book\nAuger: dutch auger, open bucket, and closed bucket augers\n2 gutter sections\nPedon tape / photo tape (black fabric w/ cm and m markings)\nTape measure with centimeters\n10% HCl in dropper bottle, 1L backup in vehicle\nSpray bottle\nPhone, to take site videos and profile photos\n4 orange cones; place in square around sampling location\n\n\n12.1.1 Additional supplies for construction sites\n\nHard hat\nHigh-vis vests\nOptional: safety glasses",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
   },
   {
     "objectID": "field-equipment-to-do.html#field-to-do-checklist",
     "href": "field-equipment-to-do.html#field-to-do-checklist",
-    "title": "11  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
-    "section": "11.2 Field To Do Checklist",
-    "text": "11.2 Field To Do Checklist\n\nPre-Sampling Survey123 (email Nic for access)\nPedon description sheet, front and back; write location name on top right of front page\nArtifact description sheet, as necessary\nRUSI field sheet\nPhoto of entire profile\nPhotos of profile sections\nHorizontal video of profile (~20 seconds long)\nSite video, in 0.5x if possible (&lt;2 minutes long)\nSoil samples from each horizon\nSoil Observation & Pedon Description Survey123 (email Nic for access)",
+    "title": "12  TCMA Urban Soil Mapping Field Equipment Check List & To Do List",
+    "section": "12.2 Field To Do Checklist",
+    "text": "12.2 Field To Do Checklist\n\nPre-Sampling Survey123 (email Nic for access)\nPedon description sheet, front and back; write location name on top right of front page\nArtifact description sheet, as necessary\nRUSI field sheet\nPhoto of entire profile\nPhotos of profile sections\nHorizontal video of profile (~20 seconds long)\nSite video, in 0.5x if possible (&lt;2 minutes long)\nSoil samples from each horizon\nSoil Observation & Pedon Description Survey123 (email Nic for access)",
     "crumbs": [
       "Field Protocols",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>TCMA Urban Soil Mapping Field Equipment Check List & To Do List</span>"
     ]
   },
   {
     "objectID": "minutes-17DEC2024-nic-nora.html",
     "href": "minutes-17DEC2024-nic-nora.html",
-    "title": "12  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
+    "title": "13  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
     "section": "",
-    "text": "12.1 Part One",
+    "text": "13.1 Part One",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
     ]
   },
   {
     "objectID": "minutes-17DEC2024-nic-nora.html#part-one",
     "href": "minutes-17DEC2024-nic-nora.html#part-one",
-    "title": "12  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
+    "title": "13  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
     "section": "",
-    "text": "12.1.1 1. Initial Project Organization\n\nCreated a Google Doc for prompt engineering work in the urban soil mapping shared folder\nDocument named “prompt engineering” placed in shared project folder\nDiscussed organizing project files within lab shared drive structure\n\n\n\n12.1.2 2. QGIS Bounding Box Creation\n\nCreated new project with following steps:\n\nAdded XYZ tile layer for Google satellite imagery as base map\nSet coordinate system to NAD 83 UTM Zone 15N\n\n\n\nAdded TCMA urban soil survey update draft AOI shapefile\nCreated new shapefile for bounding box\nUsed center and point method to create square boundary around the AOI\nEnsured coverage extended beyond immediate AOI\n\n\nBounding Box Specifications:\n\nFile named: “bounding-box-draft-v2-17December2024”\nDesigned to have 2km overlap between tiles\nConfigured to extend beyond final boundary limits\nCreated in UTM coordinate system for consistent tile sizing\n\n\n\n\n12.1.3 3. Google Earth Engine Setup\nRegistration Process: - Accessed through umn.edu account - Selected unpaid usage for education - Project type: Research - Created new Google Cloud project with Earth Engine integration - Completed Earth Engine registration\n\n\n12.1.4 4. Google Cloud Console Configuration\n\nAccessed console.cloud.google.com\nCreated project under organizational structure\nAttempted to set up cloud storage buckets\nNote: Encountered payment verification issues that need resolution\n\n\n\n12.1.5 5. MSI (Minnesota Supercomputing Institute) Environment\nJupyter Lab Setup: - Accessed through interactive apps - Selected Python 3.8.3 environment - Created new project folder: “tcma_covar_development” - Installed required package (e.g., geopandas)\n\n\n12.1.6 Technical Considerations\n\nNeed to ensure 2km overlap in tiles for processing\nFile organization split between:\n\nGoogle Cloud Storage (for large datasets)\nMSI Tier 1 & 2 storage\nGoogle Drive (for documentation)\n\nWorking environment includes:\n\nGoogle Earth Engine for satellite data\nMSI for computing\nQGIS for spatial analysis\nPython/Jupyter Lab for processing",
+    "text": "13.1.1 1. Initial Project Organization\n\nCreated a Google Doc for prompt engineering work in the urban soil mapping shared folder\nDocument named “prompt engineering” placed in shared project folder\nDiscussed organizing project files within lab shared drive structure\n\n\n\n13.1.2 2. QGIS Bounding Box Creation\n\nCreated new project with following steps:\n\nAdded XYZ tile layer for Google satellite imagery as base map\nSet coordinate system to NAD 83 UTM Zone 15N\n\n\n\nAdded TCMA urban soil survey update draft AOI shapefile\nCreated new shapefile for bounding box\nUsed center and point method to create square boundary around the AOI\nEnsured coverage extended beyond immediate AOI\n\n\nBounding Box Specifications:\n\nFile named: “bounding-box-draft-v2-17December2024”\nDesigned to have 2km overlap between tiles\nConfigured to extend beyond final boundary limits\nCreated in UTM coordinate system for consistent tile sizing\n\n\n\n\n13.1.3 3. Google Earth Engine Setup\nRegistration Process: - Accessed through umn.edu account - Selected unpaid usage for education - Project type: Research - Created new Google Cloud project with Earth Engine integration - Completed Earth Engine registration\n\n\n13.1.4 4. Google Cloud Console Configuration\n\nAccessed console.cloud.google.com\nCreated project under organizational structure\nAttempted to set up cloud storage buckets\nNote: Encountered payment verification issues that need resolution\n\n\n\n13.1.5 5. MSI (Minnesota Supercomputing Institute) Environment\nJupyter Lab Setup: - Accessed through interactive apps - Selected Python 3.8.3 environment - Created new project folder: “tcma_covar_development” - Installed required package (e.g., geopandas)\n\n\n13.1.6 Technical Considerations\n\nNeed to ensure 2km overlap in tiles for processing\nFile organization split between:\n\nGoogle Cloud Storage (for large datasets)\nMSI Tier 1 & 2 storage\nGoogle Drive (for documentation)\n\nWorking environment includes:\n\nGoogle Earth Engine for satellite data\nMSI for computing\nQGIS for spatial analysis\nPython/Jupyter Lab for processing",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
     ]
   },
   {
     "objectID": "minutes-17DEC2024-nic-nora.html#part-two",
     "href": "minutes-17DEC2024-nic-nora.html#part-two",
-    "title": "12  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
-    "section": "12.2 Part Two",
-    "text": "12.2 Part Two\n\n12.2.1 1. Google Cloud Project Setup\n\nCreated access to project environment\n\nAdded user as editor to existing project\nConfirmed access to cloud console\nSet up bucket structure for data storage\n\nCreated Storage Structure:\n\nCreated main bucket “tcma_covars”\nCreated initial directory: “dem-3dep-1”\nConfigured with multi-region storage\nEnabled standard storage settings\nEnforced public access hazard prevention\n\n\n\n\n12.2.2 2. Jupyter Lab Environment Configuration\n\nPackage Installation:\n\nAttempted Conda installation of GeoPandas\nSwitched to Pip install when Conda had conflicts\nSuccessfully installed GeoPandas using Pip\nAdded local bin directory to path for module access\n\nEnvironment Organization:\n\nCreated clear file naming conventions\nSet up documentation of one-time setup steps\nOrganized notebooks with clear prefixes for setup vs. regular usage\nAdded annotations for process documentation\n\n\n\n\n12.2.3 3. Google Earth Engine Setup\n\nAsset Management:\n\nUploaded shapefile as Earth Engine asset\nRequired coordinate system conversion to EPSG:4326\nCreated project structure for scripts\nSet up folders for different data types\n\nScript Development:\n\nCreated visualization script for tiles\nSet up data processing framework\nImplemented naming conventions for exported files\nFormat: “tcma_3dep_1meter_tile_h[XX]v[YY]”\n\n\n\n\n12.2.4 4. Data Processing Framework\n\nInitial Setup:\n\nImported tiles asset\nAdded 3DEP elevation data\nConfigured NAIP imagery access\nSet up processing functions for tiles\n\nKey Components:\n\nTile processing function\nExport naming convention setup\nVisualization parameters\nData extraction framework\n\n\n\n\n12.2.5 Technical Notes\n\nModified tile size to handle ~1.5GB files instead of smaller segments\nReduced number of tiles from 169 (13x13) to 49 (7x7)\nImplemented 2km overlap between tiles for processing continuity\nConfigured proper coordinate system transformations",
+    "title": "13  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
+    "section": "13.2 Part Two",
+    "text": "13.2 Part Two\n\n13.2.1 1. Google Cloud Project Setup\n\nCreated access to project environment\n\nAdded user as editor to existing project\nConfirmed access to cloud console\nSet up bucket structure for data storage\n\nCreated Storage Structure:\n\nCreated main bucket “tcma_covars”\nCreated initial directory: “dem-3dep-1”\nConfigured with multi-region storage\nEnabled standard storage settings\nEnforced public access hazard prevention\n\n\n\n\n13.2.2 2. Jupyter Lab Environment Configuration\n\nPackage Installation:\n\nAttempted Conda installation of GeoPandas\nSwitched to Pip install when Conda had conflicts\nSuccessfully installed GeoPandas using Pip\nAdded local bin directory to path for module access\n\nEnvironment Organization:\n\nCreated clear file naming conventions\nSet up documentation of one-time setup steps\nOrganized notebooks with clear prefixes for setup vs. regular usage\nAdded annotations for process documentation\n\n\n\n\n13.2.3 3. Google Earth Engine Setup\n\nAsset Management:\n\nUploaded shapefile as Earth Engine asset\nRequired coordinate system conversion to EPSG:4326\nCreated project structure for scripts\nSet up folders for different data types\n\nScript Development:\n\nCreated visualization script for tiles\nSet up data processing framework\nImplemented naming conventions for exported files\nFormat: “tcma_3dep_1meter_tile_h[XX]v[YY]”\n\n\n\n\n13.2.4 4. Data Processing Framework\n\nInitial Setup:\n\nImported tiles asset\nAdded 3DEP elevation data\nConfigured NAIP imagery access\nSet up processing functions for tiles\n\nKey Components:\n\nTile processing function\nExport naming convention setup\nVisualization parameters\nData extraction framework\n\n\n\n\n13.2.5 Technical Notes\n\nModified tile size to handle ~1.5GB files instead of smaller segments\nReduced number of tiles from 169 (13x13) to 49 (7x7)\nImplemented 2km overlap between tiles for processing continuity\nConfigured proper coordinate system transformations",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
     ]
   },
   {
     "objectID": "minutes-17DEC2024-nic-nora.html#part-three",
     "href": "minutes-17DEC2024-nic-nora.html#part-three",
-    "title": "12  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
-    "section": "12.3 Part Three",
-    "text": "12.3 Part Three\n\n12.3.1 1. Data Visualization Troubleshooting\n\nIdentified Issues with Attribute Table:\n\nFound shapefile attribute table was not correctly formatted\nMade necessary adjustments to tile ID properties\nAdded proper ID fields to enable processing\n\nScript Refinements:\n\nModified JavaScript to handle tile naming conventions\nAdjusted bucket paths for correct data storage\nSet up proper directory structure for output files\n\n\n\n\n12.3.2 2. Image Processing Configuration\n\nNAIP Imagery Setup:\n\nConfigured date range for 2021 imagery\nExtended collection window to May-September\nConfirmed NAIP imagery is typically cloud-free\nSet up composite parameters\n\nSentinel-2 Configuration:\n\nSet date range: 2019-2024\nConfigured growing season window: June 1 - August 31\nAdded cloud masking procedures\nSet up 5-year composite parameters\n\n\n\n\n12.3.3 3. File Structure and Organization\n\nGoogle Cloud Storage:\n\nCreated main bucket: “tcma_covars”\nEstablished directory structure:\n\nDEM (3DEP data)\nNAIP imagery\nSentinel-2 data\n\nSet up proper naming conventions for outputs\n\nProcessing Framework:\n\nConfigured 10-meter resolution as standard output\nAligned with G-SERGO grid specifications\nSet up downscaling procedures for higher resolution data\n\n\n\n\n12.3.4 4. Next Steps and Action Items\n\nImmediate Tasks:\n\nComplete DEM processing for remaining tiles\nSet up NAIP processing for 2021\nConfigure Sentinel-2 processing\nDocument process for technical documentation\n\nFuture Processing:\n\nTransfer processed data to MSI Tier 2\nDevelop Python scripts for:\n\nData alignment\nResolution matching\nStack creation\nQuality control\n\n\nDocumentation Requirements:\n\nCreate progress slides for project update\nInclude screenshots of:\n\nGoogle Earth Engine interface\nCloud console\nProcessing results\n\nDocument technical procedures\n\n\n\n\n12.3.5 Technical Notes\n\nResolution Standards:\n\nFinal output will be 10-meter resolution\nMatching gSSURGO grid specifications\nDownscaling required for higher resolution inputs\nInterpolation needed for alignment\n\nProcessing Considerations:\n\nCloud-free compositing for Sentinel data\nScene classification layer (SCL) for cloud masking\nMedian value computation for composites\nSpatial alignment requirements",
+    "title": "13  Using Google Earth Engine to Access Geospatial Data (Covariate Development)",
+    "section": "13.3 Part Three",
+    "text": "13.3 Part Three\n\n13.3.1 1. Data Visualization Troubleshooting\n\nIdentified Issues with Attribute Table:\n\nFound shapefile attribute table was not correctly formatted\nMade necessary adjustments to tile ID properties\nAdded proper ID fields to enable processing\n\nScript Refinements:\n\nModified JavaScript to handle tile naming conventions\nAdjusted bucket paths for correct data storage\nSet up proper directory structure for output files\n\n\n\n\n13.3.2 2. Image Processing Configuration\n\nNAIP Imagery Setup:\n\nConfigured date range for 2021 imagery\nExtended collection window to May-September\nConfirmed NAIP imagery is typically cloud-free\nSet up composite parameters\n\nSentinel-2 Configuration:\n\nSet date range: 2019-2024\nConfigured growing season window: June 1 - August 31\nAdded cloud masking procedures\nSet up 5-year composite parameters\n\n\n\n\n13.3.3 3. File Structure and Organization\n\nGoogle Cloud Storage:\n\nCreated main bucket: “tcma_covars”\nEstablished directory structure:\n\nDEM (3DEP data)\nNAIP imagery\nSentinel-2 data\n\nSet up proper naming conventions for outputs\n\nProcessing Framework:\n\nConfigured 10-meter resolution as standard output\nAligned with G-SERGO grid specifications\nSet up downscaling procedures for higher resolution data\n\n\n\n\n13.3.4 4. Next Steps and Action Items\n\nImmediate Tasks:\n\nComplete DEM processing for remaining tiles\nSet up NAIP processing for 2021\nConfigure Sentinel-2 processing\nDocument process for technical documentation\n\nFuture Processing:\n\nTransfer processed data to MSI Tier 2\nDevelop Python scripts for:\n\nData alignment\nResolution matching\nStack creation\nQuality control\n\n\nDocumentation Requirements:\n\nCreate progress slides for project update\nInclude screenshots of:\n\nGoogle Earth Engine interface\nCloud console\nProcessing results\n\nDocument technical procedures\n\n\n\n\n13.3.5 Technical Notes\n\nResolution Standards:\n\nFinal output will be 10-meter resolution\nMatching gSSURGO grid specifications\nDownscaling required for higher resolution inputs\nInterpolation needed for alignment\n\nProcessing Considerations:\n\nCloud-free compositing for Sentinel data\nScene classification layer (SCL) for cloud masking\nMedian value computation for composites\nSpatial alignment requirements",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Using Google Earth Engine to Access Geospatial Data (Covariate Development)</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html",
     "href": "minutes-18APR2025-nic-nora.html",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
     "section": "",
-    "text": "13.1 Meeting Objective\nTo establish a shared workspace on Minnesota Supercomputing Institute’s platform (MSI) for accessing and processing geospatial data for the Twin Cities Metropolitan Area (TCMA) survey project, including transferring data from Google Cloud Storage, setting up data access, and planning next steps for spatial data processing.",
+    "text": "14.1 Meeting Objective\nTo establish a shared workspace on Minnesota Supercomputing Institute’s platform (MSI) for accessing and processing geospatial data for the Twin Cities Metropolitan Area (TCMA) survey project, including transferring data from Google Cloud Storage, setting up data access, and planning next steps for spatial data processing.",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html#workspace-setup-and-data-organization",
     "href": "minutes-18APR2025-nic-nora.html#workspace-setup-and-data-organization",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
-    "section": "13.2 Workspace Setup and Data Organization",
-    "text": "13.2 Workspace Setup and Data Organization\n\n13.2.1 Shared MSI Access\n\nParticipants set up a shared folder at /home/jeli0026/shared/TCMA_survey on MSI to enable collaborative work\nInitially had difficulty accessing the shared folder - Nora encountered issues with sessions stuck in “starting” state\nSuccessfully established access to the shared folder for both participants\nConfirmed that Nora has read/write access to folders inside the shared workspace, but cannot create new directories\n\n\n\n13.2.2 Google Cloud Data Management\n\nIdentified and accessed the TCMA-covars Google Cloud bucket they had previously created\nNic set up Google Cloud SDK command-line tools to access the bucket via terminal\nUsed gsutil to sync data from Google Cloud to MSI\nImplemented file transfer commands with checksums to ensure data integrity:\ngsutil -m rsync -r -c gs://TCMA-covars/DEM_3DEP-1meter-ag-10meter-huc8/ /home/jeli0026/shared/TCMA_survey/DEM_3DEP-1meter-ag-10meter-huc8/\n\n\n\n13.2.3 Essential Data Identified for Transfer\nKey datasets to be moved to the shared workspace: 1. 2020 Land Use dataset 2. Metro Lakes and Rivers data 3. Land Cover Classification (1-meter) 4. Patty’s geomorphic surfaces data (from Box storage) 5. DEM data from Google Cloud (successfully transferred during meeting)",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
+    "section": "14.2 Workspace Setup and Data Organization",
+    "text": "14.2 Workspace Setup and Data Organization\n\n14.2.1 Shared MSI Access\n\nParticipants set up a shared folder at /home/jeli0026/shared/TCMA_survey on MSI to enable collaborative work\nInitially had difficulty accessing the shared folder - Nora encountered issues with sessions stuck in “starting” state\nSuccessfully established access to the shared folder for both participants\nConfirmed that Nora has read/write access to folders inside the shared workspace, but cannot create new directories\n\n\n\n14.2.2 Google Cloud Data Management\n\nIdentified and accessed the TCMA-covars Google Cloud bucket they had previously created\nNic set up Google Cloud SDK command-line tools to access the bucket via terminal\nUsed gsutil to sync data from Google Cloud to MSI\nImplemented file transfer commands with checksums to ensure data integrity:\ngsutil -m rsync -r -c gs://TCMA-covars/DEM_3DEP-1meter-ag-10meter-huc8/ /home/jeli0026/shared/TCMA_survey/DEM_3DEP-1meter-ag-10meter-huc8/\n\n\n\n14.2.3 Essential Data Identified for Transfer\nKey datasets to be moved to the shared workspace: 1. 2020 Land Use dataset 2. Metro Lakes and Rivers data 3. Land Cover Classification (1-meter) 4. Patty’s geomorphic surfaces data (from Box storage) 5. DEM data from Google Cloud (successfully transferred during meeting)",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html#data-processing-and-strategies",
     "href": "minutes-18APR2025-nic-nora.html#data-processing-and-strategies",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
-    "section": "13.3 Data Processing and Strategies",
-    "text": "13.3 Data Processing and Strategies\n\n13.3.1 DEM Data Processing\n\nNic created a Google Earth Engine script to prepare DEM data based on watershed boundaries\nUsed HUC-8 watershed boundaries to avoid edge artifacts in hydrological derivatives\nGenerated DEM data with 5km buffer around watersheds to ensure proper hydrological calculations\nAggregated 1-meter DEM data to 10-meter resolution\nExported 6 HUC-8 watersheds that intersect with the TCMA area of interest\nData size per watershed: approximately 200-250MB each, with total size around 1.2GB\n\n\n\n13.3.2 Technical Insights on DEM Processing\n\nDiscovered artifacts in the native 3DEP 10-meter DEM product when calculating derivatives\nBetter approach is to aggregate 1-meter DEM to 10-meter to avoid artifacts\nWhen processing derivatives (slope, flow accumulation), watersheds make better processing units than arbitrary tiles\nBuffering watersheds by 5km before calculating derivatives avoids edge effects\nWill clip back to actual watershed boundaries after derivatives are calculated\nProjected all data to UTM 15N (EPSG:26915 based on NAD83)\n\n\n\n13.3.3 Geospatial Data Handling\n\nAOI (Area of Interest) shapefile was imported into QGIS and converted to appropriate format\nUploaded AOI to Google Earth Engine as asset for processing\nIdentified 6 HUC-8 watersheds that intersect with the TCMA AOI\nExported processed data to Google Cloud Storage for subsequent transfer to MSI\n\n\n\n13.3.4 Data Gaps and Considerations\n\nNoted that some tribal lands have redacted data in the newest 3DEP coverage\nApproximately 1/3 of Minnesota not yet available in 3DEP data (western part still being processed)\nAll Twin Cities data is complete in the 3DEP coverage",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
+    "section": "14.3 Data Processing and Strategies",
+    "text": "14.3 Data Processing and Strategies\n\n14.3.1 DEM Data Processing\n\nNic created a Google Earth Engine script to prepare DEM data based on watershed boundaries\nUsed HUC-8 watershed boundaries to avoid edge artifacts in hydrological derivatives\nGenerated DEM data with 5km buffer around watersheds to ensure proper hydrological calculations\nAggregated 1-meter DEM data to 10-meter resolution\nExported 6 HUC-8 watersheds that intersect with the TCMA area of interest\nData size per watershed: approximately 200-250MB each, with total size around 1.2GB\n\n\n\n14.3.2 Technical Insights on DEM Processing\n\nDiscovered artifacts in the native 3DEP 10-meter DEM product when calculating derivatives\nBetter approach is to aggregate 1-meter DEM to 10-meter to avoid artifacts\nWhen processing derivatives (slope, flow accumulation), watersheds make better processing units than arbitrary tiles\nBuffering watersheds by 5km before calculating derivatives avoids edge effects\nWill clip back to actual watershed boundaries after derivatives are calculated\nProjected all data to UTM 15N (EPSG:26915 based on NAD83)\n\n\n\n14.3.3 Geospatial Data Handling\n\nAOI (Area of Interest) shapefile was imported into QGIS and converted to appropriate format\nUploaded AOI to Google Earth Engine as asset for processing\nIdentified 6 HUC-8 watersheds that intersect with the TCMA AOI\nExported processed data to Google Cloud Storage for subsequent transfer to MSI\n\n\n\n14.3.4 Data Gaps and Considerations\n\nNoted that some tribal lands have redacted data in the newest 3DEP coverage\nApproximately 1/3 of Minnesota not yet available in 3DEP data (western part still being processed)\nAll Twin Cities data is complete in the 3DEP coverage",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html#technical-procedures-documented",
     "href": "minutes-18APR2025-nic-nora.html#technical-procedures-documented",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
-    "section": "13.4 Technical Procedures Documented",
-    "text": "13.4 Technical Procedures Documented\n\n13.4.1 Shapefile Processing Workflow\n\nLoad GDB file into QGIS\nExport AOI feature as shapefile in WGS84 projection\nCompress into ZIP file for Google Earth Engine\nUpload to Google Earth Engine as asset\nUse asset in processing script\n\n\n\n13.4.2 Google Earth Engine Script\n\nBased on existing statewide project script\nModified to use TCMA AOI instead of Minnesota state boundary\nProcesses watersheds that intersect with the AOI\nBuffers watersheds by 5km for processing\nAggregates 1-meter DEM to 10-meter resolution\nExports results to Google Cloud Storage\n\n\n\n13.4.3 MSI to Google Cloud Connection\n\nInstall Google Cloud SDK tools:\n# Download and extract the SDK\n# Run ./google-cloud-sdk/install.sh\n# Authenticate with gcloud auth login\nSet up file transfer commands:\ngsutil -m rsync -r -c [SOURCE] [DESTINATION]\n\n-m: multi-processing for faster transfer\n-r: recursive to include all subdirectories\n-c: use checksums to verify file integrity",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
+    "section": "14.4 Technical Procedures Documented",
+    "text": "14.4 Technical Procedures Documented\n\n14.4.1 Shapefile Processing Workflow\n\nLoad GDB file into QGIS\nExport AOI feature as shapefile in WGS84 projection\nCompress into ZIP file for Google Earth Engine\nUpload to Google Earth Engine as asset\nUse asset in processing script\n\n\n\n14.4.2 Google Earth Engine Script\n\nBased on existing statewide project script\nModified to use TCMA AOI instead of Minnesota state boundary\nProcesses watersheds that intersect with the AOI\nBuffers watersheds by 5km for processing\nAggregates 1-meter DEM to 10-meter resolution\nExports results to Google Cloud Storage\n\n\n\n14.4.3 MSI to Google Cloud Connection\n\nInstall Google Cloud SDK tools:\n# Download and extract the SDK\n# Run ./google-cloud-sdk/install.sh\n# Authenticate with gcloud auth login\nSet up file transfer commands:\ngsutil -m rsync -r -c [SOURCE] [DESTINATION]\n\n-m: multi-processing for faster transfer\n-r: recursive to include all subdirectories\n-c: use checksums to verify file integrity",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html#knowledge-transfer-and-documentation",
     "href": "minutes-18APR2025-nic-nora.html#knowledge-transfer-and-documentation",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
-    "section": "13.5 Knowledge Transfer and Documentation",
-    "text": "13.5 Knowledge Transfer and Documentation\n\n13.5.1 Documentation Plans\n\nAgreed to document all procedures in a new chapter in the project’s ebook\nRecording of the meeting saved in Nora’s cloud for reference\nWill create “job aids” with step-by-step instructions\n\n\n\n13.5.2 Data Insights\n\nGoogle Cloud charges for downloads, not processing or storage (~$2000 for statewide data)\nGoogle Earth Engine requires WGS84 projection for uploads but can reproject for exports\nShared understanding of data directory structures and permission systems\nDiscussed differences between UTM 15N projections (EPSG:26915 vs. EPSG:32615)",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
+    "section": "14.5 Knowledge Transfer and Documentation",
+    "text": "14.5 Knowledge Transfer and Documentation\n\n14.5.1 Documentation Plans\n\nAgreed to document all procedures in a new chapter in the project’s ebook\nRecording of the meeting saved in Nora’s cloud for reference\nWill create “job aids” with step-by-step instructions\n\n\n\n14.5.2 Data Insights\n\nGoogle Cloud charges for downloads, not processing or storage (~$2000 for statewide data)\nGoogle Earth Engine requires WGS84 projection for uploads but can reproject for exports\nShared understanding of data directory structures and permission systems\nDiscussed differences between UTM 15N projections (EPSG:26915 vs. EPSG:32615)",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html#next-steps-and-action-items",
     "href": "minutes-18APR2025-nic-nora.html#next-steps-and-action-items",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
-    "section": "13.6 Next Steps and Action Items",
-    "text": "13.6 Next Steps and Action Items\n\n13.6.1 Nic’s Action Items\n\nCreate preliminary notebooks in the shared MSI folder\nFix missing watershed #2 in the DEM data\nEnsure all necessary directories are created in shared workspace\nDevelop initial data processing workflow\n\n\n\n13.6.2 Nora’s Action Items\n\nCheck shared folder on Monday to review Nic’s additions\nTransfer Patty’s geomorphic surfaces data from Box to the shared MSI folder\nCreate a documentation chapter in the existing ebook\n\n\n\n13.6.3 Future Collaborative Work\n\nCreate a structured GitHub repository for all analysis scripts\nProcess watersheds to create seamless hydrological derivatives\nExplore ways to simplify workflow for repeated tasks\nScheduled to touch base Monday morning",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
+    "section": "14.6 Next Steps and Action Items",
+    "text": "14.6 Next Steps and Action Items\n\n14.6.1 Nic’s Action Items\n\nCreate preliminary notebooks in the shared MSI folder\nFix missing watershed #2 in the DEM data\nEnsure all necessary directories are created in shared workspace\nDevelop initial data processing workflow\n\n\n\n14.6.2 Nora’s Action Items\n\nCheck shared folder on Monday to review Nic’s additions\nTransfer Patty’s geomorphic surfaces data from Box to the shared MSI folder\nCreate a documentation chapter in the existing ebook\n\n\n\n14.6.3 Future Collaborative Work\n\nCreate a structured GitHub repository for all analysis scripts\nProcess watersheds to create seamless hydrological derivatives\nExplore ways to simplify workflow for repeated tasks\nScheduled to touch base Monday morning",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "minutes-18APR2025-nic-nora.html#technical-notes-and-observations",
     "href": "minutes-18APR2025-nic-nora.html#technical-notes-and-observations",
-    "title": "13  Covariate Space Coverage Sampling 18APR2025",
-    "section": "13.7 Technical Notes and Observations",
-    "text": "13.7 Technical Notes and Observations\n\n13.7.1 MSI Configuration\n\nHome directory path: /user/1/pear0747 (Nora), /user/1/jeli0026 (Nic)\nShared directory path: /home/jeli0026/shared/\nWorkspace created: /home/jeli0026/shared/TCMA_survey/\n\n\n\n13.7.2 Data Storage Insights\n\nPrevious data organization had been done in home directories and Google Cloud Storage\nGoogle Cloud Storage bucket: gs://TCMA-covars/\nBox storage contains geomorphic data that needs to be transferred\nMSI shared workspace allows both users to access the same files\n\n\n\n13.7.3 Ongoing Challenges\n\nPermission structure limits directory creation by Nora in the shared workspace\nSome data transfers were slower than expected\nMissing data for watershed #2 needs to be resolved\nNeed to coordinate access to geomorphic surfaces data on Box",
+    "title": "14  Covariate Space Coverage Sampling 18APR2025",
+    "section": "14.7 Technical Notes and Observations",
+    "text": "14.7 Technical Notes and Observations\n\n14.7.1 MSI Configuration\n\nHome directory path: /user/1/pear0747 (Nora), /user/1/jeli0026 (Nic)\nShared directory path: /home/jeli0026/shared/\nWorkspace created: /home/jeli0026/shared/TCMA_survey/\n\n\n\n14.7.2 Data Storage Insights\n\nPrevious data organization had been done in home directories and Google Cloud Storage\nGoogle Cloud Storage bucket: gs://TCMA-covars/\nBox storage contains geomorphic data that needs to be transferred\nMSI shared workspace allows both users to access the same files\n\n\n\n14.7.3 Ongoing Challenges\n\nPermission structure limits directory creation by Nora in the shared workspace\nSome data transfers were slower than expected\nMissing data for watershed #2 needs to be resolved\nNeed to coordinate access to geomorphic surfaces data on Box",
     "crumbs": [
       "Job Aids",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Covariate Space Coverage Sampling 18APR2025</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html",
     "href": "survey123-guide.html",
-    "title": "14  Entering Pedons into Survey123",
+    "title": "15  Entering Pedons into Survey123",
     "section": "",
-    "text": "14.1 Resources",
+    "text": "15.1 Resources",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#resources",
     "href": "survey123-guide.html#resources",
-    "title": "14  Entering Pedons into Survey123",
+    "title": "15  Entering Pedons into Survey123",
     "section": "",
     "text": "Keys to Soil Taxonomy (13th ed)\nSoil Survey Methods Manual (2017)\nField Book for Describing and Sampling Soils (v 4.0)\nNRCS PLANTS Database\n\nNote that on description sheets, common names were used. Select “common name” instead of “scientific name” in the dropdown menu.\n\nPedon description sheets, in the Box folder or in the scanned-pedon-description-sheets folder of the project folder of the Jelinski group shared drive (email Nora for access)\n\nI would slightly prefer that you use the shared drive versions, because I’ve made a few comments with small changes on a few of the sheets\n\nProfile photos, organized by site ID in the Jelinski group shared drive\n\nUse if something on the second page of the description sheet doesn’t make sense\n\nA Glossary of Terms Used in Soil Survey and Soil Classification",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#type-of-form-and-location-info-page-1",
     "href": "survey123-guide.html#type-of-form-and-location-info-page-1",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.2 Type of Form and Location Info – Page 1",
-    "text": "14.2 Type of Form and Location Info – Page 1\n\nIn the Survey123 field app on your computer, click on the Pedon Description V.1.9 survey –&gt; Collect. Under Type of Form, choose Pedon Description.\nDescriber: enter the describers’ initials from the scanned pedon description. Use three letter initials when available – Nora’s are NBP, for example.\nLocation: leave this empty; Survey123 will crash if you try to navigate to a point on the map.\nCoordinate source: change to auto-populated from survey-grade GPS.\nDate: change to date description was collected.\nArea symbol: change to MNXXX, with XXX being the three digit county FIPS code from the site ID. Examples are 123, 003, 037, or 052.\nPedon ID: populate the final two or three digits of the full site ID.\nSite ID: this will auto-populate from the Pedon ID once you click on the text box; they’re the same code.\nYear: click “-” to change back to 2024.\nPedon #: last three digits of site ID.\nRegion: North Central; click the dropdown menu and that should be the only choice.\nOffice: NC-ALB; click the dropdown menu to select. If that isn’t available, leave it blank.\nState: MN; click the dropdown menu and that should be the only choice.\nMLRA: 103; using this for all as per Joe’s decision.\nLRR: leave blank.\nLat/long: populate from clean-survey-points-20NOV2024 (in Box). Observation Name column holds site IDs. X and Y columns hold long and lat, respectively. Remember: y is latitude and x is longitude.\nDatum, accuracy, and GPS PDOP: leave blank or don’t change.",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.2 Type of Form and Location Info – Page 1",
+    "text": "15.2 Type of Form and Location Info – Page 1\n\nIn the Survey123 field app on your computer, click on the Pedon Description V.1.9 survey –&gt; Collect. Under Type of Form, choose Pedon Description.\nDescriber: enter the describers’ initials from the scanned pedon description. Use three letter initials when available – Nora’s are NBP, for example.\nLocation: leave this empty; Survey123 will crash if you try to navigate to a point on the map.\nCoordinate source: change to auto-populated from survey-grade GPS.\nDate: change to date description was collected.\nArea symbol: change to MNXXX, with XXX being the three digit county FIPS code from the site ID. Examples are 123, 003, 037, or 052.\nPedon ID: populate the final two or three digits of the full site ID.\nSite ID: this will auto-populate from the Pedon ID once you click on the text box; they’re the same code.\nYear: click “-” to change back to 2024.\nPedon #: last three digits of site ID.\nRegion: North Central; click the dropdown menu and that should be the only choice.\nOffice: NC-ALB; click the dropdown menu to select. If that isn’t available, leave it blank.\nState: MN; click the dropdown menu and that should be the only choice.\nMLRA: 103; using this for all as per Joe’s decision.\nLRR: leave blank.\nLat/long: populate from clean-survey-points-20NOV2024 (in Box). Observation Name column holds site IDs. X and Y columns hold long and lat, respectively. Remember: y is latitude and x is longitude.\nDatum, accuracy, and GPS PDOP: leave blank or don’t change.",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#pedon-description-page-2",
     "href": "survey123-guide.html#pedon-description-page-2",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.3 Pedon Description – Page 2",
-    "text": "14.3 Pedon Description – Page 2\n\nSeries name: return to this after you’ve classified the pedon; we won’t enter a series name, just a classification.\nMap unit symbol: leave blank.\nPedon purpose: soil survey inventory.\nClassification: same as series name.\nSoil moisture regime (tax): udic.\nWeather, air temp, soil temp, depth, transect info: leave blank.\nLand cover kind 1 and 2: populate from land cover cell (highlighted orange). If “grass” is recorded on description sheet, kind 1 should be grass/herbaceous cover and kind 2 should be other grass/herbaceous cover.\nGeomorphic Environments and Other Groupings: choose based on Landscape and Landform identified on the description sheet. Many of ours are either glacial or fluvial.\n\nIf we didn’t identify Landscape/Landform, feel free to make an educated guess based on the site location (find the location in SoilExplorer). Chapter 3 of the Field Book for Describing Soils has a long and nicely organized list of possible options starting on page 3-10 or page 174 of the PDF.\nIf you aren’t at all sure what to choose, note that on the notes document and submit the survey without it – Nora will populate it.\n\nAnthro: use your judgement here. Options I’ve chosen are fill, anthroscape, and artificial levee. NRCS is still thinking about what anthroscape means. If a site has any HTM at all, if should have an anthropogenic landform marked.\n\nElevation, aspect: leave blank.\nSlope: populate from sheet. If we put a range, choose the middle number.\nSlope complexity and shape (up/down AND across): populate from sheet.\nHillslope profile: populate from sheet. Leave blank if we didn’t populate.\nMicrorelief: we didn’t populate this very often, but populate from sheet if there is something.\n\nGeomorphic Component (3D): the only one we will use is terrace. If you choose that, it will open the Geom. Terraces and Flats questions. Populate from sheet, or leave blank and note on the notes document if you don’t know.\n\nDrainage: populate from sheet.\nFlooding and Ponding: populate from sheet or leave blank if you don’t know.\n\nNote: For the National Wildlife Refuge sites that were on the floodplain, frequent flooding and long duration should be marked. See page 1-13 of the Field Book for guidelines.\n\nSoil Moisture Status: populate from sheet; most were moist.\nPermeability, Ksat, Runoff: leave blank.\nParent material: identify top and bottom depths and kind from sheet.\n\nPay attention to mistakes we might’ve made. I scroll down to the second page to see if we identified any fill on the top of the profile OR two parent materials in a “natural” soil, but didn’t note it in the parent materials section. You can identify multiple.\n\nHTM/fill should always be marked as a parent material, no matter the depth.\n\nUPDATE 29JAN: for an instance of till, use the “till, unspecified” option.\n\nBedrock, Lithostrat. Units, and Erosion: leave blank.\nSurface Frag %: if nothing was noted, leave blank.\nDiagnostic Horizons/Properties: identify anything relevant. Any epipedon, diagnostic subsurface horizon (such as argillic), lithologic discontinuity, etc.\n\nIf nothing was marked on the sheet, look at the horizonation on the back side.\n\nParticle Size Control Section: this defaults to 25-100cm if there is nothing “special.” See Chapter 17 of Keys (page 363 of the PDF) for a description.\nCracks: for ~98% of these, we marked no.\nCrust: leave blank.",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.3 Pedon Description – Page 2",
+    "text": "15.3 Pedon Description – Page 2\n\nSeries name: return to this after you’ve classified the pedon; we won’t enter a series name, just a classification.\nMap unit symbol: leave blank.\nPedon purpose: soil survey inventory.\nClassification: same as series name.\nSoil moisture regime (tax): udic.\nWeather, air temp, soil temp, depth, transect info: leave blank.\nLand cover kind 1 and 2: populate from land cover cell (highlighted orange). If “grass” is recorded on description sheet, kind 1 should be grass/herbaceous cover and kind 2 should be other grass/herbaceous cover.\nGeomorphic Environments and Other Groupings: choose based on Landscape and Landform identified on the description sheet. Many of ours are either glacial or fluvial.\n\nIf we didn’t identify Landscape/Landform, feel free to make an educated guess based on the site location (find the location in SoilExplorer). Chapter 3 of the Field Book for Describing Soils has a long and nicely organized list of possible options starting on page 3-10 or page 174 of the PDF.\nIf you aren’t at all sure what to choose, note that on the notes document and submit the survey without it – Nora will populate it.\n\nAnthro: use your judgement here. Options I’ve chosen are fill, anthroscape, and artificial levee. NRCS is still thinking about what anthroscape means. If a site has any HTM at all, if should have an anthropogenic landform marked.\n\nElevation, aspect: leave blank.\nSlope: populate from sheet. If we put a range, choose the middle number.\nSlope complexity and shape (up/down AND across): populate from sheet.\nHillslope profile: populate from sheet. Leave blank if we didn’t populate.\nMicrorelief: we didn’t populate this very often, but populate from sheet if there is something.\n\nGeomorphic Component (3D): the only one we will use is terrace. If you choose that, it will open the Geom. Terraces and Flats questions. Populate from sheet, or leave blank and note on the notes document if you don’t know.\n\nDrainage: populate from sheet.\nFlooding and Ponding: populate from sheet or leave blank if you don’t know.\n\nNote: For the National Wildlife Refuge sites that were on the floodplain, frequent flooding and long duration should be marked. See page 1-13 of the Field Book for guidelines.\n\nSoil Moisture Status: populate from sheet; most were moist.\nPermeability, Ksat, Runoff: leave blank.\nParent material: identify top and bottom depths and kind from sheet.\n\nPay attention to mistakes we might’ve made. I scroll down to the second page to see if we identified any fill on the top of the profile OR two parent materials in a “natural” soil, but didn’t note it in the parent materials section. You can identify multiple.\n\nHTM/fill should always be marked as a parent material, no matter the depth.\n\nUPDATE 29JAN: for an instance of till, use the “till, unspecified” option.\n\nBedrock, Lithostrat. Units, and Erosion: leave blank.\nSurface Frag %: if nothing was noted, leave blank.\nDiagnostic Horizons/Properties: identify anything relevant. Any epipedon, diagnostic subsurface horizon (such as argillic), lithologic discontinuity, etc.\n\nIf nothing was marked on the sheet, look at the horizonation on the back side.\n\nParticle Size Control Section: this defaults to 25-100cm if there is nothing “special.” See Chapter 17 of Keys (page 363 of the PDF) for a description.\nCracks: for ~98% of these, we marked no.\nCrust: leave blank.",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#taxonomic-classification-page-3",
     "href": "survey123-guide.html#taxonomic-classification-page-3",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.4 Taxonomic Classification – Page 3",
-    "text": "14.4 Taxonomic Classification – Page 3\n\nTax Kind: miscellaneous area\nTax Part Size Class: options described in Chapter 17 of Keys (page 363 of the PDF). We frequently use coarse/fine-loamy or silty, sandy; see page 368 of the PDF\nTax CEC: Many soils in MN are superactive. Will update with additional guidance.\nTax Rxn, Tax Family Other: leave blank.\nTax Moist Sublcass: udic, normally. Could also use anthraquic (see page 11 of Keys PDF).\nTax Order, Suborder, Greatgroup: again, we did not classify soils in the field, so you will do this based on the second page of the description sheet. Keys has a list of classifying soils by order starting on page 75 of the PDF. Once you know the order, find the available suborders in the corresponding Chapter and classify from there.\n\nNote: pay attention to soils that have fill and reference the rules for anthropic epipedon.",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.4 Taxonomic Classification – Page 3",
+    "text": "15.4 Taxonomic Classification – Page 3\n\nTax Kind: miscellaneous area\nTax Part Size Class: options described in Chapter 17 of Keys (page 363 of the PDF). We frequently use coarse/fine-loamy or silty, sandy; see page 368 of the PDF\nTax CEC: Many soils in MN are superactive. Will update with additional guidance.\nTax Rxn, Tax Family Other: leave blank.\nTax Moist Sublcass: udic, normally. Could also use anthraquic (see page 11 of Keys PDF).\nTax Order, Suborder, Greatgroup: again, we did not classify soils in the field, so you will do this based on the second page of the description sheet. Keys has a list of classifying soils by order starting on page 75 of the PDF. Once you know the order, find the available suborders in the corresponding Chapter and classify from there.\n\nNote: pay attention to soils that have fill and reference the rules for anthropic epipedon.",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#horizon-page-4",
     "href": "survey123-guide.html#horizon-page-4",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.5 Horizon – Page 4",
-    "text": "14.5 Horizon – Page 4\nEach horizon has a different page within page 4 of the survey.\n\nObserv. Method: almost always auger, dutch – check on the front page of the sheet if a small pit was dug. Then, the first three or so horizons were described in the pit, so the Observ. Method should be pit, small. The remaining ones should be auger, dutch.\nEnter Top/Bottom depth and Horizon Designation from sheet.\nName: entered from sheet. Reminder to make sure horizons with artifacts get “u” suffixes and the horizons under HTM/fill get a “2” in front for a lithologic discontinuity.\nBoundary Distinctness and Topography: leave blank. We didn’t describe this in augered profiles. If there was a small pit dug and we described distinctness, please mark it.\nMatrix color: enter as described.\n\nNote: there is no place to enter percentages of different colors, so that should be entered in the horizon notes text box at the bottom of the page. Use the following format: “80% 10YR 2/1 20% 10YR 4/4.”\nNote: at the bottom of the Matrix Color box, there’s a bar that says “1 of 5” - click the arrow to the right to enter multiple colors.\n\nTexture: mark no for Stratified Flag unless we wrote that in. Leave In Lieu Texture blank; I don’t think we ever used it. Add a Textural Modifier if we marked one – most commonly, we used gravelly (GR) or extremely gravelly (EXGR).\n\nNote page 2-42 of the Field Book (page 86): if there are ≥ 15% artifacts, the horizon gets a textural modifier.\n\nRock Frags: enter % and Sz High – if we only wrote one number for the size, it was the largest piece. We didn’t note Hardness, Round, Shape, or Kind, so leave those blank.\nStructure: use page 2-52 of the Field Book (page 96 of the PDF) for descriptions of what each item means. Leave ID and Parting To blank. If we wrote Parting To or added a second texture, mark both in the Structure section and note in the horizon notes text box that it was texture A parting to texture B.\n\nUPDATE 29JAN: make sure C horizons don’t have a texture, even if we entered one!\n\nConsistence: we only marked Moist consistence. Leave Manner of Failure blank. Use page 2-63 of the Field Book (page 107 of the PDF) for a list of what each abbreviation means.\nChange 3% and H202 Change 30%: leave blank.\nMottles: enter as described.\nRedox Features: enter as described. We didn’t describe Hardness, Shape, Location, or Redox Bnd, so leave those blank. See page 1-27 of the Field Book (page 39) for a list of what each abbreviation means. We used moist colors.\n\nUPDATE 29JAN: all FMCs (iron concretions) we entered, should be entered as F3M (non-cemented masses of Fe3+). Masses are much more common than concretions; we just used the wrong symbol.\n\nConcentrations: same notes as redox box. See pages 2-26 and 2-27 of the Field Book (pages 70-71) for a list of what each abbreviation means.\nPed and Void Surface Features: used infrequently, but enter as described or leave blank if nothing.\nRoots: we described percentage of roots for most of the season, instead of number, like NASIS wants, so leave Roots blank if there is a percent on our sheet. If there is a percent, enter “1% roots” in the notes box.\nPores: didn’t use often.\nField Measurement Properties: enter effervescence and clay/sand %s here. See page 2-87 of the Field Book (page 131) for a list of what each effervescence abbreviation means. We used HCL, 1N. Leave clay and sand estimates blank if we didn’t mark anything. Silt estimate is calculated automatically.\n\nUPDATE 29JAN: if we didn’t estimate sand/clay, delete the zero that is automatically populated in the silt text box.\n\nHuman artifacts: this would be on the third page of the scanned PDF. Enter as described. Choose the Kind that most closely matches what we wrote. If none match at all, leave it blank and enter the kind into the notes box of the artifacts box. See page 2-50 of the Field book (page 94) for a list of what each abbreviation means. Artifact-related notes should go in the “NOTES” textbox.\n\nUPDATE 29JAN: reminder that any horizon that has artifacts should get a “u” suffix in the horizon name. We missed this frequently, especially on the earlier pedons.\n\nHorizon NOTES: check the MISCELLANEOUS FIELD NOTES box on the front page of the sheet for any notes we made about individual horizons and enter them in the Horizon NOTES box. Do not enter site-level notes here.\n\nRepeat for each horizon, up to 10. If more than 10 horizons were described, consider stratifying them (combining) if they are small and similar. Talk to Nora with questions.",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.5 Horizon – Page 4",
+    "text": "15.5 Horizon – Page 4\nEach horizon has a different page within page 4 of the survey.\n\nObserv. Method: almost always auger, dutch – check on the front page of the sheet if a small pit was dug. Then, the first three or so horizons were described in the pit, so the Observ. Method should be pit, small. The remaining ones should be auger, dutch.\nEnter Top/Bottom depth and Horizon Designation from sheet.\nName: entered from sheet. Reminder to make sure horizons with artifacts get “u” suffixes and the horizons under HTM/fill get a “2” in front for a lithologic discontinuity.\nBoundary Distinctness and Topography: leave blank. We didn’t describe this in augered profiles. If there was a small pit dug and we described distinctness, please mark it.\nMatrix color: enter as described.\n\nNote: there is no place to enter percentages of different colors, so that should be entered in the horizon notes text box at the bottom of the page. Use the following format: “80% 10YR 2/1 20% 10YR 4/4.”\nNote: at the bottom of the Matrix Color box, there’s a bar that says “1 of 5” - click the arrow to the right to enter multiple colors.\n\nTexture: mark no for Stratified Flag unless we wrote that in. Leave In Lieu Texture blank; I don’t think we ever used it. Add a Textural Modifier if we marked one – most commonly, we used gravelly (GR) or extremely gravelly (EXGR).\n\nNote page 2-42 of the Field Book (page 86): if there are ≥ 15% artifacts, the horizon gets a textural modifier.\n\nRock Frags: enter % and Sz High – if we only wrote one number for the size, it was the largest piece. We didn’t note Hardness, Round, Shape, or Kind, so leave those blank.\nStructure: use page 2-52 of the Field Book (page 96 of the PDF) for descriptions of what each item means. Leave ID and Parting To blank. If we wrote Parting To or added a second texture, mark both in the Structure section and note in the horizon notes text box that it was texture A parting to texture B.\n\nUPDATE 29JAN: make sure C horizons don’t have a texture, even if we entered one!\n\nConsistence: we only marked Moist consistence. Leave Manner of Failure blank. Use page 2-63 of the Field Book (page 107 of the PDF) for a list of what each abbreviation means.\nChange 3% and H202 Change 30%: leave blank.\nMottles: enter as described.\nRedox Features: enter as described. We didn’t describe Hardness, Shape, Location, or Redox Bnd, so leave those blank. See page 1-27 of the Field Book (page 39) for a list of what each abbreviation means. We used moist colors.\n\nUPDATE 29JAN: all FMCs (iron concretions) we entered, should be entered as F3M (non-cemented masses of Fe3+). Masses are much more common than concretions; we just used the wrong symbol.\n\nConcentrations: same notes as redox box. See pages 2-26 and 2-27 of the Field Book (pages 70-71) for a list of what each abbreviation means.\nPed and Void Surface Features: used infrequently, but enter as described or leave blank if nothing.\nRoots: we described percentage of roots for most of the season, instead of number, like NASIS wants, so leave Roots blank if there is a percent on our sheet. If there is a percent, enter “1% roots” in the notes box.\nPores: didn’t use often.\nField Measurement Properties: enter effervescence and clay/sand %s here. See page 2-87 of the Field Book (page 131) for a list of what each effervescence abbreviation means. We used HCL, 1N. Leave clay and sand estimates blank if we didn’t mark anything. Silt estimate is calculated automatically.\n\nUPDATE 29JAN: if we didn’t estimate sand/clay, delete the zero that is automatically populated in the silt text box.\n\nHuman artifacts: this would be on the third page of the scanned PDF. Enter as described. Choose the Kind that most closely matches what we wrote. If none match at all, leave it blank and enter the kind into the notes box of the artifacts box. See page 2-50 of the Field book (page 94) for a list of what each abbreviation means. Artifact-related notes should go in the “NOTES” textbox.\n\nUPDATE 29JAN: reminder that any horizon that has artifacts should get a “u” suffix in the horizon name. We missed this frequently, especially on the earlier pedons.\n\nHorizon NOTES: check the MISCELLANEOUS FIELD NOTES box on the front page of the sheet for any notes we made about individual horizons and enter them in the Horizon NOTES box. Do not enter site-level notes here.\n\nRepeat for each horizon, up to 10. If more than 10 horizons were described, consider stratifying them (combining) if they are small and similar. Talk to Nora with questions.",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#vegetation-page-5",
     "href": "survey123-guide.html#vegetation-page-5",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.6 Vegetation – Page 5",
-    "text": "14.6 Vegetation – Page 5\nEnter as described in the VEGETATION box on the bottom left of the front page of the sheet.\nWe always wrote only the common name and % ground cover – enter those in the corresponding boxes. Here’s a list of common vegetation types we saw. Look up others in the Plants database, linked above and in the Survey123.\n\nKentucky bluegrass: POPR\nCreeping charlie: PINU\nReed canary grass: PHAR3\nPerennial ryegrass: LOPE\nCommon dandelion: TAOF\nCrabgrass: DIGIT2\nWhite clover: TRRE3\nCommon Buckthorn: RHCA3",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.6 Vegetation – Page 5",
+    "text": "15.6 Vegetation – Page 5\nEnter as described in the VEGETATION box on the bottom left of the front page of the sheet.\nWe always wrote only the common name and % ground cover – enter those in the corresponding boxes. Here’s a list of common vegetation types we saw. Look up others in the Plants database, linked above and in the Survey123.\n\nKentucky bluegrass: POPR\nCreeping charlie: PINU\nReed canary grass: PHAR3\nPerennial ryegrass: LOPE\nCommon dandelion: TAOF\nCrabgrass: DIGIT2\nWhite clover: TRRE3\nCommon Buckthorn: RHCA3",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#miscellaneous-field-notes-page-6",
     "href": "survey123-guide.html#miscellaneous-field-notes-page-6",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.7 Miscellaneous field notes– Page 6",
-    "text": "14.7 Miscellaneous field notes– Page 6\nEnter any site-level or other notes from the bottom right of the first page of the sheet here.\nCurrently there is no place to record Plot Radius or Break in the Landscape from page 1 of the description sheet, so please add it here\nDo not attach photos of the profile.",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.7 Miscellaneous field notes– Page 6",
+    "text": "15.7 Miscellaneous field notes– Page 6\nEnter any site-level or other notes from the bottom right of the first page of the sheet here.\nCurrently there is no place to record Plot Radius or Break in the Landscape from page 1 of the description sheet, so please add it here\nDo not attach photos of the profile.",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   },
   {
     "objectID": "survey123-guide.html#user-summary---page-7",
     "href": "survey123-guide.html#user-summary---page-7",
-    "title": "14  Entering Pedons into Survey123",
-    "section": "14.8 User summary - Page 7",
-    "text": "14.8 User summary - Page 7\nRemember to add any notes or questions you have in the notes document.\nLook over everything you entered and submit. Great job!\nNote from Ryder: it seems like Survey123 frequently misses color and structure for the last few horizons, so double check that those are still populated before submitting.\nNora has had a Survey123 glitch in the past where on horizon 3-4, the horizon color entry box disappears and I have to save and exit Survey123 altogether. I wonder if that’s what’s causing the missing data? Even if I repopulate it?",
+    "title": "15  Entering Pedons into Survey123",
+    "section": "15.8 User summary - Page 7",
+    "text": "15.8 User summary - Page 7\nRemember to add any notes or questions you have in the notes document.\nLook over everything you entered and submit. Great job!\nNote from Ryder: it seems like Survey123 frequently misses color and structure for the last few horizons, so double check that those are still populated before submitting.\nNora has had a Survey123 glitch in the past where on horizon 3-4, the horizon color entry box disappears and I have to save and exit Survey123 altogether. I wonder if that’s what’s causing the missing data? Even if I repopulate it?",
     "crumbs": [
       "Data Entry",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Entering Pedons into Survey123</span>"
     ]
   }
 ]
