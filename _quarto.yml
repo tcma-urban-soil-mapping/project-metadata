@@ -33,6 +33,7 @@ book:
       chapters:
       - minutes-17DEC2024-nic-nora.qmd
       - minutes-18APR2025-nic-nora.qmd
+      - curating-covariates-26JUN2025.qmd
     - part: "Data Entry"
       chapters: 
         - survey123-guide.qmd

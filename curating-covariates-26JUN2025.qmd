@@ -1,0 +1,38 @@
+# Curating Covariates 26JUN2025
+
+This is a running document detailing Nora's workflow curating covariates for covariate space coverage sampling and other modeling work.
+
+### Covariate List
+
+-   DEM and derivatives (DSM, nDSM, etc): from Whitebox Geospatial Tools
+-   Sentinel imagery: NDVI, SWDI, NIR; R, G, and B bands. Pulling all available bands for now
+-   Building footprints: from this layer, create a raster where each cell is an average distance to building OR density of building edges
+-   Impervious surfaces: from land cover dataset. Create a raster where each 10m cell has a value for the total area of impervious surface
+-   Census block age average/mean: likely from TIGER/line data
+-   Generalized land use: from MetCouncil. Raster where each 10m cell has a value for the dominant class.
+-   Annual average daily traffic: from MNDoT's point counts. Plan to use a road network layer to get a point count within that and use it to predict/calculate traffic.
+-   Size of road
+-   Average distance from road or street: planning on creating an index to assign each 10m cell a value to get an idea of traffic intensity.
+
+### Interpolation Methods:
+
+-   Categorical data (land use/land cover): Use nearest neighbor interpolation
+-   Continuous data (elevation, etc.): Use bilinear interpolation
+    -   Bilinear preferred over cubic to avoid values outside original data range
+    -   Cubic can produce unrealistic results (e.g., negative elevations in DEMs)
+
+### Data Processing Workflow:
+
+1.  Projection: Use UTM 15 North as standard projection for Minnesota data
+    -   Verify gNATSGO grid projection; reproject if necessary
+    -   Reproject all covariates to UTM 15 North
+2.  Spatial Extent: Clip all data to bounding box before processing
+    -   If original bounding box created in December 2024 works, use that, but if it's too extensive, create a new, smaller one around the AOI
+3.  Resolution Standardization: Align all data to 10-meter resolution gNATSGO grid
+    -   Downsampling: 30m data → 10m (interpolation required)
+    -   Aggregation: 1m data → 10m (majority filter for categorical data)
+4.  Documentation: Maintain spreadsheet tracking:
+    -   Dataset name and source
+    -   Raw resolution and coordinate system
+    -   Resampling method used
+    -   Interpolation algorithm applied

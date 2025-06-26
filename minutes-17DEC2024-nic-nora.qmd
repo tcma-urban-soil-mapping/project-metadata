@@ -29,7 +29,13 @@
 
 ### 3. Google Earth Engine Setup
 
-Registration Process: - Accessed through umn.edu account - Selected unpaid usage for education - Project type: Research - Created new Google Cloud project with Earth Engine integration - Completed Earth Engine registration
+Registration Process: 
+
+- Accessed through umn.edu account 
+- Selected unpaid usage for education 
+- Project type: Research 
+- Created new Google Cloud project with Earth Engine integration 
+- Completed Earth Engine registration
 
 ### 4. Google Cloud Console Configuration
 
@@ -40,7 +46,12 @@ Registration Process: - Accessed through umn.edu account - Selected unpaid usage
 
 ### 5. MSI (Minnesota Supercomputing Institute) Environment
 
-Jupyter Lab Setup: - Accessed through interactive apps - Selected Python 3.8.3 environment - Created new project folder: "tcma_covar_development" - Installed required package (e.g., geopandas)
+Jupyter Lab Setup: 
+
+- Accessed through interactive apps 
+- Selected Python 3.8.3 environment 
+- Created new project folder: "tcma_covar_development" 
+- Installed required package (e.g., geopandas)
 
 ### Technical Considerations
 
