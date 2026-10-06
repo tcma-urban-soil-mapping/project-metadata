@@ -2,12 +2,13 @@
 
 Number of pedons within concept: 31
 
-## Representative pedon ID(s):
+## Representative pedon ID(s)
+Not yet identified.
 
 ## Pedon IDs within concept:
 
 - 2024MN037023
-- 2024MN037044
+- 2024MN037044 - remove; 42 cm HTM
 - 2024MN053007
 - 2024MN053065
 - 2024MN053067
@@ -23,7 +24,7 @@ Number of pedons within concept: 31
 - 2025MN053018
 - 2025MN053061
 - 2025MN053064
-- 2025MN053065
+- 2025MN053065 - remove; 10 cm HTM
 - 2025MN053066
 - 2025MN053068
 - 2025MN053069
@@ -49,7 +50,7 @@ Number of pedons within concept: 31
 - Sand %:
 - Clay %:
 - Silt %:
-- HTM depth range:
+- 10th-90th percentile HTM depth range: 57-139 cm; median 79 cm
 - Depth to aquic conditions:
 - Bulk density range:
 - Carbon...
