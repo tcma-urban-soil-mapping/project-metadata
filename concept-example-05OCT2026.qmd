@@ -1,0 +1,57 @@
+# Glaciofluvial, thick HTM, Coarse-loamy HTM, WD (2,1,2,3)
+
+Number of pedons within concept: 31
+
+## Representative pedon ID(s):
+
+## Pedon IDs within concept:
+
+- 2024MN037023 
+- 2024MN037044 
+- 2024MN053007 
+- 2024MN053065 
+- 2024MN053067 
+- 2024MN053069 
+- 2024MN053071 
+- 2024MN123037 
+- 2024MN123143 
+- 2024MN123161 
+- 2024MN123173 
+- 2024MN123180 
+- 2025MN053013 
+- 2025MN053017 
+- 2025MN053018 
+- 2025MN053061 
+- 2025MN053064 
+- 2025MN053065 
+- 2025MN053066 
+- 2025MN053068 
+- 2025MN053069 
+- 2025MN053070 
+- 2025MN053161 
+- 2025MN053167 
+- 2025MN123074 
+- 2025MN123079 
+- 2025MN123114 
+- 2025MN123117 
+- 2025MN123173 
+- 2025MN139097 
+- 2025MN139099
+
+2026 pedons not yet assigned to concepts; not included in above list
+
+## Range of Characteristics
+
+- Thickness of epipedon:
+- Depth to carbonates:
+- Coarse fragment volume:
+- Artifact contents:
+- Sand %:
+- Clay %:
+- Silt %:
+- HTM depth range:
+- Depth to aquic conditions:
+- Bulk density range:
+- Carbon...
+
+## Distribution and Extent

@@ -1,0 +1,35 @@
+# Concept Card Template
+
+## Concept Name
+
+Number of pedons within concept:
+
+## Representative pedon ID(s)
+
+## Pedon IDs within concept
+
+## Range of Characteristics
+
+- Thickness of epipedon:
+- Depth to carbonates:
+- Coarse fragment volume:
+- Artifact contents:
+- Sand %:
+- Clay %:
+- Silt %:
+- HTM depth range:
+- Depth to aquic conditions:
+- Bulk density range:
+- Carbon...
+
+## Distribution and Extent
+
+## Questions
+
+- [ ] Other things to include in ROC? Different structure and information included in this section of OSDs
+- [ ] A horizon thickness instead of epipedon?
+- [ ] Include depth to carbonates?
+- [ ] Separate artifact and coarse fragment volume?
+- [ ] Include all lab data we have, minus pXRF?
+- [ ] How to split out bulk density? Surface horizon, second horizon, third horizon?
+- [ ] Continue conversation about Ksat/other hydraulic measurements?

@@ -37,8 +37,12 @@ book:
     - part: "Data Entry"
       chapters: 
         - survey123-guide.qmd
-    # - authorship-guidelines.qmd
-    - references.qmd
+    - part: "Concepts"
+      chapters:
+        - concept-card-template.qmd
+        - concept-example-05OCT2026.qmd
+  # - references.qmd
+  # - authorship-guidelines.qmd
   # appendices:
     # - co-authorship-template.qmd
     # - data-use-and-sharing.qmd
