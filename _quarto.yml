@@ -39,6 +39,7 @@ book:
         - survey123-guide.qmd
     - part: "Concepts"
       chapters:
+        - concept-key.qmd
         - concept-card-template.qmd
         - concept-example-05OCT2026.qmd
   # - references.qmd

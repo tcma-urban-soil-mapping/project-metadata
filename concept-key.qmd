@@ -1,0 +1,42 @@
+# Concept Key
+
+For each pedon, a geomorphic surface was selected, then the depth of human-transported material (HTM), generalized particle size class, and drainage class. The numbers preceding each item within a section were used to abbreviate concepts as four digit codes with each digit separated by a comma. For example, Glaciofluvial, thick HTM, Coarse-loamy HTM, WD could be abbreviated as 2,1,2,3.
+
+::: callout-tip
+HTM thickness was assumed if description depth was \< 50cm. Particle size class referred to HTM if HTM depth was thick or thin. If HTM depth was native (no HTM), particle size class referred to native soil. Drainage class was not included in the four digit simplified concept code for the VPD/PD geomorph (e.g., 2,1,3,2), but it was included in the narrative name.
+:::
+
+## Geomorphic/Primary Breaks
+
+1.  Sandy alluvium/glaciolacustrine
+2.  Glaciofluvial
+3.  Medium/fine textured till
+4.  Medium/coarse textured till
+5.  Fine/fine-silty glaciolacustrine
+6.  VPD/PD (wetlands landform)
+7.  Floodplain
+8.  Residuum
+
+## HTM Depth
+
+1.  Thick (\> 50cm)
+2.  Thin
+3.  Native
+4.  Impervious
+
+## HTM/Native Generalized Particle Size Class
+
+1.  Sandy/sandy-skeletal
+2.  Coarse-loamy
+3.  Fine-loamy
+4.  Silty
+5.  Fine
+6.  Contrasting
+7.  Loamy-skeletal
+8.  Organic
+
+## Drainage Class
+
+1. SWPD (25-50cm)
+2. MWD (50-100cm)
+3. WD (100+cm)
